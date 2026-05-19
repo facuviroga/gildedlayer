@@ -1,0 +1,14 @@
+{
+  "name": "sculpture-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "serve": "node -e \"const h=require('http'),f=require('fs'),p=require('path'); h.createServer((q,r)=>{let u=q.url.split('?')[0]; if(u==='/')u='/index.html'; const fp='.'+u; f.readFile(fp,(e,d)=>{if(e){r.writeHead(404);return r.end()} const ext=p.extname(fp).toLowerCase(); const ct={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.mjs':'text/javascript','.json':'application/json','.svg':'image/svg+xml','.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.ico':'image/x-icon'}[ext]||'application/octet-stream'; r.writeHead(200,{'Content-Type':ct});r.end(d);});}).listen(8080,()=>console.log('http://localhost:8080'));\""
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "yaml": "^2.5.0"
+  }
+}

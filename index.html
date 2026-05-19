@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GildedLayer · Esculturas Pintadas a Mano</title>
+  <meta name="description" content="GildedLayer — esculturas pintadas a mano por encargo. Personajes de videojuegos, anime, cine, series y cómics." />
+  <link rel="icon" type="image/jpeg" href="./assets/img/logo.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap site-header-inner">
+      <a class="brand" href="#top">
+        <img src="./assets/img/logo.jpg" alt="GildedLayer" class="brand-logo" />
+      </a>
+      <p class="tagline">Esculturas pintadas a mano por encargo. Personajes de videojuegos, anime, cine, series y cómics — impresos y pintados con detalle pieza por pieza.</p>
+      <p class="header-disclaimer">¿No lo ves en la galería? También trabajo a pedido — <a href="https://ig.me/m/gildedlayer" target="_blank" rel="noopener">contame qué buscás por Instagram</a>.</p>
+      <p class="contact">
+        <a href="https://ig.me/m/gildedlayer" target="_blank" rel="noopener">Encargar por Instagram →</a>
+      </p>
+    </div>
+  </header>
+
+  <nav class="filters wrap" aria-label="Filtros">
+    <div class="filters-row">
+      <div class="filter-group">
+        <button class="chip chip-quick is-active" data-filter-kind="featured" data-filter-value="all">Todas</button>
+        <button class="chip chip-quick" data-filter-kind="featured" data-filter-value="featured">★ Destacadas</button>
+      </div>
+      <input id="search" type="search" placeholder="Buscar por nombre, personaje o franquicia…" aria-label="Buscar" />
+    </div>
+
+    <div class="filter-section" id="tag-section">
+      <div class="filter-section-head">
+        <span class="filter-label">Categorías</span>
+        <input id="tag-search" type="search" placeholder="Filtrar categorías…" aria-label="Filtrar categorías" />
+        <button id="tag-clear" type="button" class="filter-link" hidden>Quitar filtro</button>
+        <button id="tag-toggle" type="button" class="filter-link filter-link-toggle" aria-expanded="false">Ver todas</button>
+      </div>
+      <div class="filter-group filter-group-tags" id="tag-filters" aria-label="Filtrar por categoría"></div>
+    </div>
+
+    <div class="filter-section">
+      <div class="filter-section-head">
+        <span class="filter-label">Escultores</span>
+        <button id="creator-clear" type="button" class="filter-link" hidden>Quitar escultor</button>
+      </div>
+      <div class="filter-group filter-group-creators" id="creator-filters" aria-label="Filtrar por escultor"></div>
+    </div>
+  </nav>
+
+  <main id="gallery" class="gallery wrap" aria-live="polite">
+    <p class="empty">Cargando esculturas…</p>
+  </main>
+
+  <section class="custom-cta wrap" aria-label="Pieza a medida">
+    <h2>¿No encontraste lo que buscás?</h2>
+    <p>Si tenés un personaje en mente que no aparece en la galería, contame cuál es y vemos si lo puedo conseguir o esculpir a medida. La galería muestra lo que tengo listo para imprimir y pintar, pero el catálogo de piezas que puedo conseguir es mucho más grande.</p>
+    <p><a class="cta-button" href="https://ig.me/m/gildedlayer" target="_blank" rel="noopener">Escribir por Instagram →</a></p>
+  </section>
+
+  <section id="contact" class="contact-section wrap">
+    <h2>¿Querés llevarte una a casa?</h2>
+    <p>Elegí la pieza que te guste y escribime por Instagram. Te paso plazos, tamaños disponibles y precio. También trabajo con referencias que vos me envíes.</p>
+    <ul class="contact-links">
+      <li><a href="https://ig.me/m/gildedlayer" target="_blank" rel="noopener">Chatear por Instagram →</a></li>
+      <li><a href="https://instagram.com/gildedlayer" target="_blank" rel="noopener">Ver el perfil @gildedlayer</a></li>
+    </ul>
+  </section>
+
+  <footer class="site-footer wrap">
+    <p>Las imágenes son © de sus creadores originales. Las piezas que ves acá son esculpidas por terceros y las imprimo y pinto a mano por encargo.</p>
+    <p><small>Última actualización: <span id="last-refresh">—</span></small></p>
+    <p><small>© GildedLayer</small></p>
+  </footer>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <button class="lightbox-close" aria-label="Cerrar">×</button>
+    <div class="lightbox-inner">
+      <img id="lightbox-img" alt="" />
+      <div class="lightbox-meta">
+        <h3 id="lightbox-title"></h3>
+        <p id="lightbox-creator"></p>
+        <p id="lightbox-desc"></p>
+        <div class="lightbox-actions">
+          <a id="lightbox-commission" href="https://ig.me/m/gildedlayer" target="_blank" rel="noopener">Encargar por Instagram →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="./assets/js/app.js" type="module"></script>
+</body>
+</html>

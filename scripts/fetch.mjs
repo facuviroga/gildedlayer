@@ -1,0 +1,637 @@
+// Fetches model metadata from each creator listed in data/creators.yaml
+// and writes the consolidated catalog to data/models.json.
+//
+// Run locally:   npm install && npm run fetch
+// Or via the daily GitHub Action (.github/workflows/refresh.yml).
+
+import { readFile, writeFile } from 'node:fs/promises';
+import { parse as parseYAML } from 'yaml';
+import * as cheerio from 'cheerio';
+
+const ROOT = new URL('..', import.meta.url);
+const CREATORS_FILE = new URL('data/creators.yaml', ROOT);
+const OUT_FILE      = new URL('data/models.json', ROOT);
+
+const UA = 'sculpture-portfolio/0.1 (+https://github.com/) - personal portfolio fetcher';
+
+// ---------- Helpers ----------
+
+function slugify(s) {
+  return String(s || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 80) || 'untitled';
+}
+
+async function fetchText(url, opts = {}) {
+  const res = await fetch(url, {
+    redirect: 'follow',
+    headers: { 'User-Agent': UA, 'Accept': '*/*', ...(opts.headers || {}) },
+  });
+  if (!res.ok) throw new Error(`${url} → HTTP ${res.status}`);
+  return await res.text();
+}
+
+async function fetchJSON(url, opts = {}) {
+  const res = await fetch(url, {
+    redirect: 'follow',
+    headers: { 'User-Agent': UA, 'Accept': 'application/json', ...(opts.headers || {}) },
+  });
+  if (!res.ok) throw new Error(`${url} → HTTP ${res.status}`);
+  return await res.json();
+}
+
+// Keyword → tag rules. Order doesn't matter; all matches are applied.
+// Matches use word boundaries so short keywords ("ken") don't match
+// substrings inside longer words ("kennedy"). Keep this list curated, not
+// exhaustive — false positives are worse than misses.
+//
+// Designed against the current catalog. When adding a new creator, scan
+// their titles and either extend an existing tag or add a new one for a
+// franchise with ~3+ items.
+// Each model can carry multiple tags. Broad GENRE tags (anime, videogames,
+// movies, cartoons, marvel, dc) + specific FRANCHISE tags (naruto, sekiro,
+// resident-evil). A model gets both — "Kratos" → [videogames, god-of-war].
+const KEYWORD_TAGS = [
+  // ===================== BROAD GENRES =====================
+  ['marvel', [
+    'marvel','avengers','x-men','x men','spider-man','spider man','spiderman','spider-punk','miles morales',
+    'iron man','iron patriot','hulkbuster','hulk','bruce banner','tony stark','steve rogers',
+    'wolverine','wolv','magneto','captain america','thor','odin','black panther','killmonger',
+    'rocket racoon','rocket raccoon','moon knight','deadpool','red hulk','jean grey','phoenix',
+    'scarlet witch','storm','mystique','colossus','venom','punisher','kingpin','apocalypse',
+    'loki','daredevil','professor x','cyclops','beast','nightcrawler','rogue','gambit',
+    'doctor strange','dr strange','dr. strange','cable','domino','star lord','star-lord',
+    'gamora','drax','groot','ant-man','ant man','vision','war machine','magik','lady deathstrike',
+    'ghost rider','thanos','red guardian','red skull','juggernaut','witchblade','maestro','sentry',
+    'blade','invincible','mark grayson',
+  ]],
+  ['dc', [
+    'dc comics','batman','superman','wonder woman','aquaman','flash','green lantern',
+    'green arrow','cyborg','joker','harley quinn','atrocitus','dr fate','dr. fate','shazam',
+    'captain cold','killer frost','kingdom come','red son','raven','starfire','beast boy',
+    'robin','nightwing','red hood','riddler','two face','two-face','penguin','darkseid',
+    'lobo','the main man','catwoman','poison ivy','black mask','martian manhunter','static shock',
+    'krypto','wondergirl','wonder girl','batgirl','batwoman','huntress','hawkgirl','artemis',
+    'black manta','deathstroke','cheetah','sinestro','reverse flash','classic superman',
+    'flashpoint','thomas wayne',
+  ]],
+  ['anime', [
+    'jujutsu','sukuna','ryomen','gojo','itadori','maki','yuta','yuji','toji',
+    'naruto','sasuke','itachi','jiraiya','madara','minato','kakashi','gaara','six paths of pain','maito gai',
+    'dragon ball','goku','vegeta','gohan','majin','cell','frieza','broly','ssj2','beerus','piccolo',
+    'one piece','luffy','zoro','sanji','nami','ace','law','doflamingo','mihawk','boa hancock','yamato','donquixote','vivi',
+    'demon slayer','tanjiro','nezuko','giyu','kyojuro','akaza','muzan',
+    'bleach','ichigo','ulquiorra','kenpachi','kon','vasto lorde',
+    'my hero academia','dark deku','deku','bakugo','all might','todoroki',
+    'hunter x hunter','hunterxhunter','killua','gon','hisoka','meruem','kurapika',
+    'attack on titan','eren','mikasa','levi',
+    'jojo','jotaro','dio brando',
+    'berserk','guts','griffith','femto','beast of darkness',
+    'ghost in the shell','motoko','kusanagi',
+    'inuyasha','sesshomaru',
+    'solo leveling','sung jinwoo','sung jin-woo','jin-woo','beru',
+    'dandadan','momo ayase',
+    'apothecary diaries','jinshi','maomao',
+    'black clover','asta','yuno','noelle',
+    'yu-gi-oh','yugioh','dark magician','kaiba','blue-eyes','exodia','pharaon',
+    'vinland saga','thorfinn','askeladd',
+    'hellsing','alucard',
+    'spirited away','chihiro','kaonashi','howl','sophie','totoro','princess mononoke','studio ghibli',
+    'frieren',
+    'soul eater','lord death',
+    'fairy tail','natsu','erza',
+    'saint seiya','shiryu','pegasus seiya',
+    'kaiju no.8','kaiju n.8','kaiju number 8',
+    'fate/stay night','fate stay night','fate/grand order','rin tohsaka',
+    'devilman','akira fudo',
+    'cowboy bebop','spike spiegel',
+    'full metal alchemist','fullmetal alchemist','edward elric','alphonse elric',
+    'death note','light yagami','l lawliet','ryuk',
+    'gachiakuta','rudo',
+    'anime',
+  ]],
+  ['videogames', [
+    'sekiro','isshin','ashina','kratos','god of war','atreus',
+    'resident evil','leon kennedy','leon s. kennedy','jill valentine','nemesis','tyrant','chris redfield','ada wong',
+    'gears of war','dominic santiago','marcus fenix',
+    'mortal kombat','scorpion','sub-zero','sub zero','raiden','goro','liu kang','kitana','sonya blade','noob saibot',
+    'mega man','crash bandicoot','super mario','mario bros','luigi','bowser','toad','yoshi','peach',
+    'sonic the hedgehog','sonic','tails the fox','knuckles','dr robotnik',
+    'lara croft','tomb raider','arthur morgan','red dead','grand theft auto','cj gta',
+    'geralt','witcher','ciri','yennefer','triss',
+    'dante','vergil','nero','devil may cry',
+    'bayonetta','cuphead','mugman',
+    'league of legends','twitch','jinx','vi','garen','overwatch','tracer','d.va','genji','reinhardt',
+    'cyberpunk','johnny silverhand',
+    'dark souls','bloodborne','elden ring','radahn','malenia',
+    'samus','samus aran','metroid','zelda','link','ganondorf',
+    'street fighter','chun-li','chun li','m. bison','ryu','ken masters',
+    'portal bots','p-body','atlas','wheatley','glados',
+    'final fantasy','chocobo','cloud strife','sephiroth','tifa','aerith','terra','kefka',
+    'assassin\'s creed','assassins creed','ezio','altair',
+    'metal gear','big boss','solid snake','snake',
+    'skyrim','dovahkiin','dragonborn','elder scrolls',
+    'darksiders','horsemen',
+    'kingdom hearts','sora kh',
+    'metal slug','tarma','tarma roving',
+    'hollow knight','silksong','hornet',
+    'hades game','zagreus',
+    'ori and the blind forest',
+    'prince of persia',
+    'it takes two',
+    'flash gordon ship','flash gordon',
+    'video game','videogame',
+  ]],
+  ['movies', [
+    'matrix','neo','trinity','jurassic','t-rex','alan grant','sinners','remmick',
+    'john wick','terminator','predator','xenomorph','ripley','jack sparrow',
+    'pirates of the caribbean','wall-e','wall e','iron giant','grinch','coraline','neytiri',
+    'avatar pandora','hiccup','toothless','gandalf','balrog','lord of the rings','frodo','aragorn',
+    'sauron','back to the future','marty mcfly','doc brown','ghostbusters','slimer',
+    'stay puft','star trek','spock','indiana jones','rocky balboa','top gun','maverick movie',
+    'transformers','megatron','optimus prime','bumblebee','starscream',
+    'puss in boots','jack skellington','nightmare before christmas',
+  ]],
+  ['cartoons', [
+    'snoopy','pink panther','mad hatter','johnny bravo','disney','rick and morty',
+    'phineas and ferb','spongebob','woody woodpecker','asterix','obelix','looney tunes',
+    'bugs bunny','daffy duck','coyote','road runner','scooby','shaggy','tom and jerry',
+    'hank','sheila','venger','grinch','michelangelo','donatello','raphael','leonardo',
+    'master splinter','tmnt','ninja turtles','lion o','skeletor','he-man','mr incredible',
+    'mr. incredible','wall-e','wall e','iron giant','cinderella','stitch','buzz light',
+    'mickey mouse','mike and sully','last ronin','taz','ed edd','double d','eddy',
+    'courage the cowardly dog','rapunzel','uni the unicorn','chip and dale',
+    'power ranger','power rangers','red ranger','green ranger','blue ranger','pink ranger',
+    'invincible','mark grayson',
+  ]],
+  ['horror', [
+    'jason','freddy krueger','michael myers','pennywise','ghostface','leatherface',
+    'chucky','child\'s play','it the clown','the clown','demogorgon','stranger things',
+    'jack torrance','the shining','pinhead','hellraiser','sadako','samara','annabelle',
+    'sinners','remmick','john wick',
+  ]],
+  ['tv-shows', [
+    'walter white','breaking bad','dexter morgan','dexter','arcane','rick and morty',
+    'stranger things','game of thrones','invincible','the boys','mark grayson',
+  ]],
+  ['celebrities', ['stan lee','michael jackson']],
+
+  // ===================== FRANCHISE / TITLE TAGS =====================
+  // Comic ecosystems
+  ['x-men',           ['x-men','x men','wolverine','logan','magneto','professor x','mystique','jean grey','phoenix','cyclops','beast','nightcrawler','rogue','gambit','sabretooth','colossus','storm','juggernaut','lady deathstrike','magik']],
+  ['avengers',        ['avengers','iron man','hulk','captain america','thor','black widow','hawkeye','scarlet witch','vision','war machine','endgame']],
+  ['spider-verse',    ['spider-man','spider man','spider-punk','miles morales','peter parker']],
+  ['the-boys',        ['homelander','soldier boy','butcher','starlight','black noir','a-train','the boys']],
+  ['spawn',           ['spawn']],
+  ['hellboy',         ['hellboy','right hand of doom']],
+  ['tmnt',            ['tmnt','ninja turtles','donatello','raphael','michelangelo','leonardo','master splinter','last ronin','foot clan','shredder','krang']],
+  ['masters-of-the-universe', ['he-man','skeletor','masters of the universe','motu','teela','beastman']],
+  ['thundercats',     ['thundercats','lion o','lion-o','cheetara','mum-ra','mum ra','panthro','wilykat']],
+  ['power-rangers',   ['power ranger','power rangers','red ranger','green ranger','blue ranger','pink ranger']],
+  ['invincible',      ['invincible','mark grayson','omni-man','omni man']],
+  ['witchblade',      ['witchblade']],
+  ['transformers',    ['transformers','megatron','optimus prime','bumblebee','starscream']],
+  ['darksiders',      ['darksiders','horsemen']],
+  // Movies / cinematic
+  ['star-wars',       ['mandalorian','grogu','star wars','jedi','sith','baby yoda','ahsoka','darth vader','darth maul','obi-wan','obi wan','luke skywalker','han solo','boba fett','yoda','samurai ahsoka']],
+  ['lotr',            ['gandalf','balrog','lord of the rings','frodo','aragorn','sauron','gollum','legolas','gimli']],
+  ['harry-potter',    ['harry potter','hogwarts','voldemort','dumbledore','snape','hermione','ron weasley']],
+  ['pirates',         ['jack sparrow','pirates of the caribbean','davy jones']],
+  ['matrix',          ['matrix','neo','trinity','morpheus','agent smith']],
+  ['back-to-the-future', ['back to the future','marty mcfly','doc brown','delorean']],
+  ['ghostbusters',    ['ghostbusters','slimer','stay puft']],
+  ['avatar-movie',    ['neytiri','avatar pandora']],
+  ['jurassic-park',   ['jurassic','t-rex','alan grant','velociraptor']],
+  ['terminator',      ['terminator','t-800','t-1000','sarah connor']],
+  ['alien-predator',  ['xenomorph','predator','ripley','aliens diorama','aliens sculpture','aliens bust']],
+  ['pixar-disney',    ['mickey mouse','mr incredible','mr. incredible','mike and sully','sully','buzz light','cinderella','stitch','wall-e','wall e','iron giant','coraline','hiccup','toothless','rapunzel','chip and dale','puss in boots']],
+  ['rocky',           ['rocky balboa','apollo creed','ivan drago']],
+  ['indiana-jones',   ['indiana jones']],
+  ['top-gun',         ['top gun','maverick movie']],
+  ['studio-ghibli',   ['spirited away','chihiro','kaonashi','howl','sophie','totoro','princess mononoke','studio ghibli']],
+  // Anime / manga franchises
+  ['jujutsu-kaisen',  ['jujutsu kaisen','jujutsu','sukuna','ryomen','gojo','itadori','maki','yuta','yuji','toji']],
+  ['naruto',          ['naruto','sasuke','itachi','jiraiya','madara','minato','kakashi','gaara','six paths of pain','maito gai']],
+  ['dragon-ball',     ['dragon ball','goku','vegeta','gohan','majin','cell','frieza','broly','ssj2','beerus','piccolo']],
+  ['one-piece',       ['one piece','luffy','zoro','sanji','nami','ace','law','doflamingo','mihawk','boa hancock','yamato','donquixote','shanks','red hair shanks']],
+  ['demon-slayer',    ['demon slayer','tanjiro','nezuko','giyu','kyojuro','akaza','muzan']],
+  ['bleach',          ['bleach','ichigo','ulquiorra','kenpachi','kon','vasto lorde']],
+  ['my-hero-academia',['my hero academia','dark deku','deku','bakugo','all might','todoroki']],
+  ['hunter-x-hunter', ['hunter x hunter','hunterxhunter','killua','gon','hisoka','meruem','kurapika']],
+  ['attack-on-titan', ['attack on titan','eren','mikasa','levi']],
+  ['jojo',            ['jojo','jotaro','dio brando']],
+  ['berserk',         ['berserk','guts','griffith','femto','beast of darkness','behelit']],
+  ['ghost-in-the-shell', ['ghost in the shell','motoko','kusanagi']],
+  ['inuyasha',        ['inuyasha','sesshomaru']],
+  ['solo-leveling',   ['solo leveling','sung jinwoo','sung jin-woo','jin-woo','beru']],
+  ['dandadan',        ['dandadan','momo ayase']],
+  ['apothecary-diaries', ['apothecary diaries','jinshi','maomao']],
+  ['black-clover',    ['black clover','asta','yuno']],
+  ['yugioh',          ['yu-gi-oh','yugioh','dark magician','kaiba','blue-eyes','exodia']],
+  ['vinland-saga',    ['vinland saga','thorfinn','askeladd']],
+  ['hellsing',        ['hellsing','alucard']],
+  ['frieren',         ['frieren']],
+  ['soul-eater',      ['soul eater','lord death']],
+  ['fairy-tail',      ['fairy tail','natsu fairy','erza']],
+  ['saint-seiya',     ['saint seiya','pegasus seiya','shiryu']],
+  ['kaiju-no-8',      ['kaiju no.8','kaiju n.8','kaiju n8','kaiju number 8','soshiro hoshina']],
+  ['fate-series',     ['fate/stay night','fate stay night','fate/grand order','rin tohsaka']],
+  ['devilman',        ['devilman','akira fudo']],
+  ['cowboy-bebop',    ['cowboy bebop','spike spiegel']],
+  ['fullmetal-alchemist', ['full metal alchemist','fullmetal alchemist','edward elric','alphonse elric']],
+  ['death-note',      ['death note','light yagami','l lawliet','ryuk']],
+  ['one-punch-man',   ['one punch man','onepunch man','saitama','garou','puri-puri']],
+  ['tokyo-ghoul',     ['tokyo ghoul','ken kaneki','kaneki','touka kirishima']],
+  ['fire-force',      ['fire force','shinra kusakabe','benimaru shinmon']],
+  ['dr-stone',        ['dr stone','dr. stone','senku ishigami']],
+  ['trigun',          ['trigun','vash the stampede']],
+  ['chainsaw-man',    ['chainsaw man','chainsawman','denji','pochita','makima','power x meowy','aki hayakawa','fox devil']],
+  ['avatar-last-airbender', ['avatar: the last airbender','last airbender','aang','appa','momo aang','zuko','azula','korra']],
+  ['evangelion',      ['neon genesis evangelion','rei ayanami','asuka langley','shinji ikari']],
+  ['seven-deadly-sins', ['seven deadly sins','meliodas','elizabeth seven','escanor']],
+  ['shangri-la',      ['shangri la frontier','shangri-la','sunraku']],
+  ['sakamoto-days',   ['sakamoto days','sakamoto day','taro sakamoto','shin asakura']],
+  ['spy-x-family',    ['spy x family','spyxfamily','loid forger','yor forger','anya forger','loid x yor']],
+  ['shin-chan',       ['shin chan','shin-chan']],
+  ['yuyu-hakusho',    ['yuyu hakusho','yu yu hakusho','hiei','kurama yuyu','yusuke']],
+  // Videogame franchises
+  ['sekiro',          ['sekiro','isshin','ashina','sekiro shadows die twice']],
+  ['god-of-war',      ['god of war','kratos','atreus']],
+  ['gears-of-war',    ['gears of war','dominic santiago','marcus fenix']],
+  ['resident-evil',   ['resident evil','leon kennedy','leon s. kennedy','jill valentine','nemesis','tyrant','chris redfield','ada wong']],
+  ['mortal-kombat',   ['mortal kombat','scorpion','sub-zero','sub zero','raiden','goro','liu kang','kitana','sonya blade','noob saibot']],
+  ['street-fighter',  ['street fighter','chun-li','chun li','m. bison','ryu','ken masters']],
+  ['mega-man',        ['mega man','megaman','megaman x']],
+  ['crash-bandicoot', ['crash bandicoot']],
+  ['super-mario',     ['super mario','mario bros','luigi','bowser','toad','yoshi','peach','princess daisy','daisy mario']],
+  ['sonic',           ['sonic the hedgehog','sonic','tails the fox','knuckles','dr robotnik']],
+  ['tomb-raider',     ['lara croft','tomb raider']],
+  ['red-dead',        ['red dead','arthur morgan','john marston']],
+  ['gta',             ['grand theft auto','gta','cj gta']],
+  ['the-witcher',     ['witcher','geralt','ciri','yennefer','triss']],
+  ['devil-may-cry',   ['devil may cry','dante','vergil','nero']],
+  ['bayonetta',       ['bayonetta']],
+  ['cuphead',         ['cuphead','mugman']],
+  ['league-of-legends', ['league of legends','twitch','jinx','vi','garen','viego','nidalee','ashe','evelynn','yasuo','ahri','akali','zed']],
+  ['overwatch',       ['overwatch','tracer','d.va','genji','reinhardt']],
+  ['cyberpunk',       ['cyberpunk','johnny silverhand']],
+  ['dark-souls',      ['dark souls']],
+  ['bloodborne',      ['bloodborne']],
+  ['elden-ring',      ['elden ring','radahn','malenia']],
+  ['metroid',         ['metroid','samus aran','samus']],
+  ['zelda',           ['legend of zelda','link','ganondorf','zelda']],
+  ['final-fantasy',   ['final fantasy','chocobo','cloud strife','sephiroth','tifa','aerith','terra','kefka']],
+  ['assassins-creed', ['assassin\'s creed','assassins creed','ezio','altair']],
+  ['portal',          ['portal bots','p-body','atlas','wheatley','glados']],
+  ['metal-gear',      ['metal gear','big boss','solid snake']],
+  ['skyrim',          ['skyrim','dovahkiin','dragonborn','elder scrolls']],
+  ['kingdom-hearts',  ['kingdom hearts','sora kh','riku kh']],
+  ['metal-slug',      ['metal slug','tarma roving']],
+  ['hollow-knight',   ['hollow knight','silksong','hornet']],
+  ['hades',           ['hades game','zagreus']],
+  ['ori',             ['ori and the blind forest']],
+  ['prince-of-persia',['prince of persia']],
+  ['it-takes-two',    ['it takes two']],
+  ['pokemon',         ['pokemon','pokémon','mewtwo','wobbuffet','voltorb','pikachu','charizard','gen 10 starters']],
+  ['halo',            ['halo','master chief','cortana']],
+  ['star-fox',        ['star fox','fox mccloud','starfox']],
+  ['nier',            ['nier','nier: automata','nier automata','2b - nier']],
+  ['darkstalkers',    ['darkstalkers','morrigan']],
+  ['guilty-gear',     ['guilty gear','bridget']],
+  ['silent-hill',     ['silent hill','pyramid head']],
+  ['fallout',         ['fallout','vault boy']],
+  ['soul-reaver',     ['soul reaver','raziel']],
+  ['warcraft',        ['warcraft','world of warcraft','illidan stormrage','illidan']],
+  ['digimon',         ['digimon','agumon','gabumon','tai x agumon']],
+  ['spyro',           ['spyro the dragon','spyro']],
+  ['bomberman',       ['bomberman']],
+  ['ben-10',          ['ben 10','grey matter ben 10','heatblast']],
+  ['popeye',          ['popeye','bluto']],
+  ['gargoyles',       ['gargoyles','goliath']],
+
+  // ===================== FORM FACTOR =====================
+  ['busts',           ['bust','portrait']],
+  ['sculptures',      ['sculpture','statue']],
+  ['dioramas',        ['diorama']],
+  ['chibi',           ['chibi']],
+  ['thrones',         ['throne']],
+  ['book-holders',    ['book holder','bookholder','bookend','book ends']],
+  ['weapons',         ['blaster','sword','hammer','gauntlet','axe','spear']],
+];
+
+const escapeRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const KEYWORD_RX = KEYWORD_TAGS.map(([tag, kws]) => [
+  tag,
+  new RegExp('\\b(?:' + kws.map(escapeRe).join('|') + ')\\b', 'i'),
+]);
+
+// Hard exclusions: titles matching any of these are dropped entirely.
+// Covers life-size props, mass bundles, and oversized scale props.
+const EXCLUDE_PATTERNS = [
+  /\blife.?size(d)?\b/i,
+  /\b(welcome|halloween|promo|swag|fathers?\s+day)\s+pack\b/i,
+  /\ball\s+collection\b/i,
+  /\bblack\s+friday\b/i,
+  /collection:\s*weapons/i,
+  /\b\d+:1\s+scale\b/i,
+  // Patreon-style subscription tier listings (not models).
+  /\b(standard|premium|gold|silver|bronze)\s+tier\b/i,
+  /\bterm\b.*\btier\b/i,
+];
+
+// Standalone-prop detector: title has a weapon keyword but no sculpture
+// marker. Narrow keyword list — excludes mask/helmet/shield on purpose
+// because those frequently refer to characters ("The Mask", "Black Mask",
+// "Captain America" with shield bust, etc).
+const PROP_KEYWORDS = /\b(blaster|sword|hammer|axe|spear|gun|rifle|pistol|staff)\b/i;
+const SCULPTURE_MARKERS = /\b(sculpture|sculptures|bust|portrait|figure|diorama|statue)\b/i;
+
+function shouldExclude(title) {
+  if (!title) return true;
+  for (const rx of EXCLUDE_PATTERNS) if (rx.test(title)) return true;
+  if (PROP_KEYWORDS.test(title) && !SCULPTURE_MARKERS.test(title)) return true;
+  return false;
+}
+
+function inferTags(text) {
+  const hay = text || '';
+  const out = new Set();
+  for (const [tag, rx] of KEYWORD_RX) {
+    if (rx.test(hay)) out.add(tag);
+  }
+  return [...out];
+}
+
+function makeModel({ creator, title, image, source_url, description, tags, extraTags }) {
+  const id = `${slugify(creator)}--${slugify(title || source_url)}`;
+  const auto = inferTags(`${title || ''} ${description || ''}`);
+  return {
+    id,
+    slug: slugify(title || source_url),
+    title: title || 'Untitled',
+    creator,
+    image,
+    source_url,
+    description: description || '',
+    tags: [...new Set([...(tags || []), ...(extraTags || []), ...auto])].filter(Boolean),
+    featured: false,
+  };
+}
+
+// ---------- Adapters ----------
+
+const adapters = {
+  // MyMiniFactory public API. The user portion of the URL is the username.
+  async myminifactory(creator) {
+    const m = creator.url.match(/myminifactory\.com\/users\/([^/?#]+)/i);
+    if (!m) throw new Error(`Can't parse MyMiniFactory username from ${creator.url}`);
+    const username = m[1];
+    const limit = creator.limit || 24;
+    const api = `https://www.myminifactory.com/api/v2/users/${encodeURIComponent(username)}/objects?per_page=${limit}`;
+    const data = await fetchJSON(api);
+    const items = data.items || data.objects || data.data || [];
+    return items.map(it => makeModel({
+      creator: creator.name,
+      title: it.name || it.title,
+      image: it.images?.[0]?.thumbnail?.url || it.images?.[0]?.original?.url || it.preview_image,
+      source_url: it.url || `https://www.myminifactory.com/object/${it.id}`,
+      description: (it.short_description || '').slice(0, 280),
+      tags: it.tags?.map(t => slugify(t.name || t)).slice(0, 4),
+      extraTags: creator.tags,
+    })).filter(m => m.image);
+  },
+
+  // Gumroad shop pages are Inertia.js apps. The HTML embeds the first page
+  // of products per section in <div id="app" data-page=...>. To get the rest,
+  // we hit /products/search?user_id={creator_external_id}&section_id={id}&from=N
+  // which is the real endpoint Gumroad's React frontend uses.
+  // Routes: app/controllers/links_controller.rb#search (antiwork/gumroad).
+  async gumroad(creator) {
+    const html = await fetchText(creator.url);
+    const $ = cheerio.load(html);
+    const raw = $('#app').attr('data-page');
+    if (!raw) throw new Error('missing #app[data-page] (Gumroad page shape changed?)');
+    let data;
+    try { data = JSON.parse(raw); }
+    catch (e) { throw new Error(`could not parse Inertia payload: ${e.message}`); }
+
+    const userExtId = data?.props?.creator_profile?.external_id;
+    if (!userExtId) throw new Error('missing creator_profile.external_id');
+    const sections = (data?.props?.sections || [])
+      .filter(s => s?.type === 'SellerProfileProductsSection' && s?.id);
+
+    const host = new URL(creator.url).host;
+    const seen = new Set();
+    const out = [];
+    const PAGE = 50;
+    const cap = creator.limit ?? Infinity; // full catalog by default; override via creators.yaml `limit:`
+
+    const pushProduct = (p) => {
+      if (!p?.permalink || seen.has(p.permalink)) return false;
+      if (!p.thumbnail_url || !p.name) return false;
+      seen.add(p.permalink);
+      const fullUrl = (p.url || `https://${host}/l/${p.permalink}`).split('?')[0];
+      out.push(makeModel({
+        creator: creator.name,
+        title: p.name,
+        image: p.thumbnail_url,
+        source_url: fullUrl,
+        extraTags: creator.tags,
+      }));
+      return true;
+    };
+
+    for (const section of sections) {
+      if (out.length >= cap) break;
+      // Seed from the section payload already embedded in the HTML.
+      for (const p of (section.search_results?.products || [])) {
+        if (out.length >= cap) break;
+        pushProduct(p);
+      }
+      // Paginate the rest via the search API.
+      const total = section.search_results?.total ?? 0;
+      let from = section.search_results?.products?.length ?? 0;
+      while (from < total && out.length < cap) {
+        const apiUrl = `https://gumroad.com/products/search?user_id=${encodeURIComponent(userExtId)}&section_id=${encodeURIComponent(section.id)}&from=${from}&size=${PAGE}`;
+        let page;
+        try {
+          page = await fetchJSON(apiUrl);
+        } catch (e) {
+          // Don't kill the whole section on a single page failure — log and stop paginating this section.
+          console.error(`    ! page from=${from} failed: ${e.message}`);
+          break;
+        }
+        const pageProducts = page?.products || [];
+        if (!pageProducts.length) break;
+        let added = 0;
+        for (const p of pageProducts) {
+          if (out.length >= cap) break;
+          if (pushProduct(p)) added++;
+        }
+        from += pageProducts.length;
+        // Be polite — small delay between requests.
+        await new Promise(r => setTimeout(r, 250));
+        // Safety: if nothing new came back, stop to avoid an infinite loop.
+        if (added === 0 && pageProducts.length < PAGE) break;
+      }
+    }
+    return out;
+  },
+
+  // Payhip shop page.
+  async payhip(creator) {
+    const html = await fetchText(creator.url);
+    const $ = cheerio.load(html);
+    const out = [];
+    $('a.product-card, a[href*="/b/"]').each((_, el) => {
+      const $a = $(el);
+      const href = $a.attr('href') || '';
+      const url = href.startsWith('http') ? href : new URL(href, creator.url).toString();
+      const img = $a.find('img').attr('src') || $a.find('img').attr('data-src');
+      const title = $a.find('h3, .product-card__title').first().text().trim()
+                 || $a.find('img').attr('alt');
+      if (url && img && title) {
+        out.push(makeModel({
+          creator: creator.name,
+          title, image: img, source_url: url,
+          extraTags: creator.tags,
+        }));
+      }
+    });
+    return out.slice(0, creator.limit || 24);
+  },
+
+  // ArtStation has a public-ish projects JSON endpoint per user.
+  async artstation(creator) {
+    const m = creator.url.match(/artstation\.com\/([^/?#]+)/i);
+    if (!m) throw new Error(`Can't parse ArtStation username from ${creator.url}`);
+    const username = m[1];
+    const limit = creator.limit || 24;
+    const api = `https://www.artstation.com/users/${encodeURIComponent(username)}/projects.json?page=1`;
+    const data = await fetchJSON(api, { headers: { 'Accept': 'application/json' } });
+    const items = (data.data || []).slice(0, limit);
+    return items.map(it => makeModel({
+      creator: creator.name,
+      title: it.title,
+      image: it.cover?.thumb_url || it.cover?.medium_url || it.cover_url,
+      source_url: it.permalink,
+      description: '',
+      extraTags: creator.tags,
+    })).filter(m => m.image);
+  },
+
+  // Tribes creator page (best-effort scraper).
+  async tribes(creator) {
+    const html = await fetchText(creator.url);
+    const $ = cheerio.load(html);
+    const out = [];
+    $('a[href*="/post/"], a[href*="/model/"]').each((_, el) => {
+      const $a = $(el);
+      const href = $a.attr('href') || '';
+      const url = href.startsWith('http') ? href : new URL(href, creator.url).toString();
+      const img = $a.find('img').attr('src') || $a.find('img').attr('data-src');
+      const title = ($a.attr('title') || $a.find('img').attr('alt') || $a.text()).trim();
+      if (url && img && title) {
+        out.push(makeModel({
+          creator: creator.name,
+          title, image: img, source_url: url,
+          extraTags: creator.tags,
+        }));
+      }
+    });
+    return out.slice(0, creator.limit || 24);
+  },
+
+  // OpenGraph fallback. Treats the page itself as a single piece.
+  // Useful for individual-product links you want to feature.
+  async generic(creator) {
+    const html = await fetchText(creator.url);
+    const $ = cheerio.load(html);
+    const og = name => $(`meta[property="og:${name}"]`).attr('content')
+                    || $(`meta[name="og:${name}"]`).attr('content')
+                    || $(`meta[name="twitter:${name}"]`).attr('content');
+    const title = og('title') || $('title').first().text().trim();
+    const image = og('image');
+    const description = og('description') || '';
+    if (!image) return [];
+    return [makeModel({
+      creator: creator.name,
+      title, image,
+      source_url: creator.url,
+      description: description.slice(0, 280),
+      extraTags: creator.tags,
+    })];
+  },
+};
+
+// ---------- Main ----------
+
+function applyFeatured(models, featuredList) {
+  if (!featuredList?.length) return;
+  const wanted = new Set(featuredList.map(slugify));
+  for (const m of models) {
+    if (wanted.has(m.slug) || wanted.has(slugify(m.title))) m.featured = true;
+  }
+}
+
+async function main() {
+  const raw = await readFile(CREATORS_FILE, 'utf8');
+  const cfg = parseYAML(raw) || {};
+  const creators = cfg.creators || [];
+
+  const allModels = [];
+  const errors = [];
+
+  for (const creator of creators) {
+    const adapter = adapters[creator.platform];
+    if (!adapter) {
+      errors.push(`Unknown platform "${creator.platform}" for ${creator.name}`);
+      continue;
+    }
+    if (creator.url.includes('EXAMPLE')) {
+      console.log(`skip placeholder: ${creator.name}`);
+      continue;
+    }
+    try {
+      console.log(`fetch ${creator.platform}: ${creator.name}`);
+      const items = await adapter(creator);
+      applyFeatured(items, creator.featured);
+      console.log(`  ↳ ${items.length} models`);
+      allModels.push(...items);
+    } catch (err) {
+      const msg = `[${creator.name}] ${err.message}`;
+      console.error('  !', msg);
+      errors.push(msg);
+    }
+  }
+
+  // De-dup by id
+  const seen = new Map();
+  for (const m of allModels) {
+    if (!seen.has(m.id)) seen.set(m.id, m);
+  }
+  const deduped = [...seen.values()];
+
+  // Drop lifesize props, bundles, and standalone weapons (no character sculpt).
+  const kept = [];
+  const dropped = [];
+  for (const m of deduped) {
+    if (shouldExclude(m.title)) dropped.push(m.title);
+    else kept.push(m);
+  }
+
+  const out = {
+    generated_at: new Date().toISOString(),
+    count: kept.length,
+    excluded_count: dropped.length,
+    errors,
+    models: kept,
+  };
+  await writeFile(OUT_FILE, JSON.stringify(out, null, 2), 'utf8');
+  console.log(`wrote ${kept.length} models → data/models.json (${dropped.length} excluded as bundles/props)`);
+  if (errors.length) console.log(`(${errors.length} errors — see file)`);
+}
+
+main().catch(err => { console.error(err); process.exit(1); });

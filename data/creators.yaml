@@ -1,0 +1,71 @@
+# =====================================================================
+#  Your curated list of digital sculptors.
+#
+#  The daily refresh job reads this file, calls the right adapter per
+#  platform, and writes data/models.json — which the website displays.
+#
+#  Supported `platform` values:
+#    myminifactory  — uses public API (most reliable)
+#    gumroad        — scrapes product pages
+#    payhip         — scrapes shop page
+#    artstation     — uses public projects feed
+#    tribes         — scrapes creator page
+#    generic        — falls back to OpenGraph tags
+#
+#  Fields:
+#    name      (required) — Display name shown in the gallery
+#    platform  (required) — One of the values above
+#    url       (required) — Their shop/portfolio page
+#    tags      (optional) — Categories applied to every model from them
+#    featured  (optional) — List of model slugs to mark as ⭐ Featured.
+#    limit     (optional) — Max models to pull (default: 24)
+# =====================================================================
+
+creators:
+  - name: "Zenith Collectibles"
+    platform: gumroad
+    url: "https://zenithcollectibles.gumroad.com/"
+    tags: []
+    featured: []
+
+  - name: "3D Wicked"
+    platform: gumroad
+    url: "https://3dwicked.gumroad.com/"
+    tags: []
+    featured: []
+
+  - name: "Zez Collectibles"
+    platform: gumroad
+    url: "https://zezcollectibles.gumroad.com/"
+    tags: []
+    featured: []
+
+  - name: "Rechtag Studio"
+    platform: gumroad
+    url: "https://rechtagstudio.gumroad.com/"
+    tags: []
+    featured: []
+
+  - name: "Tooniverse83"
+    platform: gumroad
+    url: "https://tooniverse83.gumroad.com/"
+    tags: [cartoons]
+    featured: []
+
+  - name: "B3DSerk"
+    platform: gumroad
+    url: "https://b3dserk.gumroad.com/"
+    tags: []
+    featured: []
+
+  - name: "Tanuki Figures"
+    platform: gumroad
+    url: "https://tanukifigures.gumroad.com/"
+    tags: []
+    featured: []
+
+  - name: "Kaidan 3D"
+    platform: gumroad
+    url: "https://kaidan3d.gumroad.com/"
+    tags: []
+    featured: []
