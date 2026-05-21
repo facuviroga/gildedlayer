@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T09:55:45.995Z",
-  "count": 1909,
+  "generated_at": "2026-05-21T10:04:51.720Z",
+  "count": 1910,
   "excluded_count": 28,
   "errors": [],
   "models": [
@@ -12275,6 +12275,20 @@
       "description": "",
       "tags": [
         "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-punisher-born-again-sculpture-tested-and-ready-for",
+      "slug": "wicked-marvel-april-2026-term-punisher-born-again-sculpture-tested-and-ready-for",
+      "title": "Wicked Marvel April 2026 Term Punisher Born Again Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/lsp73h319gerly3h5o00if0agc1z",
+      "source_url": "https://3dwicked.gumroad.com/l/PunisherBornAgainS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "sculptures"
       ],
       "featured": false
     },
