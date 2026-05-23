@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-05-22T09:51:13.358Z",
-  "count": 1910,
+  "generated_at": "2026-05-23T08:32:28.167Z",
+  "count": 1914,
   "excluded_count": 28,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--tmnt-pack",
+      "slug": "tmnt-pack",
+      "title": "TMNT PACK",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/23s8e33zvyxbwmxkwghk9aj2vcw1",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/xpkrt",
+      "description": "",
+      "tags": [
+        "cartoons",
+        "tmnt"
+      ],
+      "featured": false
+    },
+    {
+      "id": "zenith-collectibles--raphael-tmnt-3d-print",
+      "slug": "raphael-tmnt-3d-print",
+      "title": "RAPHAEL TMNT 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/3r0a6znmutdp5anc9v4wfq54t8yu",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/traem",
+      "description": "",
+      "tags": [
+        "cartoons",
+        "tmnt"
+      ],
+      "featured": false
+    },
     {
       "id": "zenith-collectibles--mickey-mouse-3d-print",
       "slug": "mickey-mouse-3d-print",
@@ -12308,6 +12336,20 @@
       "featured": false
     },
     {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-punisher-born-again-portrait-bust-tested-and-ready",
+      "slug": "wicked-marvel-april-2026-term-punisher-born-again-portrait-bust-tested-and-ready",
+      "title": "Wicked Marvel April 2026 Term Punisher Born Again Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/z0welze97qnyrli5pbe4b85kgjw8",
+      "source_url": "https://3dwicked.gumroad.com/l/PunisherBornAgainPB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
       "id": "3d-wicked--wicked-marvel-april-2026-term-lady-deathstrike-portrait-bust-tested-and-ready-fo",
       "slug": "wicked-marvel-april-2026-term-lady-deathstrike-portrait-bust-tested-and-ready-fo",
       "title": "Wicked Marvel April 2026 Term Lady Deathstrike Portrait Bust: Tested and ready for 3D printing",
@@ -13799,6 +13841,19 @@
       "creator": "Zez Collectibles",
       "image": "https://public-files.gumroad.com/epq4btal0a4s4r3hejys0wxsxk08",
       "source_url": "https://zezcollectibles.gumroad.com/l/vudtsx",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "zez-collectibles--darthmaul-stl-bust",
+      "slug": "darthmaul-stl-bust",
+      "title": "DARTHMAUL STL + BUST",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/jk71tsb73nt0soyf7dlne4ynedtj",
+      "source_url": "https://zezcollectibles.gumroad.com/l/darthmaul",
       "description": "",
       "tags": [
         "busts"
