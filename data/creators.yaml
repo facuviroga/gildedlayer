@@ -32,7 +32,11 @@ creators:
     platform: gumroad
     url: "https://3dwicked.gumroad.com/"
     tags: []
-    featured: []
+    featured:
+      - wicked-video-games-god-of-war-4-diorama-tested-and-ready-for-3d-printing
+      - wicked-video-games-dante-and-vergil-diorama-sculpture-tested-and-ready-for-3d-pr
+      - wicked-video-games-geralt-de-rivia-and-ciri-diorama-complete-tested-and-ready-fo
+      - wicked-video-game-sub-zero-vs-scorpion-diorama-spine-rip-sculpture-tested-and-re
 
   - name: "Zez Collectibles"
     platform: gumroad
@@ -68,4 +72,10 @@ creators:
     platform: gumroad
     url: "https://kaidan3d.gumroad.com/"
     tags: []
-    featured: []
+    featured:
+      - gojo-vs-sukuna-jujutsu-kaisen-stl-ready-for-3d-printing
+      - ichigo-vasto-lorde-vs-ulquiorra-resurrecci-n-segunda-etapa-bleach-stl-ready-for-
+      - levi-ackerman-vs-ape-titan-attack-on-titan-stl-ready-for-3d-printing
+      - zoro-vs-mihawk-one-piece-stl-ready-for-3d-printing
+      - guts-x-beast-of-darkness-berserk-stl-ready-for-3d-printing
+      - samus-aran-metroid-stl-ready-for-3d-printing
