@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T10:50:22.741Z",
-  "count": 1914,
+  "generated_at": "2026-05-26T10:19:49.607Z",
+  "count": 1908,
   "excluded_count": 28,
   "errors": [],
   "models": [
@@ -23605,21 +23605,6 @@
       "featured": false
     },
     {
-      "id": "tanuki-figures--bust-jiraiya-naruto",
-      "slug": "bust-jiraiya-naruto",
-      "title": "Bust Jiraiya - Naruto",
-      "creator": "Tanuki Figures",
-      "image": "https://public-files.gumroad.com/bzk8wug37s3yyzebjznnqb4hbvzz",
-      "source_url": "https://tanukifigures.gumroad.com/l/jiraiya",
-      "description": "",
-      "tags": [
-        "anime",
-        "naruto",
-        "busts"
-      ],
-      "featured": false
-    },
-    {
       "id": "tanuki-figures--endeavor-my-hero-academia",
       "slug": "endeavor-my-hero-academia",
       "title": "Endeavor - My Hero Academia",
@@ -23779,34 +23764,6 @@
       "featured": false
     },
     {
-      "id": "tanuki-figures--princess-zelda-chibi-totk",
-      "slug": "princess-zelda-chibi-totk",
-      "title": "Princess Zelda Chibi TOTK",
-      "creator": "Tanuki Figures",
-      "image": "https://public-files.gumroad.com/3pmry7p6xyj1heqvpb2ad687gwjx",
-      "source_url": "https://tanukifigures.gumroad.com/l/princesszelda",
-      "description": "",
-      "tags": [
-        "videogames",
-        "zelda",
-        "chibi"
-      ],
-      "featured": false
-    },
-    {
-      "id": "tanuki-figures--wobbuffet-and-voltorb-figure",
-      "slug": "wobbuffet-and-voltorb-figure",
-      "title": "Wobbuffet and Voltorb Figure",
-      "creator": "Tanuki Figures",
-      "image": "https://public-files.gumroad.com/oigam0fhn6zbaiepw1c0uex14rhb",
-      "source_url": "https://tanukifigures.gumroad.com/l/wobbuffet",
-      "description": "",
-      "tags": [
-        "pokemon"
-      ],
-      "featured": false
-    },
-    {
       "id": "tanuki-figures--richter-belmont-bust",
       "slug": "richter-belmont-bust",
       "title": "Richter Belmont Bust",
@@ -23820,17 +23777,6 @@
       "featured": false
     },
     {
-      "id": "tanuki-figures--daisy",
-      "slug": "daisy",
-      "title": "Daisy",
-      "creator": "Tanuki Figures",
-      "image": "https://public-files.gumroad.com/b7v2h9oy8noh4auhmqk3o2ti4bur",
-      "source_url": "https://tanukifigures.gumroad.com/l/daisy",
-      "description": "",
-      "tags": [],
-      "featured": false
-    },
-    {
       "id": "tanuki-figures--luffy-gear-v",
       "slug": "luffy-gear-v",
       "title": "Luffy Gear V",
@@ -23841,34 +23787,6 @@
       "tags": [
         "anime",
         "one-piece"
-      ],
-      "featured": false
-    },
-    {
-      "id": "tanuki-figures--link-chibi",
-      "slug": "link-chibi",
-      "title": "Link Chibi",
-      "creator": "Tanuki Figures",
-      "image": "https://public-files.gumroad.com/jl3opj893gyc2e8mbd74vjmc49mh",
-      "source_url": "https://tanukifigures.gumroad.com/l/linkchibi",
-      "description": "",
-      "tags": [
-        "videogames",
-        "zelda",
-        "chibi"
-      ],
-      "featured": false
-    },
-    {
-      "id": "tanuki-figures--ash-chibi",
-      "slug": "ash-chibi",
-      "title": "Ash Chibi",
-      "creator": "Tanuki Figures",
-      "image": "https://public-files.gumroad.com/xyho39ef5lm64gewdhu70hgb9fr2",
-      "source_url": "https://tanukifigures.gumroad.com/l/ashchibi",
-      "description": "",
-      "tags": [
-        "chibi"
       ],
       "featured": false
     },
