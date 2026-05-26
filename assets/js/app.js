@@ -157,7 +157,7 @@ function syncChips() {
 
 function filtered() {
   const q = state.search.trim().toLowerCase();
-  return state.models.filter(m => {
+  const list = state.models.filter(m => {
     if (state.activeFeatured === 'featured' && !m.featured) return false;
     if (state.activeTag && !(m.tags || []).includes(state.activeTag)) return false;
     if (state.activeCreator && m.creator !== state.activeCreator) return false;
@@ -167,6 +167,48 @@ function filtered() {
     }
     return true;
   });
+  // When no sculptor is filtered, interleave models across creators so the
+  // gallery shows variety instead of long blocks from a single creator.
+  if (!state.activeCreator) return interleaveByCreator(list);
+  return list;
+}
+
+// Round-robin interleave: group by creator, shuffle creator order with a
+// session-stable seed, then deal one model at a time from each creator.
+const _sessionSeed = Math.random();
+function interleaveByCreator(models) {
+  const byCreator = new Map();
+  for (const m of models) {
+    const key = m.creator || '';
+    if (!byCreator.has(key)) byCreator.set(key, []);
+    byCreator.get(key).push(m);
+  }
+  // Shuffle creator order using the session seed (stable within a visit).
+  const buckets = [...byCreator.values()];
+  for (let i = buckets.length - 1; i > 0; i--) {
+    const j = Math.floor(seededRandom(i + _sessionSeed) * (i + 1));
+    [buckets[i], buckets[j]] = [buckets[j], buckets[i]];
+  }
+  // Round-robin deal.
+  const out = [];
+  let remaining = true;
+  let idx = 0;
+  while (remaining) {
+    remaining = false;
+    for (const bucket of buckets) {
+      if (idx < bucket.length) {
+        out.push(bucket[idx]);
+        if (idx + 1 < bucket.length) remaining = true;
+      }
+    }
+    idx++;
+  }
+  return out;
+}
+
+function seededRandom(seed) {
+  const x = Math.sin(seed * 9301 + 49297) * 49297;
+  return x - Math.floor(x);
 }
 
 function render() {
