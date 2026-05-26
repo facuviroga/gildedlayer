@@ -21,7 +21,8 @@ function slugify(s) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
-    .slice(0, 80) || 'untitled';
+    .slice(0, 80)
+    .replace(/-+$/, '') || 'untitled';
 }
 
 async function fetchText(url, opts = {}) {

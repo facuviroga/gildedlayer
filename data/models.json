@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T10:19:49.607Z",
-  "count": 1908,
+  "generated_at": "2026-05-26T18:32:01.755Z",
+  "count": 1909,
   "excluded_count": 28,
   "errors": [],
   "models": [
@@ -1617,7 +1617,7 @@
         "the-witcher",
         "dioramas"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "3d-wicked--wicked-video-games-ciri-sculpture-tested-and-ready-for-3d-printing",
@@ -2029,7 +2029,7 @@
         "sculptures",
         "dioramas"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "3d-wicked--wicked-video-game-scorpion-vs-sub-zero-diorama-toasty-sculpture-tested-and-ready",
@@ -2220,8 +2220,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-captain-america-and-steve-rogers-bust-diorama-complete-tested-and-",
-      "slug": "wicked-marvel-captain-america-and-steve-rogers-bust-diorama-complete-tested-and-",
+      "id": "3d-wicked--wicked-marvel-captain-america-and-steve-rogers-bust-diorama-complete-tested-and",
+      "slug": "wicked-marvel-captain-america-and-steve-rogers-bust-diorama-complete-tested-and",
       "title": "Wicked Marvel Captain America and Steve Rogers Bust DIORAMA COMPLETE: Tested and ready for 3d printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/hre4eht34uh3tpya6ixdsiw1v12w",
@@ -2381,8 +2381,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--power-ranger-green-and-power-ranger-white-diorama-complete-tested-and-ready-for-",
-      "slug": "power-ranger-green-and-power-ranger-white-diorama-complete-tested-and-ready-for-",
+      "id": "3d-wicked--power-ranger-green-and-power-ranger-white-diorama-complete-tested-and-ready-for",
+      "slug": "power-ranger-green-and-power-ranger-white-diorama-complete-tested-and-ready-for",
       "title": " Power Ranger Green and  Power Ranger White DIORAMA COMPLETE: Tested and ready for 3d printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/56hcv4zlajn3d9r8vvbeb8mtqih0",
@@ -2600,8 +2600,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-video-game-only-super-mario-bros-movie-sculpture-tested-and-ready-for-3d-",
-      "slug": "wicked-video-game-only-super-mario-bros-movie-sculpture-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-video-game-only-super-mario-bros-movie-sculpture-tested-and-ready-for-3d",
+      "slug": "wicked-video-game-only-super-mario-bros-movie-sculpture-tested-and-ready-for-3d",
       "title": "Wicked Video Game Only Super Mario Bros Movie Sculpture: Tested and ready for 3d printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/u2vnah1tgqjdtl7yc29tnbpdlk1y",
@@ -3403,7 +3403,7 @@
         "sculptures",
         "dioramas"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "3d-wicked--wicked-marvel-magneto-and-xavier-diorama-tested-and-ready-for-3d-printing",
@@ -6540,8 +6540,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-hawkeye-and-black-widow-diorama-sculpture-tested-and-ready-for-3d-",
-      "slug": "wicked-marvel-hawkeye-and-black-widow-diorama-sculpture-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-marvel-hawkeye-and-black-widow-diorama-sculpture-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-hawkeye-and-black-widow-diorama-sculpture-tested-and-ready-for-3d",
       "title": "Wicked Marvel Hawkeye and Black Widow Diorama Sculpture: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/768nqj3ccdvmymbkpqmnyn7szf48",
@@ -7542,8 +7542,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-groot-and-rocket-diorama-comic-version-sculpture-tested-and-ready-",
-      "slug": "wicked-marvel-groot-and-rocket-diorama-comic-version-sculpture-tested-and-ready-",
+      "id": "3d-wicked--wicked-marvel-groot-and-rocket-diorama-comic-version-sculpture-tested-and-ready",
+      "slug": "wicked-marvel-groot-and-rocket-diorama-comic-version-sculpture-tested-and-ready",
       "title": "Wicked Marvel Groot and Rocket Diorama Comic Version Sculpture: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/pg7c2q93873immcgp3zopfuukyi3",
@@ -9382,7 +9382,7 @@
         "god-of-war",
         "dioramas"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "3d-wicked--wicked-video-games-kratos-sculpture-tested-and-ready-for-3d-printing",
@@ -9873,8 +9873,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-video-games-june-2025-term-dr-eggman-sculpture-2-tested-and-ready-for-3d-",
-      "slug": "wicked-video-games-june-2025-term-dr-eggman-sculpture-2-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-video-games-june-2025-term-dr-eggman-sculpture-2-tested-and-ready-for-3d",
+      "slug": "wicked-video-games-june-2025-term-dr-eggman-sculpture-2-tested-and-ready-for-3d",
       "title": "Wicked Video Games June 2025 Term Dr Eggman Sculpture #2: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/2h0nk3tx6rql53mrhx4rxj9kyjzw",
@@ -10091,8 +10091,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-july-2025-term-dr-strange-2025-portrait-bust-tested-and-ready-for-",
-      "slug": "wicked-marvel-july-2025-term-dr-strange-2025-portrait-bust-tested-and-ready-for-",
+      "id": "3d-wicked--wicked-marvel-july-2025-term-dr-strange-2025-portrait-bust-tested-and-ready-for",
+      "slug": "wicked-marvel-july-2025-term-dr-strange-2025-portrait-bust-tested-and-ready-for",
       "title": "Wicked Marvel July 2025 Term Dr Strange 2025 Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/za9kmrgaqituay8h62gwlxd7uiec",
@@ -10295,8 +10295,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-september-2025-term-banshee-portrait-bust-tested-and-ready-for-3d-",
-      "slug": "wicked-marvel-september-2025-term-banshee-portrait-bust-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-marvel-september-2025-term-banshee-portrait-bust-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-september-2025-term-banshee-portrait-bust-tested-and-ready-for-3d",
       "title": "Wicked Marvel September 2025 Term Banshee Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/h1ddfqdwlbw742dr6rhvwa6gepca",
@@ -10381,8 +10381,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-august-2025-term-iron-man-2025-portrait-bust-tested-and-ready-for-",
-      "slug": "wicked-marvel-august-2025-term-iron-man-2025-portrait-bust-tested-and-ready-for-",
+      "id": "3d-wicked--wicked-marvel-august-2025-term-iron-man-2025-portrait-bust-tested-and-ready-for",
+      "slug": "wicked-marvel-august-2025-term-iron-man-2025-portrait-bust-tested-and-ready-for",
       "title": "Wicked Marvel August 2025 Term Iron Man 2025 Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/27ic49zbbb5jgbz0k3kuz8kohbau",
@@ -10425,8 +10425,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-august-2025-term-black-bolt-portrait-bust-tested-and-ready-for-3d-",
-      "slug": "wicked-marvel-august-2025-term-black-bolt-portrait-bust-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-marvel-august-2025-term-black-bolt-portrait-bust-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-august-2025-term-black-bolt-portrait-bust-tested-and-ready-for-3d",
       "title": "Wicked Marvel August 2025 Term Black Bolt Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/91mxnkxw4duf7r5p8udjn6o3x8qn",
@@ -10674,8 +10674,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-october-2025-term-giant-man-portrait-bust-tested-and-ready-for-3d-",
-      "slug": "wicked-marvel-october-2025-term-giant-man-portrait-bust-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-marvel-october-2025-term-giant-man-portrait-bust-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-october-2025-term-giant-man-portrait-bust-tested-and-ready-for-3d",
       "title": "Wicked Marvel October 2025 Term Giant Man Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/fsqbvo7a21e0rxujamnk2savvzhq",
@@ -10951,8 +10951,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-november-2025-term-medusa-inhumans-sculpture-tested-and-ready-for-",
-      "slug": "wicked-marvel-november-2025-term-medusa-inhumans-sculpture-tested-and-ready-for-",
+      "id": "3d-wicked--wicked-marvel-november-2025-term-medusa-inhumans-sculpture-tested-and-ready-for",
+      "slug": "wicked-marvel-november-2025-term-medusa-inhumans-sculpture-tested-and-ready-for",
       "title": "Wicked Marvel November 2025 Term Medusa Inhumans Sculpture: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/9em7mg13e5scx0pke6cb5pbgbfg3",
@@ -10965,8 +10965,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-november-2025-term-winter-soldier-2025-sculpture-tested-and-ready-",
-      "slug": "wicked-marvel-november-2025-term-winter-soldier-2025-sculpture-tested-and-ready-",
+      "id": "3d-wicked--wicked-marvel-november-2025-term-winter-soldier-2025-sculpture-tested-and-ready",
+      "slug": "wicked-marvel-november-2025-term-winter-soldier-2025-sculpture-tested-and-ready",
       "title": "Wicked Marvel November 2025 Term Winter Soldier 2025 Sculpture: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/yq4meoqbieocbydbpeknutaprx7p",
@@ -10993,8 +10993,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-november-2025-term-carnage-2025-sculpture-tested-and-ready-for-3d-",
-      "slug": "wicked-marvel-november-2025-term-carnage-2025-sculpture-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-marvel-november-2025-term-carnage-2025-sculpture-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-november-2025-term-carnage-2025-sculpture-tested-and-ready-for-3d",
       "title": "Wicked Marvel November 2025 Term Carnage 2025 Sculpture: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/b9pkf3qfrlqz2ao95lv7g4689om3",
@@ -11021,8 +11021,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-november-2025-term-medusa-inhumans-portrait-bust-tested-and-ready-",
-      "slug": "wicked-marvel-november-2025-term-medusa-inhumans-portrait-bust-tested-and-ready-",
+      "id": "3d-wicked--wicked-marvel-november-2025-term-medusa-inhumans-portrait-bust-tested-and-ready",
+      "slug": "wicked-marvel-november-2025-term-medusa-inhumans-portrait-bust-tested-and-ready",
       "title": "Wicked Marvel November 2025 Term Medusa Inhumans Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/u9aiwjmh9uda21vsohor9cc757s4",
@@ -11166,8 +11166,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-december-2025-term-darkhawk-portrait-bust-tested-and-ready-for-3d-",
-      "slug": "wicked-marvel-december-2025-term-darkhawk-portrait-bust-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-marvel-december-2025-term-darkhawk-portrait-bust-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-december-2025-term-darkhawk-portrait-bust-tested-and-ready-for-3d",
       "title": "Wicked Marvel December 2025 Term Darkhawk Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/4mmddpcs1if5bipskzs49gvq9fjc",
@@ -11206,8 +11206,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-video-games-donkey-kong-donkey-and-diddy-diorama-tested-and-ready-for-3d-",
-      "slug": "wicked-video-games-donkey-kong-donkey-and-diddy-diorama-tested-and-ready-for-3d-",
+      "id": "3d-wicked--wicked-video-games-donkey-kong-donkey-and-diddy-diorama-tested-and-ready-for-3d",
+      "slug": "wicked-video-games-donkey-kong-donkey-and-diddy-diorama-tested-and-ready-for-3d",
       "title": "Wicked Video Games Donkey Kong (Donkey and Diddy) Diorama Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/9ak2gwyb0dvpvzt686mvfzvwpjyj",
@@ -11618,8 +11618,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-february-2026-term-the-mighty-thor-sculpture-tested-and-ready-for-",
-      "slug": "wicked-marvel-february-2026-term-the-mighty-thor-sculpture-tested-and-ready-for-",
+      "id": "3d-wicked--wicked-marvel-february-2026-term-the-mighty-thor-sculpture-tested-and-ready-for",
+      "slug": "wicked-marvel-february-2026-term-the-mighty-thor-sculpture-tested-and-ready-for",
       "title": "Wicked Marvel February 2026 Term The Mighty Thor Sculpture: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/dhxbx9ti8qt9x3i20ykzofbomcsw",
@@ -11677,8 +11677,8 @@
       "featured": false
     },
     {
-      "id": "3d-wicked--wicked-marvel-february-2026-term-the-mighty-thor-portrait-bust-tested-and-ready-",
-      "slug": "wicked-marvel-february-2026-term-the-mighty-thor-portrait-bust-tested-and-ready-",
+      "id": "3d-wicked--wicked-marvel-february-2026-term-the-mighty-thor-portrait-bust-tested-and-ready",
+      "slug": "wicked-marvel-february-2026-term-the-mighty-thor-portrait-bust-tested-and-ready",
       "title": "Wicked Marvel February 2026 Term The Mighty Thor Portrait Bust: Tested and ready for 3D printing",
       "creator": "3D Wicked",
       "image": "https://public-files.gumroad.com/6zqcejl43oyjumtv1yagq9x7gzu9",
@@ -13841,6 +13841,19 @@
       "creator": "Zez Collectibles",
       "image": "https://public-files.gumroad.com/epq4btal0a4s4r3hejys0wxsxk08",
       "source_url": "https://zezcollectibles.gumroad.com/l/vudtsx",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "zez-collectibles--vigilante-stl-bust",
+      "slug": "vigilante-stl-bust",
+      "title": "VIGILANTE STL + BUST ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/scnk2s4gctp0gmku26x2cstcgcxf",
+      "source_url": "https://zezcollectibles.gumroad.com/l/VIGILANTE",
       "description": "",
       "tags": [
         "busts"
@@ -23858,7 +23871,7 @@
         "videogames",
         "metroid"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "kaidan-3d--femto-bersek-stl-ready-for-3d-printing",
@@ -23947,8 +23960,8 @@
       "featured": false
     },
     {
-      "id": "kaidan-3d--ichigo-vasto-lorde-vs-ulquiorra-resurrecci-n-segunda-etapa-bleach-stl-ready-for-",
-      "slug": "ichigo-vasto-lorde-vs-ulquiorra-resurrecci-n-segunda-etapa-bleach-stl-ready-for-",
+      "id": "kaidan-3d--ichigo-vasto-lorde-vs-ulquiorra-resurrecci-n-segunda-etapa-bleach-stl-ready-for",
+      "slug": "ichigo-vasto-lorde-vs-ulquiorra-resurrecci-n-segunda-etapa-bleach-stl-ready-for",
       "title": "Ichigo Vasto Lorde vs Ulquiorra Resurrección Segunda Etapa BLEACH- STL Ready for 3D Printing",
       "creator": "Kaidan 3D",
       "image": "https://public-files.gumroad.com/01u574ivfwyvnbm5r1qsio058o0j",
@@ -23958,7 +23971,7 @@
         "anime",
         "bleach"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "kaidan-3d--dark-deku-my-hero-academia-stl-ready-for-3d-printing",
@@ -24028,7 +24041,7 @@
         "anime",
         "one-piece"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "kaidan-3d--sung-jin-woo-x-beru-solo-leveling-stl-ready-for-3d-printing",
@@ -24058,7 +24071,7 @@
         "x-men",
         "berserk"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "kaidan-3d--chihiro-x-kaonashi-spirited-away-stl-ready-for-3d-printing",
@@ -24614,7 +24627,7 @@
         "anime",
         "attack-on-titan"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "kaidan-3d--as-nodt-bleach-stl-ready-for-3d-printing",
@@ -25166,7 +25179,7 @@
         "anime",
         "jujutsu-kaisen"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "kaidan-3d--escanor-the-seven-deadly-sins-stl-ready-for-3d-printing",
