@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T18:32:01.755Z",
-  "count": 1909,
+  "generated_at": "2026-05-27T10:21:45.115Z",
+  "count": 1915,
   "excluded_count": 28,
   "errors": [],
   "models": [
@@ -12307,6 +12307,34 @@
       "featured": false
     },
     {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-ghost-rider-caleb-sculpture-tested-and-ready-for-3",
+      "slug": "wicked-marvel-april-2026-term-ghost-rider-caleb-sculpture-tested-and-ready-for-3",
+      "title": "Wicked Marvel April 2026 Term Ghost Rider Caleb Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/iagt8obo0qaski6qknp6hp5w9ka7",
+      "source_url": "https://3dwicked.gumroad.com/l/CalebS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "sculptures"
+      ],
+      "featured": false
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-ghost-rider-billy-sculpture-tested-and-ready-for-3",
+      "slug": "wicked-marvel-april-2026-term-ghost-rider-billy-sculpture-tested-and-ready-for-3",
+      "title": "Wicked Marvel April 2026 Term Ghost Rider Billy Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/wv5wt7nyhfbhi689ussz5n0z261j",
+      "source_url": "https://3dwicked.gumroad.com/l/BillyS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "sculptures"
+      ],
+      "featured": false
+    },
+    {
       "id": "3d-wicked--wicked-marvel-april-2026-term-punisher-born-again-sculpture-tested-and-ready-for",
       "slug": "wicked-marvel-april-2026-term-punisher-born-again-sculpture-tested-and-ready-for",
       "title": "Wicked Marvel April 2026 Term Punisher Born Again Sculpture: Tested and ready for 3D printing",
@@ -12336,6 +12364,34 @@
       "featured": false
     },
     {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-caleb-portrait-bust-tested-and-ready-for-3d-printi",
+      "slug": "wicked-marvel-april-2026-term-caleb-portrait-bust-tested-and-ready-for-3d-printi",
+      "title": "Wicked Marvel April 2026 Term Caleb Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/3u33xlkze2duezlh3zjw14yq8c8s",
+      "source_url": "https://3dwicked.gumroad.com/l/CalebPB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-billy-portrait-bust-tested-and-ready-for-3d-printi",
+      "slug": "wicked-marvel-april-2026-term-billy-portrait-bust-tested-and-ready-for-3d-printi",
+      "title": "Wicked Marvel April 2026 Term Billy Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/w2qhn0c4egafrncsou9layc3cnfr",
+      "source_url": "https://3dwicked.gumroad.com/l/BillyPB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
       "id": "3d-wicked--wicked-marvel-april-2026-term-punisher-born-again-portrait-bust-tested-and-ready",
       "slug": "wicked-marvel-april-2026-term-punisher-born-again-portrait-bust-tested-and-ready",
       "title": "Wicked Marvel April 2026 Term Punisher Born Again Portrait Bust: Tested and ready for 3D printing",
@@ -12361,6 +12417,34 @@
         "marvel",
         "x-men",
         "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-ghost-rider-caleb-diorama-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-april-2026-term-ghost-rider-caleb-diorama-tested-and-ready-for-3d",
+      "title": "Wicked Marvel April 2026 Term Ghost Rider Caleb Diorama: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/9jlpn6bjlbckp3dvbox3z1w6ul81",
+      "source_url": "https://3dwicked.gumroad.com/l/GhostRiderCalebD",
+      "description": "",
+      "tags": [
+        "marvel",
+        "dioramas"
+      ],
+      "featured": false
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-april-2026-term-ghost-rider-billy-diorama-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-april-2026-term-ghost-rider-billy-diorama-tested-and-ready-for-3d",
+      "title": "Wicked Marvel April 2026 Term Ghost Rider Billy Diorama: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/onmiafz3utv1chwf7a8fgeq1t1r0",
+      "source_url": "https://3dwicked.gumroad.com/l/GhostRiderBillyD",
+      "description": "",
+      "tags": [
+        "marvel",
+        "dioramas"
       ],
       "featured": false
     },
