@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T10:21:45.115Z",
-  "count": 1915,
+  "generated_at": "2026-05-28T10:34:54.093Z",
+  "count": 1916,
   "excluded_count": 28,
   "errors": [],
   "models": [
@@ -14121,6 +14121,20 @@
       "featured": false
     },
     {
+      "id": "rechtag-studio--kid-goku",
+      "slug": "kid-goku",
+      "title": "Kid Goku",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/3tiova4y7drbwh8as1giz4yh4fzz",
+      "source_url": "https://rechtagstudio.gumroad.com/l/cbzozf",
+      "description": "",
+      "tags": [
+        "anime",
+        "dragon-ball"
+      ],
+      "featured": false
+    },
+    {
       "id": "tooniverse83--hank-stl",
       "slug": "hank-stl",
       "title": "HANK STL",
@@ -25571,9 +25585,9 @@
       "featured": false
     },
     {
-      "id": "kaidan-3d--izuku-midoriya-my-hero-academia-stl-ready-for-3d-printing",
-      "slug": "izuku-midoriya-my-hero-academia-stl-ready-for-3d-printing",
-      "title": "Izuku Midoriya MY HERO ACADEMIA- STL Ready for 3D Printing",
+      "id": "kaidan-3d--izuku-midoriya-deku-my-hero-academia-stl-ready-for-3d-printing",
+      "slug": "izuku-midoriya-deku-my-hero-academia-stl-ready-for-3d-printing",
+      "title": "Izuku Midoriya Deku MY HERO ACADEMIA- STL Ready for 3D Printing",
       "creator": "Kaidan 3D",
       "image": "https://public-files.gumroad.com/78633ployo1iff9hp1ape2k2yo1l",
       "source_url": "https://kaidan3d.gumroad.com/l/ugmbvx",
@@ -26158,14 +26172,15 @@
       "featured": false
     },
     {
-      "id": "kaidan-3d--shanks-stl-ready-for-3d-printing",
-      "slug": "shanks-stl-ready-for-3d-printing",
-      "title": "Shanks - STL Ready for 3D Printing",
+      "id": "kaidan-3d--shanks-one-piece-stl-ready-for-3d-printing",
+      "slug": "shanks-one-piece-stl-ready-for-3d-printing",
+      "title": "Shanks ONE PIECE - STL Ready for 3D Printing",
       "creator": "Kaidan 3D",
       "image": "https://public-files.gumroad.com/iknb2hlxcunwrno3wydxbtmd5bip",
       "source_url": "https://kaidan3d.gumroad.com/l/nhksr",
       "description": "",
       "tags": [
+        "anime",
         "one-piece"
       ],
       "featured": false
