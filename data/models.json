@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T10:15:23.964Z",
-  "count": 1916,
-  "excluded_count": 28,
+  "generated_at": "2026-05-30T08:41:55.284Z",
+  "count": 1925,
+  "excluded_count": 30,
   "errors": [],
   "models": [
     {
@@ -14915,6 +14915,32 @@
       "featured": false
     },
     {
+      "id": "tooniverse83--aladdin-and-genie-stl",
+      "slug": "aladdin-and-genie-stl",
+      "title": "ALADDIN AND GENIE STL ",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/348rt1n4gxlmqccao178z0f3mna6",
+      "source_url": "https://tooniverse83.gumroad.com/l/aladdingenie",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tooniverse83--presto-stl",
+      "slug": "presto-stl",
+      "title": "PRESTO STL  ",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/u7xv8280wcr8pm53b1z318zamfvl",
+      "source_url": "https://tooniverse83.gumroad.com/l/prestodnd",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false
+    },
+    {
       "id": "b3dserk--b3dserk-april-term-2022-aquaman-bust-1-4-ready-for-printing",
       "slug": "b3dserk-april-term-2022-aquaman-bust-1-4-ready-for-printing",
       "title": "B3DSERK April Term 2022: Aquaman Bust 1/4 ready for printing",
@@ -26758,6 +26784,94 @@
       "description": "",
       "tags": [
         "digimon"
+      ],
+      "featured": false
+    },
+    {
+      "id": "kaidan-3d--sephiroth-final-fantasy-vii-stl-ready-for-3d-printing",
+      "slug": "sephiroth-final-fantasy-vii-stl-ready-for-3d-printing",
+      "title": "Sephiroth FINAL FANTASY VII - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/bgveoavp74e3am2dweicr7n902no",
+      "source_url": "https://kaidan3d.gumroad.com/l/oouoxm",
+      "description": "",
+      "tags": [
+        "videogames",
+        "final-fantasy"
+      ],
+      "featured": false
+    },
+    {
+      "id": "kaidan-3d--cha-hae-in-solo-leveling-stl-ready-for-3d-printing",
+      "slug": "cha-hae-in-solo-leveling-stl-ready-for-3d-printing",
+      "title": "Cha Hae-In SOLO LEVELING - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/z9a9x6aoytlwhyhg8lsh9dual5qh",
+      "source_url": "https://kaidan3d.gumroad.com/l/nfwbay",
+      "description": "",
+      "tags": [
+        "anime",
+        "solo-leveling"
+      ],
+      "featured": false
+    },
+    {
+      "id": "kaidan-3d--akame-vs-esdeath-akame-ga-kill-stl-ready-for-3d-printing",
+      "slug": "akame-vs-esdeath-akame-ga-kill-stl-ready-for-3d-printing",
+      "title": "Akame vs Esdeath AKAME GA KILL - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/unr6wfyn25yfx1qcr8w9nskb3j3f",
+      "source_url": "https://kaidan3d.gumroad.com/l/vlsbdy",
+      "description": "",
+      "tags": [],
+      "featured": false
+    },
+    {
+      "id": "kaidan-3d--spider-man-noir-marvel-stl-ready-for-3d-printing",
+      "slug": "spider-man-noir-marvel-stl-ready-for-3d-printing",
+      "title": "Spider-Man Noir MARVEL - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/jtagicjpaavosvhvghejt6j2fdos",
+      "source_url": "https://kaidan3d.gumroad.com/l/xuvbab",
+      "description": "",
+      "tags": [
+        "marvel",
+        "spider-verse"
+      ],
+      "featured": false
+    },
+    {
+      "id": "kaidan-3d--ranma-1-2-ranma-1-2-stl-ready-for-3d-printing",
+      "slug": "ranma-1-2-ranma-1-2-stl-ready-for-3d-printing",
+      "title": "Ranma 1/2 RANMA 1/2 - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/mrnsdwwvezljj6jtv5vsn4bry7hp",
+      "source_url": "https://kaidan3d.gumroad.com/l/pnfkkh",
+      "description": "",
+      "tags": [],
+      "featured": false
+    },
+    {
+      "id": "kaidan-3d--jack-vs-aku-samurai-jack-stl-ready-for-3d-printing",
+      "slug": "jack-vs-aku-samurai-jack-stl-ready-for-3d-printing",
+      "title": "Jack vs Aku SAMURAI JACK - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/jaq50xbmzvb9ecuqefi8me9r3ieu",
+      "source_url": "https://kaidan3d.gumroad.com/l/afkgep",
+      "description": "",
+      "tags": [],
+      "featured": false
+    },
+    {
+      "id": "kaidan-3d--evangelion-girls-neon-genesis-evangelion-stl-ready-for-3d-printing",
+      "slug": "evangelion-girls-neon-genesis-evangelion-stl-ready-for-3d-printing",
+      "title": "Evangelion Girls NEON GENESIS EVANGELION - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/310s68uf2xwi2rfolqit1vifjqim",
+      "source_url": "https://kaidan3d.gumroad.com/l/upbypz",
+      "description": "",
+      "tags": [
+        "evangelion"
       ],
       "featured": false
     }
