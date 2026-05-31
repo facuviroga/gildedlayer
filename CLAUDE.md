@@ -85,7 +85,7 @@ served as-is from the repo root.
 | `artstation`    | public projects JSON                   | stable                          |
 | `gumroad`       | parses Inertia.js `data-page` payload  | stable as long as Gumroad ships Inertia |
 | `payhip`        | HTML scrape                            | fragile — selectors drift       |
-| `cults`         | HTML scrape, paginated via `?page=N`   | stable; cards use `a.tbox-thumb` |
+| `cults`         | HTML scrape, paginated via `?page=N`   | stable; cards use `a.tbox-thumb`. **Images proxied via wsrv.nl in `app.js` (`proxyImageUrl`)** because `images.cults3d.com` returns HTTP/2 PROTOCOL_ERROR when the browser opens many parallel streams — not a Referer block, server-side bug. |
 | `tribes`        | HTML scrape                            | fragile — best-effort           |
 | `generic`       | OpenGraph fallback                     | works for any site with og:* tags; pulls only ONE item (the URL itself) |
 

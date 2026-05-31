@@ -26,6 +26,19 @@ const CLEAN_RULES = [
   [/\b3d\s+(sculpture|bust|figure|statue|model|diorama)\b/gi, '$1'],
 ];
 
+// Cults3D's CDN (images.cults3d.com) intermittently returns
+// HTTP/2 PROTOCOL_ERROR when the browser opens dozens of parallel image
+// streams from a foreign origin — not a Referer block, not rate limiting,
+// but their HTTP/2 stack misbehaving under load. Route Cults images
+// through wsrv.nl (a free public image proxy) which terminates the upstream
+// connection cleanly and serves the image to us over HTTP/1.1. Other CDNs
+// (Gumroad, MMF, etc.) are untouched — they work fine.
+function proxyImageUrl(url) {
+  if (!url) return url;
+  if (!/(^https?:\/\/)?([^/]+\.)?cults3d\.com\//i.test(url)) return url;
+  return 'https://wsrv.nl/?url=' + encodeURIComponent(url);
+}
+
 function cleanTitle(raw) {
   if (!raw) return '';
   let s = String(raw);
@@ -298,7 +311,7 @@ function cardHTML(m) {
   return `
     <article class="card" data-id="${escapeHtml(m.id)}">
       ${m.featured ? '<span class="card-badge">⭐ Featured</span>' : ''}
-      <img src="${escapeHtml(m.image)}" alt="${escapeHtml(display)}" loading="lazy" />
+      <img src="${escapeHtml(proxyImageUrl(m.image))}" alt="${escapeHtml(display)}" loading="lazy" referrerpolicy="no-referrer" />
       <div class="card-meta">
         <p class="card-title">${escapeHtml(display)}</p>
         ${tags ? `<div class="card-tags">${tags}</div>` : ''}
@@ -310,7 +323,7 @@ function openLightbox(id) {
   const m = state.models.find(x => x.id === id);
   if (!m) return;
   const display = cleanTitle(m.title) || 'Sin título';
-  document.getElementById('lightbox-img').src = m.image;
+  document.getElementById('lightbox-img').src = proxyImageUrl(m.image);
   document.getElementById('lightbox-img').alt = display;
   document.getElementById('lightbox-title').textContent = display;
   document.getElementById('lightbox-creator').textContent = '';
