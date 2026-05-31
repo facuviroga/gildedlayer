@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T08:41:55.284Z",
-  "count": 1925,
+  "generated_at": "2026-05-31T09:25:16.181Z",
+  "count": 1943,
   "excluded_count": 30,
   "errors": [],
   "models": [
@@ -13958,6 +13958,47 @@
       "featured": false
     },
     {
+      "id": "zez-collectibles--heman-museum-stl",
+      "slug": "heman-museum-stl",
+      "title": "HEMAN MUSEUM STL  ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/g24epfq2pfz21hvkbr3ygsfg2ycp",
+      "source_url": "https://zezcollectibles.gumroad.com/l/hemamuseum",
+      "description": "",
+      "tags": [],
+      "featured": false
+    },
+    {
+      "id": "zez-collectibles--michelangelo-chibi-stl",
+      "slug": "michelangelo-chibi-stl",
+      "title": "MICHELANGELO CHIBI STL ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/xqzmkinojdd2ph7h46ledzd3uizx",
+      "source_url": "https://zezcollectibles.gumroad.com/l/MICHCHIBI",
+      "description": "",
+      "tags": [
+        "cartoons",
+        "tmnt",
+        "chibi"
+      ],
+      "featured": false
+    },
+    {
+      "id": "zez-collectibles--leonardo-chibi-stl",
+      "slug": "leonardo-chibi-stl",
+      "title": "LEONARDO CHIBI STL  ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/021p4jsofbjkaagy1i42asjx5fcq",
+      "source_url": "https://zezcollectibles.gumroad.com/l/leochibi",
+      "description": "",
+      "tags": [
+        "cartoons",
+        "tmnt",
+        "chibi"
+      ],
+      "featured": false
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -19764,6 +19805,223 @@
       "tags": [
         "dc",
         "videogames"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--android-18-dragon-ball-z",
+      "slug": "android-18-dragon-ball-z",
+      "title": "Android 18 - Dragon Ball Z",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/7c9gu1qi0hyzpnbc6yvfn4nqavz8",
+      "source_url": "https://tanukifigures.gumroad.com/l/Android18-DragonBallZ",
+      "description": "",
+      "tags": [
+        "anime",
+        "dragon-ball"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--android-18-dragon-ball-z-bust",
+      "slug": "android-18-dragon-ball-z-bust",
+      "title": "Android 18 - Dragon Ball Z - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/0sf0g9yog8sjbw1fq26dwvz5nb6o",
+      "source_url": "https://tanukifigures.gumroad.com/l/Android18-DragonBallZ-Bust",
+      "description": "",
+      "tags": [
+        "anime",
+        "dragon-ball",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--malenia-elden-ring",
+      "slug": "malenia-elden-ring",
+      "title": "Malenia - Elden Ring",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/33l2k9la87bymcevp0rrh0peg9e8",
+      "source_url": "https://tanukifigures.gumroad.com/l/Malenia-EldenRing",
+      "description": "",
+      "tags": [
+        "videogames",
+        "elden-ring"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--malenia-elden-ring-bust",
+      "slug": "malenia-elden-ring-bust",
+      "title": "Malenia - Elden Ring - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/jrz63y1vu91soifyunw0846rythf",
+      "source_url": "https://tanukifigures.gumroad.com/l/Malenia-EldenRing-Bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "elden-ring",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--kratos-god-of-war-2018",
+      "slug": "kratos-god-of-war-2018",
+      "title": "Kratos - God of War (2018)",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/zps6tsmwblrmb07o432zgqiblnrh",
+      "source_url": "https://tanukifigures.gumroad.com/l/Kratos-GodofWar-2018",
+      "description": "",
+      "tags": [
+        "videogames",
+        "god-of-war"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--kratos-god-of-war-bust-2018",
+      "slug": "kratos-god-of-war-bust-2018",
+      "title": "Kratos - God of War - Bust (2018)",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/rv9kulo11brhvzhnlziucsqx8n5k",
+      "source_url": "https://tanukifigures.gumroad.com/l/Kratos-GodofWar-2018-Bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "god-of-war",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--master-chief-halo-4",
+      "slug": "master-chief-halo-4",
+      "title": "Master Chief - Halo 4",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/ok54xe7l2tse7r8u3mpbu9k1u01a",
+      "source_url": "https://tanukifigures.gumroad.com/l/MasterChief-Halo4",
+      "description": "",
+      "tags": [
+        "halo"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--master-chief-halo-4-bust",
+      "slug": "master-chief-halo-4-bust",
+      "title": "Master Chief - Halo 4 - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/1c8n87d24we4ut9mfj19mt22vyki",
+      "source_url": "https://tanukifigures.gumroad.com/l/MasterChief-Halo4-Bust",
+      "description": "",
+      "tags": [
+        "halo",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--darth-vader-star-wars",
+      "slug": "darth-vader-star-wars",
+      "title": "Darth Vader - Star Wars",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/yo8xmpm7z9zrilrrrf9zopghlvgx",
+      "source_url": "https://tanukifigures.gumroad.com/l/DarthVader-StarWars",
+      "description": "",
+      "tags": [
+        "star-wars"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--darth-vader-star-wars-bust",
+      "slug": "darth-vader-star-wars-bust",
+      "title": "Darth Vader - Star Wars - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/z5tgdxw5dptas6l6kcfqvs07oog9",
+      "source_url": "https://tanukifigures.gumroad.com/l/DarthVader-StarWars-Bust",
+      "description": "",
+      "tags": [
+        "star-wars",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--phoenix-ikki-saint-seiya",
+      "slug": "phoenix-ikki-saint-seiya",
+      "title": "Phoenix Ikki - Saint Seiya",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/drwh8gf6jjgkwcfms3iwgyik1bvg",
+      "source_url": "https://tanukifigures.gumroad.com/l/PhoenixIkki-SaintSeiya",
+      "description": "",
+      "tags": [
+        "marvel",
+        "anime",
+        "x-men",
+        "saint-seiya"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--phoenix-ikki-saint-seiya-bust",
+      "slug": "phoenix-ikki-saint-seiya-bust",
+      "title": "Phoenix Ikki - Saint Seiya - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/ob16oyzyfgjb6xuvt5gsox8nzidp",
+      "source_url": "https://tanukifigures.gumroad.com/l/PhoenixIkki-SaintSeiya-Bust",
+      "description": "",
+      "tags": [
+        "marvel",
+        "anime",
+        "x-men",
+        "saint-seiya",
+        "busts"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--deidara-naruto-chibi",
+      "slug": "deidara-naruto-chibi",
+      "title": "Deidara - Naruto – Chibi",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/wk7rw2hskqazxvqu43ex3fiux6cx",
+      "source_url": "https://tanukifigures.gumroad.com/l/Deidara-Naruto-Chibi",
+      "description": "",
+      "tags": [
+        "anime",
+        "naruto",
+        "chibi"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--cody-it-takes-two",
+      "slug": "cody-it-takes-two",
+      "title": "Cody - It Takes Two",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/qa48uidr1syx1ctxjsafu5k81h1p",
+      "source_url": "https://tanukifigures.gumroad.com/l/Cody-ItTakesTwo",
+      "description": "",
+      "tags": [
+        "videogames",
+        "it-takes-two"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tanuki-figures--rogue-x-men-toon",
+      "slug": "rogue-x-men-toon",
+      "title": "Rogue - X-Men – Toon",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/66c45cg578l1ts3g25jpa9fiqiv5",
+      "source_url": "https://tanukifigures.gumroad.com/l/Rogue-X-Men-Toon",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men"
       ],
       "featured": false
     },
