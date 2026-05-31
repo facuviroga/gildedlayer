@@ -226,6 +226,20 @@ a:hover { color: var(--accent); }
 
 .chip-quick { font-weight: 500; letter-spacing: .08em; text-transform: uppercase; font-size: .75rem; }
 
+/* "Nuevas" quick chip — subtle glow to draw attention to fresh additions */
+.chip-new {
+  border-color: var(--accent);
+  color: var(--accent-hi);
+}
+.chip-new:not(.is-active) {
+  box-shadow: 0 0 0 1px rgba(199, 159, 61, .15), 0 0 12px rgba(199, 159, 61, .12);
+}
+.chip-new.is-active {
+  background: linear-gradient(180deg, var(--accent-hi), var(--accent));
+  color: var(--accent-fg);
+  border-color: var(--accent);
+}
+
 #search {
   margin-left: auto;
   flex: 1 1 220px;

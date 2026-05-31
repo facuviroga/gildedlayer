@@ -67,8 +67,10 @@ served as-is from the repo root.
   (featured/tag/creator), renders cards, handles lightbox.
 - `data/creators.yaml` — the only file the owner edits. Schema is documented
   in-file. `platform` field selects which adapter runs.
-- `data/models.json` — generated. Schema: `{ generated_at, count, errors, models[] }`.
-  Each model: `{ id, slug, title, creator, image, source_url, description, tags[], featured }`.
+- `data/models.json` — generated. Schema: `{ generated_at, new_count, count, errors, models[] }`.
+  Each model: `{ id, slug, title, creator, image, source_url, description, tags[], featured, first_seen }`.
+  `first_seen` is an ISO timestamp set the first time the model appears in a
+  catalog refresh; subsequent runs preserve it. Powers the "Nuevas" tab.
 - `scripts/fetch.mjs` — adapter-per-platform fetcher. Exits 0 even if individual
   creators fail; errors are recorded in `models.json.errors`.
 - `.github/workflows/refresh.yml` — daily cron + manual dispatch. Commits
@@ -83,6 +85,7 @@ served as-is from the repo root.
 | `artstation`    | public projects JSON                   | stable                          |
 | `gumroad`       | parses Inertia.js `data-page` payload  | stable as long as Gumroad ships Inertia |
 | `payhip`        | HTML scrape                            | fragile — selectors drift       |
+| `cults`         | HTML scrape, paginated via `?page=N`   | stable; cards use `a.tbox-thumb` |
 | `tribes`        | HTML scrape                            | fragile — best-effort           |
 | `generic`       | OpenGraph fallback                     | works for any site with og:* tags; pulls only ONE item (the URL itself) |
 
@@ -163,11 +166,32 @@ owner doesn't want to drive customers to Gumroad. Only "Commission this →"
 remains. Don't re-add the source link without explicit ask, even though
 `source_url` is still in `models.json`.
 
+## "Nuevas esta semana" tab
+
+The default landing filter is `✨ Nuevas`, which shows models whose
+`first_seen` is within the last 7 days (`NEW_WINDOW_MS` in `app.js`).
+`first_seen` is stamped server-side in `scripts/fetch.mjs`: before writing
+the new catalog, the fetcher reads the previous `models.json`, carries over
+`first_seen` for every id it recognises, and stamps `nowIso` on truly new
+ids. Legacy models (in the catalog before this field existed) get
+`LEGACY_SENTINEL` (`2020-01-01T00:00:00.000Z`) as their `first_seen` — well
+outside the 7-day window — so the first run after migration doesn't dump
+the entire backlog into the "Nuevas" tab. Don't fall back to `prev.generated_at`
+for this; the prev run is usually within the 7-day window so you'd get the
+exact bug the sentinel is there to prevent.
+
+The chip displays a live count (`✨ Nuevas (N)`). If `N === 0`, `load()`
+silently falls back to `'all'` so the default view is never empty. Don't
+add a "no new this week" empty state — the fallback handles it.
+
+Caveat: an `id` is `slugify(creator)--slugify(title)`. A title rename
+creates a new id and the model will appear as "new" for a week. Acceptable.
+
 ## Filter UI structure
 
 The filter bar has three visually distinct zones (since 2026-05):
 
-1. **Quick row** — `All` / `⭐ Featured` quick chips + the main model search.
+1. **Quick row** — `✨ Nuevas` / `Todas` / `★ Destacadas` quick chips + the main model search.
 2. **Tags section** — `Tags` label + tag-search input + chips with
    `#tag-name (count)`. Orange/accent color scheme. Class:
    `.filter-group-tags`. Only one tag active at a time; "Clear tag" link

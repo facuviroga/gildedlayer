@@ -8,6 +8,7 @@
 #    myminifactory  — uses public API (most reliable)
 #    gumroad        — scrapes product pages
 #    payhip         — scrapes shop page
+#    cults          — scrapes Cults3D creator profile (paginated)
 #    artstation     — uses public projects feed
 #    tribes         — scrapes creator page
 #    generic        — falls back to OpenGraph tags
@@ -65,6 +66,12 @@ creators:
   - name: "Tanuki Figures"
     platform: gumroad
     url: "https://tanukifigures.gumroad.com/"
+    tags: []
+    featured: []
+
+  - name: "Nomnom Figures"
+    platform: cults
+    url: "https://cults3d.com/es/usuarios/Nomnom_figures/modelos-3d"
     tags: []
     featured: []
 

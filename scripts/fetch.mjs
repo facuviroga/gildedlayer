@@ -545,6 +545,64 @@ const adapters = {
     return out.slice(0, creator.limit || 24);
   },
 
+  // Cults3D creator profile. Server-rendered HTML, paginated via ?page=N.
+  // Each card is an <a class="tbox-thumb"> with a `title` attribute and a
+  // nested <img data-src> (lazy-loaded). We walk pages until one returns
+  // zero new items or we hit the safety cap.
+  async cults(creator) {
+    // Accept either a profile URL or a /modelos-3d URL; normalize to the
+    // models listing.
+    const u = new URL(creator.url);
+    if (!/\/modelos-3d\/?$/.test(u.pathname)) {
+      u.pathname = u.pathname.replace(/\/+$/, '') + '/modelos-3d';
+    }
+    u.search = '';
+    const baseUrl = u.toString();
+    const host = u.origin;
+    const cap = creator.limit ?? Infinity;
+    const MAX_PAGES = 30; // safety: 30 * 48 = 1440 items
+
+    const seen = new Set();
+    const out = [];
+
+    for (let page = 1; page <= MAX_PAGES && out.length < cap; page++) {
+      const pageUrl = page === 1 ? baseUrl : `${baseUrl}?page=${page}`;
+      let html;
+      try {
+        html = await fetchText(pageUrl);
+      } catch (e) {
+        console.error(`    ! cults page ${page} failed: ${e.message}`);
+        break;
+      }
+      const $ = cheerio.load(html);
+      let addedThisPage = 0;
+      $('a.tbox-thumb[href*="/modelo-3d/"]').each((_, el) => {
+        if (out.length >= cap) return false;
+        const $a = $(el);
+        const href = $a.attr('href') || '';
+        const url = href.startsWith('http') ? href : new URL(href, host).toString();
+        if (seen.has(url)) return;
+        const $img = $a.find('img').first();
+        const image = $img.attr('data-src') || $img.attr('src');
+        const title = ($a.attr('title') || $img.attr('alt') || '').trim();
+        if (!url || !image || !title) return;
+        seen.add(url);
+        out.push(makeModel({
+          creator: creator.name,
+          title,
+          image,
+          source_url: url,
+          extraTags: creator.tags,
+        }));
+        addedThisPage++;
+      });
+      if (addedThisPage === 0) break;
+      // Be polite — small delay between page requests.
+      await new Promise(r => setTimeout(r, 250));
+    }
+    return out;
+  },
+
   // OpenGraph fallback. Treats the page itself as a single piece.
   // Useful for individual-product links you want to feature.
   async generic(creator) {
@@ -577,10 +635,34 @@ function applyFeatured(models, featuredList) {
   }
 }
 
+// Read the previous models.json (if any) so we can carry over the
+// `first_seen` timestamp on models that already existed. Legacy models (in
+// the catalog before this field existed) get a sentinel date well outside
+// the 7-day "Nuevas" window — otherwise the first run after migration
+// would flood that tab with everything in the catalog.
+const LEGACY_SENTINEL = '2020-01-01T00:00:00.000Z';
+async function loadPrevFirstSeen() {
+  try {
+    let txt = await readFile(OUT_FILE, 'utf8');
+    if (txt.charCodeAt(0) === 0xFEFF) txt = txt.slice(1); // strip UTF-8 BOM
+    const prev = JSON.parse(txt);
+    const map = new Map();
+    for (const m of (prev.models || [])) {
+      map.set(m.id, m.first_seen || LEGACY_SENTINEL);
+    }
+    return map;
+  } catch {
+    return new Map();
+  }
+}
+
 async function main() {
   const raw = await readFile(CREATORS_FILE, 'utf8');
   const cfg = parseYAML(raw) || {};
   const creators = cfg.creators || [];
+
+  const prevFirstSeen = await loadPrevFirstSeen();
+  const nowIso = new Date().toISOString();
 
   const allModels = [];
   const errors = [];
@@ -623,15 +705,30 @@ async function main() {
     else kept.push(m);
   }
 
+  // Stamp `first_seen` on every model: carry over from previous run when the
+  // id already existed; mint a fresh timestamp when it didn't. This powers
+  // the "Nuevos esta semana" tab on the site.
+  let newCount = 0;
+  for (const m of kept) {
+    const prev = prevFirstSeen.get(m.id);
+    if (prev) {
+      m.first_seen = prev;
+    } else {
+      m.first_seen = nowIso;
+      newCount++;
+    }
+  }
+
   const out = {
-    generated_at: new Date().toISOString(),
+    generated_at: nowIso,
+    new_count: newCount,
     count: kept.length,
     excluded_count: dropped.length,
     errors,
     models: kept,
   };
   await writeFile(OUT_FILE, JSON.stringify(out, null, 2), 'utf8');
-  console.log(`wrote ${kept.length} models → data/models.json (${dropped.length} excluded as bundles/props)`);
+  console.log(`wrote ${kept.length} models → data/models.json (${dropped.length} excluded as bundles/props, ${newCount} new this run)`);
   if (errors.length) console.log(`(${errors.length} errors — see file)`);
 }
 

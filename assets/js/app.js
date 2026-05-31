@@ -42,9 +42,12 @@ function cleanTitle(raw) {
   return s || raw;
 }
 
+// Models added within this window count as "new" for the ✨ Nuevas tab.
+const NEW_WINDOW_MS = 7 * 24 * 60 * 60 * 1000;
+
 const state = {
   models: [],
-  activeFeatured: 'all',
+  activeFeatured: 'new',
   activeTag: null,
   activeCreator: null,
   search: '',
@@ -74,7 +77,19 @@ async function load() {
     if (data.generated_at) {
       $lastRefresh.textContent = new Date(data.generated_at).toLocaleString('es');
     }
+    // Surface the count on the "Nuevas" chip and fall back to "Todas" when
+    // there's nothing new this week — otherwise the default landing tab is
+    // empty.
+    const newCount = state.models.reduce((n, m) => n + (isNew(m) ? 1 : 0), 0);
+    const $newChip = document.querySelector('[data-filter-value="new"]');
+    if ($newChip) {
+      $newChip.innerHTML = '✨ Nuevas <span class="chip-count">' + newCount + '</span>';
+    }
+    if (state.activeFeatured === 'new' && newCount === 0) {
+      state.activeFeatured = 'all';
+    }
     buildFilters();
+    syncChips();
     render();
   } catch (err) {
     $gallery.innerHTML = `<p class="empty">No se cargaron esculturas todavía. Revisá <code>data/creators.yaml</code>.</p>`;
@@ -155,10 +170,18 @@ function syncChips() {
   $creatorClear.hidden = !state.activeCreator;
 }
 
+function isNew(m) {
+  if (!m.first_seen) return false;
+  const t = new Date(m.first_seen).getTime();
+  if (Number.isNaN(t)) return false;
+  return (Date.now() - t) < NEW_WINDOW_MS;
+}
+
 function filtered() {
   const q = state.search.trim().toLowerCase();
   const list = state.models.filter(m => {
     if (state.activeFeatured === 'featured' && !m.featured) return false;
+    if (state.activeFeatured === 'new' && !isNew(m)) return false;
     if (state.activeTag && !(m.tags || []).includes(state.activeTag)) return false;
     if (state.activeCreator && m.creator !== state.activeCreator) return false;
     if (q) {
