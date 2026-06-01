@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-31T21:54:41.588Z",
-  "new_count": 0,
-  "count": 2504,
+  "generated_at": "2026-06-01T12:10:21.912Z",
+  "new_count": 3,
+  "count": 2507,
   "excluded_count": 32,
   "errors": [],
   "models": [
@@ -16079,6 +16079,20 @@
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
+      "id": "tooniverse83--yosemite-sam-stl",
+      "slug": "yosemite-sam-stl",
+      "title": "YOSEMITE SAM STL   ",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/1f8doxr9dcfug0w3hnus1tky5fk8",
+      "source_url": "https://tooniverse83.gumroad.com/l/yosemite",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-01T12:10:21.912Z"
+    },
+    {
       "id": "b3dserk--b3dserk-april-term-2022-aquaman-bust-1-4-ready-for-printing",
       "slug": "b3dserk-april-term-2022-aquaman-bust-1-4-ready-for-printing",
       "title": "B3DSERK April Term 2022: Aquaman Bust 1/4 ready for printing",
@@ -21260,6 +21274,35 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-may-term-2026-batman-kingdom-come-sculpture-ready-for-printing",
+      "slug": "b3dserk-may-term-2026-batman-kingdom-come-sculpture-ready-for-printing",
+      "title": "B3DSERK May Term 2026 Batman Kingdom Come Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/ur4pzyil9jh4tutb7kil69ax6blb",
+      "source_url": "https://b3dserk.gumroad.com/l/BatmanKingS",
+      "description": "",
+      "tags": [
+        "dc",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-01T12:10:21.912Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-may-term-2026-mandrake-sculpture-ready-for-printing",
+      "slug": "b3dserk-may-term-2026-mandrake-sculpture-ready-for-printing",
+      "title": "B3DSERK May Term 2026 MandrakE Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/mxsim9cf4j4dgbtb1xe1o8rrl8jv",
+      "source_url": "https://b3dserk.gumroad.com/l/MandrakkS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-01T12:10:21.912Z"
     },
     {
       "id": "tanuki-figures--android-18-dragon-ball-z",
