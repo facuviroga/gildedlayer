@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-06-01T12:10:21.912Z",
+  "generated_at": "2026-06-02T10:55:14.771Z",
   "new_count": 3,
-  "count": 2507,
+  "count": 2510,
   "excluded_count": 32,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--don-t-starve-3d-print",
+      "slug": "don-t-starve-3d-print",
+      "title": "DON'T STARVE 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/oolvdll36rg1td8z17e6qfsxichr",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/qqlvxv",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-02T10:55:14.771Z"
+    },
+    {
+      "id": "zenith-collectibles--tony-stark-3d-print",
+      "slug": "tony-stark-3d-print",
+      "title": "TONY STARK 3D PRINT ",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/zywtvbgq31z8tff8dw8s6jkqqzk0",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/bmsaqy",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-02T10:55:14.771Z"
+    },
     {
       "id": "zenith-collectibles--tmnt-pack",
       "slug": "tmnt-pack",
@@ -15210,6 +15236,18 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "rechtag-studio--nerona-imu",
+      "slug": "nerona-imu",
+      "title": "Nerona Imu",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/t6uusitf34z4loszkbamtnztucn6",
+      "source_url": "https://rechtagstudio.gumroad.com/l/hyxrj",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-02T10:55:14.771Z"
     },
     {
       "id": "tooniverse83--hank-stl",
