@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T10:55:14.771Z",
-  "new_count": 3,
-  "count": 2510,
+  "generated_at": "2026-06-03T11:23:32.904Z",
+  "new_count": 1,
+  "count": 2511,
   "excluded_count": 32,
   "errors": [],
   "models": [
@@ -13385,6 +13385,21 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-may-2026-term-quick-silver-sculpture-tested-and-ready-for-3d-print",
+      "slug": "wicked-marvel-may-2026-term-quick-silver-sculpture-tested-and-ready-for-3d-print",
+      "title": "Wicked Marvel May 2026 Term Quick Silver Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/8e0c7niwwyu7g4j2dez9b4fwxgfr",
+      "source_url": "https://3dwicked.gumroad.com/l/QuickSilverSs",
+      "description": "",
+      "tags": [
+        "marvel",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-03T11:23:32.904Z"
     },
     {
       "id": "zez-collectibles--deadpool-3d-print-bust",
