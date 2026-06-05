@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-06-04T10:12:33.406Z",
-  "new_count": 0,
-  "count": 1952,
+  "generated_at": "2026-06-05T10:16:48.534Z",
+  "new_count": 2,
+  "count": 1954,
   "excluded_count": 30,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--billy-and-mandy-3d-print",
+      "slug": "billy-and-mandy-3d-print",
+      "title": "BILLY AND MANDY 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/womxl9uufuy3sy88m9if3i53wthm",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/gigjiq",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-05T10:16:48.534Z"
+    },
     {
       "id": "zenith-collectibles--don-t-starve-3d-print",
       "slug": "don-t-starve-3d-print",
@@ -29202,6 +29214,21 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "kaidan-3d--shadow-igris-solo-leveling-stl-ready-for-3d-printing",
+      "slug": "shadow-igris-solo-leveling-stl-ready-for-3d-printing",
+      "title": "Shadow Igris SOLO LEVELING - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/xvb3vjoz6wkun5ny9ag42rv2yog9",
+      "source_url": "https://kaidan3d.gumroad.com/l/kfvfgg",
+      "description": "",
+      "tags": [
+        "anime",
+        "solo-leveling"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-05T10:16:48.534Z"
     }
   ]
 }
