@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-06T08:46:51.279Z",
-  "new_count": 560,
-  "count": 2514,
+  "generated_at": "2026-06-07T09:38:04.379Z",
+  "new_count": 1,
+  "count": 2515,
   "excluded_count": 32,
   "errors": [],
   "models": [
@@ -15290,6 +15290,20 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-06-02T10:55:14.771Z"
+    },
+    {
+      "id": "rechtag-studio--absolute-batman",
+      "slug": "absolute-batman",
+      "title": "Absolute Batman",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/3q5gd84edockf6cfb5d6we5o0c6i",
+      "source_url": "https://rechtagstudio.gumroad.com/l/wlaqrf",
+      "description": "",
+      "tags": [
+        "dc"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-07T09:38:04.379Z"
     },
     {
       "id": "tooniverse83--hank-stl",
