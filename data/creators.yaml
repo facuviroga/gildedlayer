@@ -86,3 +86,9 @@ creators:
       - zoro-vs-mihawk-one-piece-stl-ready-for-3d-printing
       - guts-x-beast-of-darkness-berserk-stl-ready-for-3d-printing
       - samus-aran-metroid-stl-ready-for-3d-printing
+
+  - name: "VS3D"
+    platform: gumroad
+    url: "https://vs3d.gumroad.com/"
+    tags: []
+    featured: []

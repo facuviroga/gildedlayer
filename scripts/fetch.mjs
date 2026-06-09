@@ -67,6 +67,14 @@ const KEYWORD_TAGS = [
     'gamora','drax','groot','ant-man','ant man','vision','war machine','magik','lady deathstrike',
     'ghost rider','thanos','red guardian','red skull','juggernaut','witchblade','maestro','sentry',
     'blade','invincible','mark grayson',
+    // VS3D additions
+    'kraven the hunter','old man logan','symbiote','venomized hulk','venomized','red devil',
+    'mary jane','mary jane tas','mj tas','goblin tas','venom tas','lizard-stas','lizard tas',
+    'carnage','spiderman insomniac','spider-man insomniac','insomniac','andrew garfield','symbiote spider-man',
+    'cavillrine','the cavillrine','deadpool and wolverine','kingpin tas','spider-man no way home',
+    'no way home','daredevil red','daredevil black','red devil','the man in black','amazing web slinger',
+    'eddys spiderman','abraham whistler','deacon frost','jared nomak','blade vs deacon','ghost rider vengeance',
+    'punisher museum','the punisher','clayface tas','goblin spider',
   ]],
   ['dc', [
     'dc comics','batman','superman','wonder woman','aquaman','flash','green lantern',
@@ -77,6 +85,13 @@ const KEYWORD_TAGS = [
     'krypto','wondergirl','wonder girl','batgirl','batwoman','huntress','hawkgirl','artemis',
     'black manta','deathstroke','cheetah','sinestro','reverse flash','classic superman',
     'flashpoint','thomas wayne',
+    // VS3D additions
+    'manbat','killer croc','clayface','hugo strange','ra\'s al ghul','batman beyond','keaton batman',
+    'kilmer','val kilmer','jared leto','batman 1989','batman returns','batman forever',
+    'the batman 2022','the batman museum','bvs','bvs batman','bvs superman','old bruce','bane 1997',
+    'mr. freeze','mr freeze','arkham','jim and barb','batsignal','eddys batman','eddys superman','eddys joker',
+    'eddys aquaman','eddys green lantern','eddys wonder woman','eddys the flash','batman complete lineup',
+    'jl line up','justice league line up','knight of steel','oswald cobblepot',
   ]],
   ['anime', [
     'jujutsu','sukuna','ryomen','gojo','itadori','maki','yuta','yuji','toji',
@@ -132,7 +147,7 @@ const KEYWORD_TAGS = [
     'portal bots','p-body','atlas','wheatley','glados',
     'final fantasy','chocobo','cloud strife','sephiroth','tifa','aerith','terra','kefka',
     'assassin\'s creed','assassins creed','ezio','altair',
-    'metal gear','big boss','solid snake','snake',
+    'metal gear','big boss','solid snake','snake','naked snake',
     'skyrim','dovahkiin','dragonborn','elder scrolls',
     'darksiders','horsemen',
     'kingdom hearts','sora kh',
@@ -144,6 +159,15 @@ const KEYWORD_TAGS = [
     'it takes two',
     'flash gordon ship','flash gordon',
     'video game','videogame',
+    // VS3D additions — videogame characters
+    'arkham city','arkham origins','arkham asylum','arkham knight','hugo strange','clayface','killer croc',
+    'manbat','ra\'s al ghul','ayame tenchu','tenchu','queen of pain','dota','dante\'s inferno','dantes inferno',
+    'the evil within','evil within','inarius','diablo 4','diablo','ryu hayabusa','ninja gaiden','talion',
+    'shadow of war','jericho cross','darkwatch','akira toriyama','agent 47','hitman agent','spider-man insomniac',
+    'spiderman insomniac','insomniac','rdr2','sadie adler','dutch van der linde','tommy vercetti','vice city',
+    'claude speed','carl johnson','trevor gtav','michael gtav','franklin gtav','gtav','gta v','gta iii','gta vice',
+    'mother miranda','re village','re5','albert wesker','leon: resident','resident evil requiem','re requiem',
+    'sweeney barber','king slayer','samson dota','kraven the hunter','mr. freeze','arkham',
   ]],
   ['movies', [
     'matrix','neo','trinity','jurassic','t-rex','alan grant','sinners','remmick',
@@ -154,6 +178,28 @@ const KEYWORD_TAGS = [
     'stay puft','star trek','spock','indiana jones','rocky balboa','top gun','maverick movie',
     'transformers','megatron','optimus prime','bumblebee','starscream',
     'puss in boots','jack skellington','nightmare before christmas',
+    // VS3D additions — film canon
+    'goonies','tropic thunder','les grossman','tug speedman','alpa chino','kirk lazarus','jeff portnoy','kevin sandusky',
+    '13 ghost','13 ghosts','13ghosts','the angry princess','the bound woman','the withered lover','the torn prince',
+    'the great child','the broken heart','first born son','dire mother','the torso','jericho cross',
+    'kill bill','pulp fiction','inglorious','inglourious','hook movie','hook diorama','jaws diorama','the orca',
+    'crocodile dundee','willy wonka','tombstone diorama','last of the mohicans','highlander','braveheart','gladiator',
+    'leonidas','the crow','forrest gump','sleepy hollow','headless horseman','sweeney todd','krampus',
+    'violent night','santa-violent','face/off','007 daniel craig','phantom of the opera','jaws','men in black',
+    'constantine','crocodile','big trouble in little china','jack burton','the patriot','boondock saints',
+    'public enemis','public enemies','dillanger','dillinger','dracula untold','vlad the impaler','brightburn',
+    'carrie','texas chainsaw','leatherface','elvis the68','elvis white jumpsuit','austin powers','ballerina',
+    'tropic','starkiller','dany and drogon','dragon dany','dek: predator','predator badlands','wednesday addams',
+    'madmartigan','willow','buddy the elf','sloth','chunk','mikey','mouth from the goonies','andy the goonies',
+    'stef the goonies','brandon the goonies','data the goonies','old bruce','reflections','akira toriyama tribute',
+    'point break','hacksaw ridge','scarface','zorro','kraven the hunter','batman 1989','batman returns',
+    'batman forever','keaton batman','batman beyond','bvs','the batman 2022','the batman museum','jared leto',
+    'penguin(devito)','val kilmer','kilmer','daemon targaryon','jon snow','spider-man no way home',
+    'andrew garfield','symbiote','cavillrine','the cavillrine','old man logan','daredevil',
+    'the punisher','venomized','venomized hulk','frankenstein','the wolfman','the mummy','bride of frankenstein',
+    'eddie munson','goku vs frieza','dexter morgan diorama','peaky blinders','tommy shelby','arthur shelby',
+    'john shelby','alfie solomons','polly gray','ragnar lothbrok','lagartha','lagertha','bray wyatt','the fiend',
+    'pilgrimess','jack rackham','billy bones','black sails','anne bonny','eleanor guthrie','charles vane',
   ]],
   ['cartoons', [
     'snoopy','pink panther','mad hatter','johnny bravo','disney','rick and morty',
@@ -176,6 +222,13 @@ const KEYWORD_TAGS = [
   ['tv-shows', [
     'walter white','breaking bad','dexter morgan','dexter','arcane','rick and morty',
     'stranger things','game of thrones','invincible','the boys','mark grayson',
+    // VS3D additions — TV / streaming
+    'black sails','jack rackham','billy bones','anne bonny','eleanor guthrie','charles vane',
+    'peaky blinders','tommy shelby','arthur shelby','john shelby','alfie solomons','polly gray',
+    'vikings show','ragnar lothbrok','lagartha','lagertha','floki vikings',
+    'wednesday addams','addams family','dany and drogon','jon snow got','daemon targaryon',
+    'house of the dragon','game of thrones','ash vs evil','eddie munson','bray wyatt','the fiend',
+    'wwe','wrestling','dexter morgan diorama',
   ]],
   ['celebrities', ['stan lee','michael jackson']],
 
@@ -312,6 +365,98 @@ const KEYWORD_TAGS = [
   ['popeye',          ['popeye','bluto']],
   ['gargoyles',       ['gargoyles','goliath']],
 
+  // ---------- VS3D-driven additions ----------
+  // TV / streaming series
+  ['black-sails',         ['black sails','jack rackham','billy bones','anne bonny','eleanor guthrie','charles vane','flint black sails']],
+  ['peaky-blinders',      ['peaky blinders','tommy shelby','thomas shelby','arthur shelby','john shelby','alfie solomons','polly gray']],
+  ['vikings-show',        ['vikings show','ragnar lothbrok','lagartha','lagertha','floki vikings']],
+  ['game-of-thrones',     ['game of thrones','jon snow got','daemon targaryon','daemon targaryen','dany and drogon','house of the dragon','got diorama']],
+  ['wednesday-addams',    ['wednesday addams','addams family']],
+  ['ash-evil-dead',       ['ash vs evil dead','ashley williams','evil dead']],
+  ['wwe-wrestling',       ['bray wyatt','the fiend','wwe','wrestling']],
+
+  // Horror / monster cinema
+  ['universal-monsters',  ['the mummy','the wolfman','frankenstein','bride of frankenstein','frankenstein\'s monster','dracula','phantom of the opera','the phantom of the opera','dracula armored','dracula untold','vlad the impaler','monsters diorama']],
+  ['texas-chainsaw',      ['texas chainsaw','leatherface']],
+  ['friday-the-13th',     ['friday the 13th','jason vorhees','jason voorhees']],
+  ['nightmare-elm-street',['nightmare on elm street','freddy krueger']],
+  ['hellraiser',          ['hellraiser','pinhead']],
+  ['scream',              ['scream movie','ghostface']],
+  ['13-ghosts',           ['13 ghost','13 ghosts','13ghosts','the angry princess','the bound woman','the withered lover','the torn prince','the great child','the broken heart','first born son','dire mother','the torso','jericho 13','juggernaut 13 ghost','13 ghost juggernaut','bold evil','bald evil']],
+  ['carrie-movie',        ['carrie','carrie white']],
+  ['brightburn',          ['brightburn']],
+  ['krampus',             ['krampus','violent night','santa-violent','santa violent night']],
+  ['sleepy-hollow',       ['sleepy hollow','headless horseman']],
+  ['sweeney-todd',        ['sweeney todd']],
+
+  // Adventure / drama / action films
+  ['goonies',             ['goonies','sloth goonies','chunk goonies','mikey goonies','mouth from the goonies','andy the goonies','stef the goonies','brandon the goonies','data the goonies','sloth the goonies','chunk the goonies']],
+  ['tropic-thunder',      ['tropic thunder','les grossman','tug speedman','alpa chino','kirk lazarus','jeff portnoy','kevin sandusky']],
+  ['kill-bill',           ['kill bill','beatrix kiddo']],
+  ['pulp-fiction',        ['pulp fiction','vincent vega','jules winnfield']],
+  ['inglourious-basterds',['inglorious','inglourious','aldo raine']],
+  ['gladiator-movie',     ['gladiator','maximus decimus']],
+  ['braveheart',          ['braveheart','william wallace']],
+  ['the-300',             ['leonidas','300 spartans']],
+  ['highlander',          ['highlander']],
+  ['james-bond',          ['james bond','007 daniel craig']],
+  ['hook-movie',          ['hook movie','hook diorama','hook peter pan']],
+  ['willow-movie',        ['willow movie','madmartigan']],
+  ['willy-wonka',         ['willy wonka']],
+  ['elf-movie',           ['buddy the elf','elf movie']],
+  ['big-trouble-china',   ['big trouble in little china','jack burton']],
+  ['v-for-vendetta',      ['v for vendetta']],
+  ['constantine-movie',   ['constantine']],
+  ['men-in-black',        ['men in black','mib diorama']],
+  ['crocodile-dundee',    ['crocodile dundee']],
+  ['forrest-gump',        ['forrest gump']],
+  ['boondock-saints',     ['boondock saints']],
+  ['face-off-movie',      ['face/off','sean archer','castor troy']],
+  ['tombstone-movie',     ['tombstone diorama']],
+  ['last-of-mohicans',    ['last of the mohicans']],
+  ['point-break',         ['point break','bodhi','utah point break']],
+  ['hacksaw-ridge',       ['hacksaw ridge']],
+  ['public-enemies',      ['public enemis','public enemies','dillanger','dillinger']],
+  ['the-patriot',         ['the patriot']],
+  ['jaws-movie',          ['jaws diorama','jaws orca','the orca','jaws']],
+  ['indiana-jones',       ['indiana jones','indy diorama']],
+  ['pirates-caribbean',   ['pirates of the caribbean','jack sparrow','davy jones']],
+  ['the-crow',            ['the crow','crow on the throne','crow gasoline']],
+  ['scarface-movie',      ['scarface']],
+  ['austin-powers',       ['austin powers']],
+  ['elvis-tribute',       ['elvis the68','elvis white jumpsuit','elvis presley']],
+  ['zorro',               ['zorro']],
+  ['django-unchained',    ['django','django unchained']],
+  ['scorpion-king',       ['scorpion king','the king of scorpions','king of scorpions']],
+  ['day-of-the-jackal',   ['day of the jackal','the jackal']],
+  ['rocky-films',         ['rocky','rocky balboa','apollo creed','ivan drago','creed']],
+
+  // Batman live-action eras
+  ['batman-1989-burton',  ['batman 1989','keaton batman','batman returns','joker 1989','penguin(devito)','penguin devito','catwoman returns']],
+  ['batman-schumacher',   ['batman forever','batman and robin','val kilmer','kilmer','poison ivy(batman and robin)','two-face(batman forever)','riddler(batman forever)','robin(batman forever)','bane 1997','mr freeze schumacher']],
+  ['dark-knight-trilogy', ['bank robber joker','tdk','dark knight','two-face(tdk)','the dark knight']],
+  ['the-batman-2022',     ['the batman 2022','the batman 2022 film','catwoman zoe kravitz','riddler(the batman)','riddler the batman','penguin from the batman','oswald cobblepot','the batman museum','batman on batsignal','batman 2022']],
+  ['bvs-dceu',            ['bvs','bvs batman','bvs superman','batman knight of steel','knight of steel','batman v superman']],
+  ['the-flash-movie',     ['the flash movie','flash movie','flash solo(2023','supergirl(the flash movie','batman(the flash movie']],
+
+  // Videogame franchises
+  ['arkham-series',       ['arkham city','arkham origins','arkham asylum','arkham knight','hugo strange-arkham','arkham']],
+  ['tenchu',              ['ayame tenchu','tenchu']],
+  ['dota',                ['queen of pain','dota','samson dota']],
+  ['dantes-inferno',      ['dante\'s inferno','dantes inferno']],
+  ['the-evil-within',     ['the evil within','evil within','sebastian castellanos']],
+  ['diablo',              ['inarius','diablo 4','diablo 3','diablo iv']],
+  ['ninja-gaiden',        ['ryu hayabusa','ninja gaiden']],
+  ['shadow-of-war',       ['talion','shadow of war','shadow of mordor']],
+  ['darkwatch',           ['darkwatch','jericho cross']],
+  ['hitman-games',        ['hitman agent 47','agent 47','hitman: codename']],
+  ['gta-series',          ['grand theft auto','gta','cj gta','tommy vercetti','gta vice','vice city','claude speed','gta iii','gta 3','trevor gtav','michael gtav','franklin gtav','gtav','gta v']],
+  ['rdr-series',          ['red dead','rdr2','arthur morgan','john marston','sadie adler','dutch van der linde']],
+  ['resident-evil',       ['resident evil','leon kennedy','leon s. kennedy','jill valentine','nemesis','tyrant','chris redfield','ada wong','mother miranda','re village','re5','albert wesker','leon: resident','resident evil requiem','re requiem']],
+
+  // 90s WB animated series (TAS = The Animated Series)
+  ['90s-animated-series', ['tas','stas','tas batman','tas joker','tas robin','tas riddler','tas catwoman','tas manbat','tas two-face','tas mr. freeze','tas mr freeze','tas penguin','tas bane','tas killer croc','tas alfred','tas poison ivy','tas nightwing','tas ra\'s al ghul','tas spider-man','venom tas','goblin tas','lizard-stas','mary jane tas','mj tas','kingpin tas','clayface tas']],
+
   // ===================== FORM FACTOR =====================
   ['busts',           ['bust','portrait']],
   ['sculptures',      ['sculpture','statue']],
@@ -328,6 +473,102 @@ const KEYWORD_RX = KEYWORD_TAGS.map(([tag, kws]) => [
   new RegExp('\\b(?:' + kws.map(escapeRe).join('|') + ')\\b', 'i'),
 ]);
 
+// When a model gets a franchise tag, also auto-apply the broad genre(s)
+// for that franchise — so we don't have to duplicate every character name
+// across both the franchise tag and the broad genre keyword list. Newer
+// franchise tags lean on this; older ones still have duplicated keywords
+// in the broad genre lists (harmless, just redundant).
+const FRANCHISE_TO_GENRES = {
+  // TV / streaming
+  'black-sails':           ['tv-shows'],
+  'peaky-blinders':        ['tv-shows'],
+  'vikings-show':          ['tv-shows'],
+  'game-of-thrones':       ['tv-shows'],
+  'wednesday-addams':      ['tv-shows'],
+  'ash-evil-dead':         ['tv-shows'],
+  'wwe-wrestling':         ['tv-shows'],
+  '90s-animated-series':   ['cartoons','tv-shows'],
+
+  // Horror / monsters
+  'universal-monsters':    ['movies','horror'],
+  'texas-chainsaw':        ['movies','horror'],
+  'friday-the-13th':       ['movies','horror'],
+  'nightmare-elm-street':  ['movies','horror'],
+  'hellraiser':            ['movies','horror'],
+  'scream':                ['movies','horror'],
+  '13-ghosts':             ['movies','horror'],
+  'carrie-movie':          ['movies','horror'],
+  'brightburn':            ['movies','horror'],
+  'krampus':               ['movies','horror'],
+  'sleepy-hollow':         ['movies','horror'],
+  'sweeney-todd':          ['movies','horror'],
+
+  // Adventure / drama films
+  'goonies':               ['movies'],
+  'tropic-thunder':        ['movies'],
+  'kill-bill':             ['movies'],
+  'pulp-fiction':          ['movies'],
+  'inglourious-basterds':  ['movies'],
+  'gladiator-movie':       ['movies'],
+  'braveheart':            ['movies'],
+  'the-300':               ['movies'],
+  'highlander':            ['movies'],
+  'james-bond':            ['movies'],
+  'hook-movie':            ['movies'],
+  'willow-movie':          ['movies'],
+  'willy-wonka':           ['movies'],
+  'elf-movie':             ['movies'],
+  'big-trouble-china':     ['movies'],
+  'v-for-vendetta':        ['movies'],
+  'constantine-movie':     ['movies'],
+  'men-in-black':          ['movies'],
+  'crocodile-dundee':      ['movies'],
+  'forrest-gump':          ['movies'],
+  'boondock-saints':       ['movies'],
+  'face-off-movie':        ['movies'],
+  'tombstone-movie':       ['movies'],
+  'last-of-mohicans':      ['movies'],
+  'point-break':           ['movies'],
+  'hacksaw-ridge':         ['movies'],
+  'public-enemies':        ['movies'],
+  'the-patriot':           ['movies'],
+  'jaws-movie':            ['movies'],
+  'indiana-jones':         ['movies'],
+  'pirates-caribbean':     ['movies'],
+  'the-crow':              ['movies'],
+  'scarface-movie':        ['movies'],
+  'austin-powers':         ['movies'],
+  'elvis-tribute':         ['movies'],
+  'zorro':                 ['movies'],
+  'django-unchained':      ['movies'],
+  'scorpion-king':         ['movies'],
+  'day-of-the-jackal':     ['movies'],
+  'rocky-films':           ['movies'],
+
+  // Batman film eras
+  'batman-1989-burton':    ['movies','dc'],
+  'batman-schumacher':     ['movies','dc'],
+  'dark-knight-trilogy':   ['movies','dc'],
+  'the-batman-2022':       ['movies','dc'],
+  'bvs-dceu':              ['movies','dc'],
+  'the-flash-movie':       ['movies','dc'],
+
+  // Videogame franchises
+  'arkham-series':         ['videogames','dc'],
+  'tenchu':                ['videogames'],
+  'dota':                  ['videogames'],
+  'dantes-inferno':        ['videogames'],
+  'the-evil-within':       ['videogames'],
+  'diablo':                ['videogames'],
+  'ninja-gaiden':          ['videogames'],
+  'shadow-of-war':         ['videogames'],
+  'darkwatch':             ['videogames'],
+  'hitman-games':          ['videogames'],
+  'gta-series':            ['videogames'],
+  'rdr-series':            ['videogames'],
+  'resident-evil':         ['videogames'],
+};
+
 // Hard exclusions: titles matching any of these are dropped entirely.
 // Covers life-size props, mass bundles, and oversized scale props.
 const EXCLUDE_PATTERNS = [
@@ -340,6 +581,14 @@ const EXCLUDE_PATTERNS = [
   // Patreon-style subscription tier listings (not models).
   /\b(standard|premium|gold|silver|bronze)\s+tier\b/i,
   /\bterm\b.*\btier\b/i,
+  // VS3D-style "Month Rewards" / multi-model bundle listings (not individual models).
+  /\b\d+\s+month\s+rewards?\b/i,
+  /\b\d+\s+month\s+\d+\s+model\s+pack\b/i,
+  /\blong\s+term\s+(models?|rewards?\s+models?)\s*\d*\b/i,
+  /^\s*long\s+term\s+reward\s+models\b/i,
+  /\bmodel\s+pack\b/i,
+  // Meta listings from VS3D ("Dantes models(former artist)").
+  /\bformer\s+artist\b/i,
 ];
 
 // Standalone-prop detector: title has a weapon keyword but no sculpture
@@ -361,6 +610,13 @@ function inferTags(text) {
   const out = new Set();
   for (const [tag, rx] of KEYWORD_RX) {
     if (rx.test(hay)) out.add(tag);
+  }
+  // Backfill broad genres from franchise tags so every Goonies/Black Sails/
+  // Arkham character gets movies/tv-shows/videogames respectively, without
+  // having to duplicate the keyword in two places.
+  for (const tag of [...out]) {
+    const genres = FRANCHISE_TO_GENRES[tag];
+    if (genres) for (const g of genres) out.add(g);
   }
   return [...out];
 }
