@@ -75,6 +75,11 @@ const KEYWORD_TAGS = [
     'no way home','daredevil red','daredevil black','red devil','the man in black','amazing web slinger',
     'eddys spiderman','abraham whistler','deacon frost','jared nomak','blade vs deacon','ghost rider vengeance',
     'punisher museum','the punisher','clayface tas','goblin spider',
+    // Carlos Edu additions
+    'psylocke','jubilee','madelyne pryor','x-23','spider punk','spidergirl','cloak and dagger',
+    'lady loki','scarlet spider','spider gwen','gwenom','atom eve','emma frost','dr doom','dr. doom',
+    'invisible woman','dani moonstar','hela','kitty pride','kitty pryde','king thor','gladiator hulk',
+    'ultimate spider pack','ultimate mutant pack','dabi','wolverine x',
   ]],
   ['dc', [
     'dc comics','batman','superman','wonder woman','aquaman','flash','green lantern',
@@ -92,6 +97,8 @@ const KEYWORD_TAGS = [
     'mr. freeze','mr freeze','arkham','jim and barb','batsignal','eddys batman','eddys superman','eddys joker',
     'eddys aquaman','eddys green lantern','eddys wonder woman','eddys the flash','batman complete lineup',
     'jl line up','justice league line up','knight of steel','oswald cobblepot',
+    // Carlos Edu additions
+    'lady lobo','mary marvel','power girl','samurai wonder woman',
   ]],
   ['anime', [
     'jujutsu','sukuna','ryomen','gojo','itadori','maki','yuta','yuji','toji',
@@ -243,13 +250,13 @@ const KEYWORD_TAGS = [
   ['tmnt',            ['tmnt','ninja turtles','donatello','raphael','michelangelo','leonardo','master splinter','last ronin','foot clan','shredder','krang']],
   ['masters-of-the-universe', ['he-man','skeletor','masters of the universe','motu','teela','beastman']],
   ['thundercats',     ['thundercats','lion o','lion-o','cheetara','mum-ra','mum ra','panthro','wilykat']],
-  ['power-rangers',   ['power ranger','power rangers','red ranger','green ranger','blue ranger','pink ranger']],
+  ['power-rangers',   ['power ranger','power rangers','red ranger','green ranger','blue ranger','pink ranger','lord drakkon']],
   ['invincible',      ['invincible','mark grayson','omni-man','omni man']],
   ['witchblade',      ['witchblade']],
   ['transformers',    ['transformers','megatron','optimus prime','bumblebee','starscream']],
   ['darksiders',      ['darksiders','horsemen']],
   // Movies / cinematic
-  ['star-wars',       ['mandalorian','grogu','star wars','jedi','sith','baby yoda','ahsoka','darth vader','darth maul','obi-wan','obi wan','luke skywalker','han solo','boba fett','yoda','samurai ahsoka']],
+  ['star-wars',       ['mandalorian','grogu','star wars','jedi','sith','baby yoda','ahsoka','darth vader','darth maul','obi-wan','obi wan','luke skywalker','han solo','boba fett','yoda','samurai ahsoka','darth talon','bastila shan','shae vizla','princess leia','leia organa','anakin','starkiller','kotor','swtor']],
   ['lotr',            ['gandalf','balrog','lord of the rings','frodo','aragorn','sauron','gollum','legolas','gimli']],
   ['harry-potter',    ['harry potter','hogwarts','voldemort','dumbledore','snape','hermione','ron weasley']],
   ['pirates',         ['jack sparrow','pirates of the caribbean','davy jones']],
@@ -268,15 +275,15 @@ const KEYWORD_TAGS = [
   // Anime / manga franchises
   ['jujutsu-kaisen',  ['jujutsu kaisen','jujutsu','sukuna','ryomen','gojo','itadori','maki','yuta','yuji','toji']],
   ['naruto',          ['naruto','sasuke','itachi','jiraiya','madara','minato','kakashi','gaara','six paths of pain','maito gai']],
-  ['dragon-ball',     ['dragon ball','goku','vegeta','gohan','majin','cell','frieza','broly','ssj2','beerus','piccolo']],
+  ['dragon-ball',     ['dragon ball','goku','vegeta','gohan','majin','cell','frieza','broly','ssj2','beerus','piccolo','bulma','chi-chi','android 18','trunks']],
   ['one-piece',       ['one piece','luffy','zoro','sanji','nami','ace','law','doflamingo','mihawk','boa hancock','yamato','donquixote','shanks','red hair shanks']],
   ['demon-slayer',    ['demon slayer','tanjiro','nezuko','giyu','kyojuro','akaza','muzan']],
-  ['bleach',          ['bleach','ichigo','ulquiorra','kenpachi','kon','vasto lorde']],
+  ['bleach',          ['bleach','ichigo','ulquiorra','kenpachi','kon','vasto lorde','soi fon','yoruichi','nelliel','rukia']],
   ['my-hero-academia',['my hero academia','dark deku','deku','bakugo','all might','todoroki']],
   ['hunter-x-hunter', ['hunter x hunter','hunterxhunter','killua','gon','hisoka','meruem','kurapika']],
   ['attack-on-titan', ['attack on titan','eren','mikasa','levi']],
   ['jojo',            ['jojo','jotaro','dio brando']],
-  ['berserk',         ['berserk','guts','griffith','femto','beast of darkness','behelit']],
+  ['berserk',         ['berserk','guts','griffith','femto','beast of darkness','behelit','casca','zodd','slan','god hand']],
   ['ghost-in-the-shell', ['ghost in the shell','motoko','kusanagi']],
   ['inuyasha',        ['inuyasha','sesshomaru']],
   ['solo-leveling',   ['solo leveling','sung jinwoo','sung jin-woo','jin-woo','beru']],
@@ -290,19 +297,19 @@ const KEYWORD_TAGS = [
   ['soul-eater',      ['soul eater','lord death']],
   ['fairy-tail',      ['fairy tail','natsu fairy','erza']],
   ['saint-seiya',     ['saint seiya','pegasus seiya','shiryu']],
-  ['kaiju-no-8',      ['kaiju no.8','kaiju n.8','kaiju n8','kaiju number 8','soshiro hoshina']],
-  ['fate-series',     ['fate/stay night','fate stay night','fate/grand order','rin tohsaka']],
+  ['kaiju-no-8',      ['kaiju no.8','kaiju n.8','kaiju n8','kaiju number 8','soshiro hoshina','kikoru']],
+  ['fate-series',     ['fate/stay night','fate stay night','fate/grand order','rin tohsaka','saber fate','altria pendragon']],
   ['devilman',        ['devilman','akira fudo']],
-  ['cowboy-bebop',    ['cowboy bebop','spike spiegel']],
-  ['fullmetal-alchemist', ['full metal alchemist','fullmetal alchemist','edward elric','alphonse elric']],
-  ['death-note',      ['death note','light yagami','l lawliet','ryuk']],
+  ['cowboy-bebop',    ['cowboy bebop','spike spiegel','faye valentine','jet black','ed cowboy']],
+  ['fullmetal-alchemist', ['full metal alchemist','fullmetal alchemist','edward elric','alphonse elric','winry rockbell','roy mustang','lust fma']],
+  ['death-note',      ['death note','light yagami','l lawliet','ryuk','misa amane']],
   ['one-punch-man',   ['one punch man','onepunch man','saitama','garou','puri-puri']],
   ['tokyo-ghoul',     ['tokyo ghoul','ken kaneki','kaneki','touka kirishima']],
   ['fire-force',      ['fire force','shinra kusakabe','benimaru shinmon']],
   ['dr-stone',        ['dr stone','dr. stone','senku ishigami']],
-  ['trigun',          ['trigun','vash the stampede']],
+  ['trigun',          ['trigun','vash the stampede','vash 3d','vash trigun']],
   ['chainsaw-man',    ['chainsaw man','chainsawman','denji','pochita','makima','power x meowy','aki hayakawa','fox devil']],
-  ['avatar-last-airbender', ['avatar: the last airbender','last airbender','aang','appa','momo aang','zuko','azula','korra']],
+  ['avatar-last-airbender', ['avatar: the last airbender','last airbender','aang','appa','momo aang','zuko','azula','korra','toph','sokka','katara','iroh']],
   ['evangelion',      ['neon genesis evangelion','rei ayanami','asuka langley','shinji ikari']],
   ['seven-deadly-sins', ['seven deadly sins','meliodas','elizabeth seven','escanor']],
   ['shangri-la',      ['shangri la frontier','shangri-la','sunraku']],
@@ -316,7 +323,7 @@ const KEYWORD_TAGS = [
   ['gears-of-war',    ['gears of war','dominic santiago','marcus fenix']],
   ['resident-evil',   ['resident evil','leon kennedy','leon s. kennedy','jill valentine','nemesis','tyrant','chris redfield','ada wong']],
   ['mortal-kombat',   ['mortal kombat','scorpion','sub-zero','sub zero','raiden','goro','liu kang','kitana','sonya blade','noob saibot']],
-  ['street-fighter',  ['street fighter','chun-li','chun li','m. bison','ryu','ken masters']],
+  ['street-fighter',  ['street fighter','chun-li','chun li','m. bison','ryu','ken masters','cammy','akuma street','akuma sf']],
   ['mega-man',        ['mega man','megaman','megaman x']],
   ['crash-bandicoot', ['crash bandicoot']],
   ['super-mario',     ['super mario','mario bros','luigi','bowser','toad','yoshi','peach','princess daisy','daisy mario']],
@@ -328,18 +335,18 @@ const KEYWORD_TAGS = [
   ['devil-may-cry',   ['devil may cry','dante','vergil','nero']],
   ['bayonetta',       ['bayonetta']],
   ['cuphead',         ['cuphead','mugman']],
-  ['league-of-legends', ['league of legends','twitch','jinx','vi','garen','viego','nidalee','ashe','evelynn','yasuo','ahri','akali','zed']],
+  ['league-of-legends', ['league of legends','twitch','jinx','vi','garen','viego','nidalee','ashe','evelynn','yasuo','ahri','akali','zed','kai\'sa','caitlyn','morgana','blood moon diana','diana league','lol champion']],
   ['overwatch',       ['overwatch','tracer','d.va','genji','reinhardt']],
-  ['cyberpunk',       ['cyberpunk','johnny silverhand']],
+  ['cyberpunk',       ['cyberpunk','johnny silverhand','david martinez','rebecca smasher','rebecca cyberpunk','lucy edgerunners','edgerunners']],
   ['dark-souls',      ['dark souls']],
-  ['bloodborne',      ['bloodborne']],
-  ['elden-ring',      ['elden ring','radahn','malenia']],
+  ['bloodborne',      ['bloodborne','plain doll','lady maria','the hunter bloodborne']],
+  ['elden-ring',      ['elden ring','radahn','malenia','ranni','blaidd','marika','melina']],
   ['metroid',         ['metroid','samus aran','samus']],
   ['zelda',           ['legend of zelda','link','ganondorf','zelda']],
-  ['final-fantasy',   ['final fantasy','chocobo','cloud strife','sephiroth','tifa','aerith','terra','kefka']],
+  ['final-fantasy',   ['final fantasy','chocobo','cloud strife','sephiroth','tifa','aerith','terra','kefka','lightning final','ff7','ff13','ff14','ff16']],
   ['assassins-creed', ['assassin\'s creed','assassins creed','ezio','altair']],
   ['portal',          ['portal bots','p-body','atlas','wheatley','glados']],
-  ['metal-gear',      ['metal gear','big boss','solid snake']],
+  ['metal-gear',      ['metal gear','big boss','solid snake','quiet metal gear','quiet mgs','naked snake','venom snake','psycho mantis','revolver ocelot']],
   ['skyrim',          ['skyrim','dovahkiin','dragonborn','elder scrolls']],
   ['kingdom-hearts',  ['kingdom hearts','sora kh','riku kh']],
   ['metal-slug',      ['metal slug','tarma roving']],
@@ -351,8 +358,8 @@ const KEYWORD_TAGS = [
   ['pokemon',         ['pokemon','pokémon','mewtwo','wobbuffet','voltorb','pikachu','charizard','gen 10 starters']],
   ['halo',            ['halo','master chief','cortana']],
   ['star-fox',        ['star fox','fox mccloud','starfox']],
-  ['nier',            ['nier','nier: automata','nier automata','2b - nier']],
-  ['darkstalkers',    ['darkstalkers','morrigan']],
+  ['nier',            ['nier','nier: automata','nier automata','2b - nier','2b nier','2b-','swimsuit 2b','a2 nier','a2 3d','automata']],
+  ['darkstalkers',    ['darkstalkers','morrigan','felicia darkstalkers','felicia 3d']],
   ['guilty-gear',     ['guilty gear','bridget']],
   ['silent-hill',     ['silent hill','pyramid head']],
   ['fallout',         ['fallout','vault boy']],
@@ -452,10 +459,60 @@ const KEYWORD_TAGS = [
   ['hitman-games',        ['hitman agent 47','agent 47','hitman: codename']],
   ['gta-series',          ['grand theft auto','gta','cj gta','tommy vercetti','gta vice','vice city','claude speed','gta iii','gta 3','trevor gtav','michael gtav','franklin gtav','gtav','gta v']],
   ['rdr-series',          ['red dead','rdr2','arthur morgan','john marston','sadie adler','dutch van der linde']],
-  ['resident-evil',       ['resident evil','leon kennedy','leon s. kennedy','jill valentine','nemesis','tyrant','chris redfield','ada wong','mother miranda','re village','re5','albert wesker','leon: resident','resident evil requiem','re requiem']],
+  ['resident-evil',       ['resident evil','leon kennedy','leon s. kennedy','jill valentine','nemesis','tyrant','chris redfield','ada wong','mother miranda','re village','re5','albert wesker','leon: resident','resident evil requiem','re requiem','lady dimitrescu','dimitrescu']],
 
   // 90s WB animated series (TAS = The Animated Series)
   ['90s-animated-series', ['tas','stas','tas batman','tas joker','tas robin','tas riddler','tas catwoman','tas manbat','tas two-face','tas mr. freeze','tas mr freeze','tas penguin','tas bane','tas killer croc','tas alfred','tas poison ivy','tas nightwing','tas ra\'s al ghul','tas spider-man','venom tas','goblin tas','lizard-stas','mary jane tas','mj tas','kingpin tas','clayface tas']],
+
+  // ---------- Carlos Edu-driven additions ----------
+  // Games / RPGs
+  ['world-of-warcraft',   ['world of warcraft','warcraft','sylvanas','alexstrasza','lich king','jaina','tyrande','sally whitemane','death knight','azashara','azshara','wow lich','wukong wow']],
+  ['starcraft',           ['starcraft','sarah kerrigan','kerrigan','nova starcraft','nova- starcraft']],
+  ['baldurs-gate',        ['baldur\'s gate','baldurs gate','karlach','shadowheart','astarion','lae\'zel','wyll','orin the red','orin baldur']],
+  ['dead-space',          ['dead space','isaac clarke']],
+  ['horizon-zero-dawn',   ['horizon zero dawn','horizon forbidden west','aloy','alloy horizon','alloy 3d','alloy print']],
+  ['tron-movie',          ['tron movie','tron legacy','quorra']],
+  ['tekken',              ['tekken','kazuya','heihachi','jin kazama']],
+  ['dead-or-alive',       ['dead or alive','tina armstrong','kasumi doa']],
+  ['magic-the-gathering', ['magic the gathering','mtg','chandra','liliana','jace beleren']],
+
+  // Anime / manga
+  ['sailor-moon',         ['sailor moon','sailor mercury','sailor mars','sailor venus','rei hino','makoto kino','minako aino','ami mizuno','usagi tsukino']],
+  ['rurouni-kenshin',     ['rurouni kenshin','kenshin himura','kenshin']],
+  ['akame-ga-kill',       ['akame ga kill','akame']],
+  ['akira-anime',         ['akira anime','kaneda','tetsuo akira']],
+  ['gurren-lagann',       ['gurren lagann','yoko littner','simon','kamina']],
+  ['gatchaman',           ['gatchaman','jun the swan']],
+  ['rwby',                ['rwby','pyrrha nikos','ruby rose']],
+
+  // Mythology / lore
+  ['greek-mythology',     ['zeus','hera','aphrodite','hercules','ares','poseidon','persephone','nyx','medusa','apolo','apollo greek','gaia','sphinx','dareios','greek god','olympian','hades 3d','hades print','demeter']],
+  ['norse-mythology',     ['freyja','thor norse','odin norse','loki norse','valkyrie','baldur norse']],
+  ['egyptian-mythology',  ['anubis','cleopatra','egyptian god','horus egypt']],
+  ['arthurian',           ['lady of the lake','merlin','king arthur','excalibur']],
+
+  // Disney / animated film
+  ['disney-princess',     ['mulan','jasmine','alice','kida atlantis','kida 3d','chel el dorado','chel 3d','ariel','belle disney','rapunzel','elsa frozen','moana','red riding hood']],
+  ['disney-villains',     ['maleficent','ursula','evil queen','queen of hearts','cruella','jafar disney','scar disney']],
+  ['the-mask-movie',      ['the mask 3d','the mask movie']],
+
+  // Other film / TV
+  ['rambo',               ['rambo']],
+  ['robocop',             ['robocop']],
+  ['judge-dredd',         ['judge dredd']],
+  ['tank-girl',           ['tank girl']],
+  ['the-fifth-element',   ['fifth element','leeloo']],
+  ['rocketeer',           ['rocketeer']],
+  ['inspector-gadget',    ['inspector gadget']],
+  ['riddick',             ['riddick','vin diesel riddick','riddick with jackal']],
+  ['bloodsport-movie',    ['bloodsport','frank dux']],
+  ['vampirella',          ['vampirella','vampi v']],
+  ['conan',               ['conan barbarian','conan the barbarian','conan 3d']],
+  ['hellgirl',            ['hellgirl']],
+  ['xena',                ['xena warrior princess','xena']],
+  ['jessica-rabbit',      ['jessica rabbit']],
+  ['judy-hopps',          ['judy hopps','zootopia']],
+  ['alita',               ['alita','battle angel']],
 
   // ===================== FORM FACTOR =====================
   ['busts',           ['bust','portrait']],
@@ -567,6 +624,47 @@ const FRANCHISE_TO_GENRES = {
   'gta-series':            ['videogames'],
   'rdr-series':            ['videogames'],
   'resident-evil':         ['videogames'],
+
+  // Carlos Edu additions
+  'world-of-warcraft':     ['videogames'],
+  'starcraft':             ['videogames'],
+  'baldurs-gate':          ['videogames'],
+  'dead-space':            ['videogames'],
+  'horizon-zero-dawn':     ['videogames'],
+  'tron-movie':            ['movies'],
+  'tekken':                ['videogames'],
+  'dead-or-alive':         ['videogames'],
+  'magic-the-gathering':   ['videogames'],
+  'sailor-moon':           ['anime'],
+  'rurouni-kenshin':       ['anime'],
+  'akame-ga-kill':         ['anime'],
+  'akira-anime':           ['anime'],
+  'gurren-lagann':         ['anime'],
+  'gatchaman':             ['anime'],
+  'rwby':                  ['anime'],
+  'greek-mythology':       [],
+  'norse-mythology':       [],
+  'egyptian-mythology':    [],
+  'arthurian':             [],
+  'disney-princess':       ['movies','cartoons','pixar-disney'],
+  'disney-villains':       ['movies','cartoons','pixar-disney'],
+  'the-mask-movie':        ['movies'],
+  'rambo':                 ['movies'],
+  'robocop':               ['movies'],
+  'judge-dredd':           ['movies'],
+  'tank-girl':             ['movies'],
+  'the-fifth-element':     ['movies'],
+  'rocketeer':             ['movies'],
+  'inspector-gadget':      ['movies','cartoons'],
+  'riddick':               ['movies'],
+  'bloodsport-movie':      ['movies'],
+  'vampirella':            [],
+  'conan':                 ['movies'],
+  'hellgirl':              [],
+  'xena':                  ['tv-shows'],
+  'jessica-rabbit':        ['movies'],
+  'judy-hopps':            ['movies','cartoons','pixar-disney'],
+  'alita':                 ['movies'],
 };
 
 // Hard exclusions: titles matching any of these are dropped entirely.
@@ -589,6 +687,18 @@ const EXCLUDE_PATTERNS = [
   /\bmodel\s+pack\b/i,
   // Meta listings from VS3D ("Dantes models(former artist)").
   /\bformer\s+artist\b/i,
+  // Carlos Edu pack listings (not individual models).
+  /\bsuper\s+pack:\s/i,
+  /\bfemale\s+legends\s+pack\b/i,
+  /\bfantasy\s+pack\b/i,
+  /\bgame\s+girls\s+pack\b/i,
+  /\bhalloween\s+premium\s+pack\b/i,
+  /\bultimate\s+(spider|mutant)\s+pack\b/i,
+  /\btwo\s+legends\s+in\s+one\s+pack\b/i,
+  /\bcybernetic\s+world\b/i,
+  /\bepic\s+dioramas\b/i,
+  /\bbusts\s+(january|february|march|april|may|june|july|august|september|october|november|december)\s*(\d{4})?\s*$/i,
+  /^\s*may\s+releases\s*$/i,
 ];
 
 // Standalone-prop detector: title has a weapon keyword but no sculpture
@@ -606,7 +716,10 @@ function shouldExclude(title) {
 }
 
 function inferTags(text) {
-  const hay = text || '';
+  // Carlos Edu titles often have stray trailing underscores ("Morrigan_",
+  // "Alita__", "Lady Loki_") — underscores are word chars in JS regex so
+  // they kill `\b` boundaries. Replace them with spaces before matching.
+  const hay = (text || '').replace(/_+/g, ' ');
   const out = new Set();
   for (const [tag, rx] of KEYWORD_RX) {
     if (rx.test(hay)) out.add(tag);
