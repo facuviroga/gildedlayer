@@ -5,14 +5,34 @@ architecture changes.
 
 ## Brand
 
-The store brand is **GildedLayer**. Logo lives at `assets/img/logo.jpg`
-(warm-gold wordmark on a cream background, with a classical bust silhouette).
-The visual identity is "premium store, dark gallery": near-black warm
-background, gold accent (`#c79f3d`), serif headlines (Cormorant Garamond),
-sans body (Inter), tight uppercase letter-spacing on CTAs and section labels.
-Sculptor chips intentionally use a cool steel-blue tone — that color distinction
-between tag chips (gold) and sculptor chips (steel) is **load-bearing UX**, not
-decorative. Don't unify them.
+The store brand is **Gilded Layer** (official brand manual lives in
+`Entregables Gilded Layer/`, not committed to Pages). The identity is a
+**brutalist / editorial poster** look: condensed all-caps headlines, big type,
+grain textures, high contrast on a dark base.
+
+- **Logos** live in `assets/img/brand/`. `logo-horizontal.svg` (the imagotipo:
+  "GJ" shield monogram + condensed "GILDED LAYER" wordmark with underline
+  accents) is the primary lockup. Warm-gray `#d9d4d1` fill for dark
+  backgrounds; `logo-horizontal-dark.svg` (`#191819`) for light. `isotipo.svg`
+  is the shield alone (footer mark); `favicon.svg` is the shield on a violet
+  rounded tile. The old `assets/img/logo.jpg` is retired — don't reference it.
+- **Palette** (from the Manual Normativo, defined as CSS vars at the top of
+  `styles.css`): Negro Gilded `#191819` (base), Violáceo Gilded `#23021A`
+  (wine band bg), Pantone 2695 `#381744` (purple glow), Warm Gray 1 C
+  `#D9D4D1` (primary text/`--fg`), accent gold Pantone 7407 `#CDAF5F`
+  (`--accent`), warm charcoal `#443D44` (surfaces), Pantone 7660 `#7D7C8A`
+  (`--muted`), Pantone 642 `#B4BDC4` (steel — sculptor chips).
+- **Type**: headlines/titles use **Industrial Gothic** (condensed, self-hosted
+  from `assets/fonts/IndustrialGothic-Regular.otf` via `@font-face`, with
+  `Oswald` as the Google-Fonts fallback). Body/UI use **Archivo** (Google
+  Fonts), the web stand-in for the manual's DIN 2014 — the bundled DIN files
+  are Fontspring *DEMO* and must NOT be embedded on the public site.
+- Sculptor chips intentionally use the cool **steel** tone (`--cool`,
+  `#B4BDC4`) while tag chips use **gold** (`--accent`). That distinction is
+  **load-bearing UX**, not decorative. Don't unify them.
+- Grain texture (`assets/img/brand/texture-grain.jpg`, `--grain`) is overlaid
+  via `mix-blend-mode: overlay` on the header and wine CTA band. Keep it
+  subtle.
 
 ## Language
 

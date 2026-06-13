@@ -1,3 +1,7 @@
 node_modules/
 .DS_Store
 *.log
+
+# Local tooling / brand source (not part of the published site)
+.claude/
+Entregables Gilded Layer/
