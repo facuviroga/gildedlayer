@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T09:56:32.702Z",
-  "new_count": 0,
-  "count": 2812,
+  "generated_at": "2026-06-15T12:43:18.422Z",
+  "new_count": 12,
+  "count": 2824,
   "excluded_count": 52,
   "errors": [],
   "models": [
@@ -15429,6 +15429,18 @@
       "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
+      "id": "rechtag-studio--shay-cormac",
+      "slug": "shay-cormac",
+      "title": "Shay Cormac",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/m0ufkpesikok5lkcb4s2ygg7wg8x",
+      "source_url": "https://rechtagstudio.gumroad.com/l/vojumc",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
       "id": "tooniverse83--hank-stl",
       "slug": "hank-stl",
       "title": "HANK STL",
@@ -29478,6 +29490,157 @@
       ],
       "featured": false,
       "first_seen": "2026-06-09T23:32:37.312Z"
+    },
+    {
+      "id": "kaidan-3d--the-winged-dragon-of-ra-yu-gi-oh-stl-ready-for-3d-printing",
+      "slug": "the-winged-dragon-of-ra-yu-gi-oh-stl-ready-for-3d-printing",
+      "title": "The Winged Dragon of Ra YU-GI-OH! - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/g2855zsee6xbl3b9es5cjnteytsk",
+      "source_url": "https://kaidan3d.gumroad.com/l/frfgdz",
+      "description": "",
+      "tags": [
+        "anime",
+        "yugioh"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--general-grievous-star-wars-clone-wars-stl-ready-for-3d-printing",
+      "slug": "general-grievous-star-wars-clone-wars-stl-ready-for-3d-printing",
+      "title": "General Grievous STAR WARS: CLONE WARS  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/xmw34blskw1zihlee9lsmnlc8dpt",
+      "source_url": "https://kaidan3d.gumroad.com/l/alxrtp",
+      "description": "",
+      "tags": [
+        "star-wars"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--kafka-honkai-star-rail-stl-ready-for-3d-printing",
+      "slug": "kafka-honkai-star-rail-stl-ready-for-3d-printing",
+      "title": "Kafka HONKAI: STAR RAIL - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/ognff1ni34s95zy97vpbx3cosszp",
+      "source_url": "https://kaidan3d.gumroad.com/l/tbafcp",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--ash-pokemon-pokemon-stl-ready-for-3d-printing",
+      "slug": "ash-pokemon-pokemon-stl-ready-for-3d-printing",
+      "title": "Ash & Pokemon POKEMON - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/a0pp38e4s8cbqp7o3ak472h83trg",
+      "source_url": "https://kaidan3d.gumroad.com/l/abstnn",
+      "description": "",
+      "tags": [
+        "pokemon"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--doraemon-doraemon-stl-ready-for-3d-printing",
+      "slug": "doraemon-doraemon-stl-ready-for-3d-printing",
+      "title": "Doraemon DORAEMON - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/7jg86kunq7qv9rar5pcdduezws1g",
+      "source_url": "https://kaidan3d.gumroad.com/l/uixub",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--super-mario-mario-kart-stl-ready-for-3d-printing",
+      "slug": "super-mario-mario-kart-stl-ready-for-3d-printing",
+      "title": "Super Mario MARIO KART - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/6w7ty7tkcjb4krykw0xjm8p29lhe",
+      "source_url": "https://kaidan3d.gumroad.com/l/cwete",
+      "description": "",
+      "tags": [
+        "videogames",
+        "super-mario"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--higuruma-hiromi-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "slug": "higuruma-hiromi-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "title": "Higuruma Hiromi JUJUTSU KAISEN - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/1i2g7ugzuf7punbs9x9dhsw246uv",
+      "source_url": "https://kaidan3d.gumroad.com/l/yyxqru",
+      "description": "",
+      "tags": [
+        "anime",
+        "jujutsu-kaisen"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--lucy-x-david-cyber-punk-edge-runners-stl-ready-for-3d-printing",
+      "slug": "lucy-x-david-cyber-punk-edge-runners-stl-ready-for-3d-printing",
+      "title": "Lucy x David CYBER PUNK: EDGE RUNNERS - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/z6hp8uikhvw1h5u7njvyffl13t27",
+      "source_url": "https://kaidan3d.gumroad.com/l/yqooox",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--crash-crash-bandicoot-stl-ready-for-3d-printing",
+      "slug": "crash-crash-bandicoot-stl-ready-for-3d-printing",
+      "title": "Crash CRASH BANDICOOT - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/cx2kqnutjpd1xd1ai9af0uxzh66i",
+      "source_url": "https://kaidan3d.gumroad.com/l/wceww",
+      "description": "",
+      "tags": [
+        "videogames",
+        "crash-bandicoot"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--aizawa-my-hero-academia-stl-ready-for-3d-printing",
+      "slug": "aizawa-my-hero-academia-stl-ready-for-3d-printing",
+      "title": "Aizawa MY HERO ACADEMIA - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/1xr4mgqm5imcyuz03qzxsnvhkfy8",
+      "source_url": "https://kaidan3d.gumroad.com/l/vnbafo",
+      "description": "",
+      "tags": [
+        "anime",
+        "my-hero-academia"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--bojack-horseman-bojack-horseman-stl-ready-for-3d-printing",
+      "slug": "bojack-horseman-bojack-horseman-stl-ready-for-3d-printing",
+      "title": "Bojack Horseman BOJACK HORSEMAN - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/m4khf7b4hnucvu7xw4jymo19c3xp",
+      "source_url": "https://kaidan3d.gumroad.com/l/xitva",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-15T12:43:18.422Z"
     },
     {
       "id": "vs3d--billy-bones-black-sails",
