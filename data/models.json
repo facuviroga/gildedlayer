@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T12:43:18.422Z",
-  "new_count": 12,
-  "count": 2824,
+  "generated_at": "2026-06-16T11:34:32.463Z",
+  "new_count": 6,
+  "count": 2830,
   "excluded_count": 52,
   "errors": [],
   "models": [
@@ -13436,6 +13436,76 @@
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
+      "id": "3d-wicked--wicked-video-games-last-of-us-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-last-of-us-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Last of Us Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/3l1pl2v724awo1wwdvcutsvq11yv",
+      "source_url": "https://3dwicked.gumroad.com/l/LastofUsDiorama",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-16T11:34:32.463Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-joel-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-joel-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Joel Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/gke9mq3izjp19vdvo1wo1les2ejr",
+      "source_url": "https://3dwicked.gumroad.com/l/JoelS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-16T11:34:32.463Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-ellie-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-ellie-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Ellie Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/866mm17j9x764ql8s6lf2uoasjd6",
+      "source_url": "https://3dwicked.gumroad.com/l/EllieS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-16T11:34:32.463Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-joel-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-joel-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Joel Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/liq41wu8gfjw6q9u63fmcmbobwlr",
+      "source_url": "https://3dwicked.gumroad.com/l/JoelPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-16T11:34:32.463Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-ellie-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-ellie-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Ellie Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/pwbuvhwrdujmwwm5ohbuqlzzdc5w",
+      "source_url": "https://3dwicked.gumroad.com/l/EliPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-16T11:34:32.463Z"
+    },
+    {
       "id": "3d-wicked--wicked-marvel-april-2026-term-ghost-rider-caleb-diorama-tested-and-ready-for-3d",
       "slug": "wicked-marvel-april-2026-term-ghost-rider-caleb-diorama-tested-and-ready-for-3d",
       "title": "Wicked Marvel April 2026 Term Ghost Rider Caleb Diorama: Tested and ready for 3D printing",
@@ -15211,6 +15281,20 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "zez-collectibles--sabrethooth-stl-bust",
+      "slug": "sabrethooth-stl-bust",
+      "title": "SABRETHOOTH STL + BUST ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/aj914xmw5854fayjf40hszbbpalw",
+      "source_url": "https://zezcollectibles.gumroad.com/l/sabrethooth",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-16T11:34:32.463Z"
     },
     {
       "id": "rechtag-studio--batman-who-laughs",
