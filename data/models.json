@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-06-16T11:34:32.463Z",
-  "new_count": 6,
-  "count": 2830,
+  "generated_at": "2026-06-17T11:17:27.850Z",
+  "new_count": 1,
+  "count": 2831,
   "excluded_count": 52,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--ciri-3d-print",
+      "slug": "ciri-3d-print",
+      "title": "CIRI 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/v6pd5w0tgn3hst8uezqlwbjq2a01",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/ojwdr",
+      "description": "",
+      "tags": [
+        "videogames",
+        "the-witcher"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-17T11:17:27.850Z"
+    },
     {
       "id": "zenith-collectibles--billy-and-mandy-3d-print",
       "slug": "billy-and-mandy-3d-print",
