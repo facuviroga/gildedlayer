@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-06-17T11:17:27.850Z",
+  "generated_at": "2026-06-18T10:48:13.639Z",
   "new_count": 1,
-  "count": 2831,
+  "count": 2832,
   "excluded_count": 52,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--rango-3d-print",
+      "slug": "rango-3d-print",
+      "title": "RANGO 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/pd3241uoj16wyxq4r7qn137o3soa",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/onqqmg",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-18T10:48:13.639Z"
+    },
     {
       "id": "zenith-collectibles--ciri-3d-print",
       "slug": "ciri-3d-print",
