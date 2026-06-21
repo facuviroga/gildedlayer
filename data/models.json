@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T09:42:28.765Z",
-  "new_count": 0,
-  "count": 2832,
+  "generated_at": "2026-06-21T10:05:19.885Z",
+  "new_count": 5,
+  "count": 2837,
   "excluded_count": 52,
   "errors": [],
   "models": [
@@ -15324,6 +15324,20 @@
       "first_seen": "2026-06-16T11:34:32.463Z"
     },
     {
+      "id": "zez-collectibles--man-spider-stl-bust",
+      "slug": "man-spider-stl-bust",
+      "title": "MAN SPIDER STL + BUST ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/y6kg6e1b9vrtvqhf39h3kiv3y8jh",
+      "source_url": "https://zezcollectibles.gumroad.com/l/MANSPIDER",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-21T10:05:19.885Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -21730,6 +21744,61 @@
       ],
       "featured": false,
       "first_seen": "2026-06-09T23:32:37.312Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-may-term-2026-batman-kingdom-come-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-may-term-2026-batman-kingdom-come-portrait-bust-ready-for-printing",
+      "title": "B3DSERK May Term 2026 Batman Kingdom Come Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/ngilc1y43elcg6o0eoc2p5iqzd39",
+      "source_url": "https://b3dserk.gumroad.com/l/BatmanKingdoMPB",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-21T10:05:19.885Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-may-term-2026-jor-el-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-may-term-2026-jor-el-portrait-bust-ready-for-printing",
+      "title": "B3DSERK May Term 2026 Jor El Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/kkiakag0ja41m1xmrt4wnxa08a9v",
+      "source_url": "https://b3dserk.gumroad.com/l/JorElPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-21T10:05:19.885Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-may-term-2026-mandrakk-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-may-term-2026-mandrakk-portrait-bust-ready-for-printing",
+      "title": "B3DSERK May Term 2026 Mandrakk Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/ylb22jukcrrw1jmugly1kzs78ccu",
+      "source_url": "https://b3dserk.gumroad.com/l/MandrakkPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-21T10:05:19.885Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-may-term-2026-jor-el-ship-ready-for-printing",
+      "slug": "b3dserk-may-term-2026-jor-el-ship-ready-for-printing",
+      "title": "B3DSERK May Term 2026 Jor-El Ship ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/28dt8b17u3ykolmkkktzr160o2yu",
+      "source_url": "https://b3dserk.gumroad.com/l/Jor-ElShip",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-21T10:05:19.885Z"
     },
     {
       "id": "tanuki-figures--android-18-dragon-ball-z",
