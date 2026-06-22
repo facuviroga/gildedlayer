@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T10:05:19.885Z",
+  "generated_at": "2026-06-22T12:26:12.907Z",
   "new_count": 5,
-  "count": 2837,
+  "count": 2842,
   "excluded_count": 52,
   "errors": [],
   "models": [
@@ -13531,6 +13531,76 @@
       ],
       "featured": false,
       "first_seen": "2026-06-16T11:34:32.463Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-pacific-rim-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-pacific-rim-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Pacific Rim Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/v2z437946xepc71qxkrdy1mo1oxl",
+      "source_url": "https://3dwicked.gumroad.com/l/PacificRim",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-22T12:26:12.907Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-gipsy-danger-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-gipsy-danger-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Gipsy Danger Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/t4vjjke7k5w4ypa8m81s0ynvtk7a",
+      "source_url": "https://3dwicked.gumroad.com/l/GipsyDangerS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-22T12:26:12.907Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-leatherback-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-leatherback-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Leatherback Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/fop048wcnqv8setxz93hu8w48ewm",
+      "source_url": "https://3dwicked.gumroad.com/l/KaijuS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-22T12:26:12.907Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-gipsy-danger-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-gipsy-danger-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Gipsy Danger Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/lj2d4s9xmuf66o770si2l478eunt",
+      "source_url": "https://3dwicked.gumroad.com/l/GipsyDangerB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-22T12:26:12.907Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-leatherback-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-leatherback-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Leatherback Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/5r81n4ubguh7h3a73o4ocvp7b153",
+      "source_url": "https://3dwicked.gumroad.com/l/KaijuB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-22T12:26:12.907Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-april-2026-term-ghost-rider-caleb-diorama-tested-and-ready-for-3d",
