@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T11:23:42.232Z",
-  "new_count": 7,
-  "count": 2882,
+  "generated_at": "2026-06-30T10:01:15.793Z",
+  "new_count": 15,
+  "count": 2897,
   "excluded_count": 52,
   "errors": [],
   "models": [
@@ -15905,6 +15905,51 @@
       "first_seen": "2026-06-27T08:49:47.036Z"
     },
     {
+      "id": "zez-collectibles--batman-throne-stl",
+      "slug": "batman-throne-stl",
+      "title": "BATMAN THRONE STL",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/zzlac69qigtvbebxrciuk3fbq0ej",
+      "source_url": "https://zezcollectibles.gumroad.com/l/batthrone",
+      "description": "",
+      "tags": [
+        "dc",
+        "thrones"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "zez-collectibles--joker-chibi-stl",
+      "slug": "joker-chibi-stl",
+      "title": "JOKER CHIBI STL",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/086e22zpjltm5et31f2uq1yxgn1t",
+      "source_url": "https://zezcollectibles.gumroad.com/l/jokervchibi",
+      "description": "",
+      "tags": [
+        "dc",
+        "chibi"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "zez-collectibles--cable-chibi-stl",
+      "slug": "cable-chibi-stl",
+      "title": "CABLE  CHIBI STL",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/pxjsg1vhjj7m7log5y8vb083z81t",
+      "source_url": "https://zezcollectibles.gumroad.com/l/CABLCHIBI",
+      "description": "",
+      "tags": [
+        "marvel",
+        "chibi"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -16099,7 +16144,7 @@
       "slug": "nerona-imu",
       "title": "Nerona Imu",
       "creator": "Rechtag Studio",
-      "image": "https://public-files.gumroad.com/t6uusitf34z4loszkbamtnztucn6",
+      "image": "https://public-files.gumroad.com/sbkj5byg890p2pqnetsr33uovs21",
       "source_url": "https://rechtagstudio.gumroad.com/l/hyxrj",
       "description": "",
       "tags": [],
@@ -22368,6 +22413,94 @@
       "first_seen": "2026-06-21T10:05:19.885Z"
     },
     {
+      "id": "tanuki-figures--baba-yaga",
+      "slug": "baba-yaga",
+      "title": "Baba Yaga",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/9i59bzzhacwc9i4xnr229ccxfpac",
+      "source_url": "https://tanukifigures.gumroad.com/l/Baba-Yaga",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "tanuki-figures--baba-yaga-bust",
+      "slug": "baba-yaga-bust",
+      "title": "Baba Yaga - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/jys4bvu8sg75q5ukdtbje1gaw8q5",
+      "source_url": "https://tanukifigures.gumroad.com/l/BabaYaga-Bust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "tanuki-figures--san-princess-mononoke",
+      "slug": "san-princess-mononoke",
+      "title": "San - Princess Mononoke",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/b26gbsx25ic3d0ibqx32m68nm0v3",
+      "source_url": "https://tanukifigures.gumroad.com/l/San-PrincessMononoke",
+      "description": "",
+      "tags": [
+        "anime",
+        "studio-ghibli"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "tanuki-figures--san-princess-mononoke-bust",
+      "slug": "san-princess-mononoke-bust",
+      "title": "San - Princess Mononoke - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/yerwcciasr34f3390qxccgi5mh6o",
+      "source_url": "https://tanukifigures.gumroad.com/l/San-PrincessMononoke-Bust",
+      "description": "",
+      "tags": [
+        "anime",
+        "studio-ghibli",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "tanuki-figures--yennefer-the-witcher",
+      "slug": "yennefer-the-witcher",
+      "title": "Yennefer - The Witcher",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/e81x7yr69jtuph59y64m7zmpp3xr",
+      "source_url": "https://tanukifigures.gumroad.com/l/Yennefer-TheWitcher",
+      "description": "",
+      "tags": [
+        "videogames",
+        "the-witcher"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "tanuki-figures--yennefer-the-witcher-bust",
+      "slug": "yennefer-the-witcher-bust",
+      "title": "Yennefer - The Witcher - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/fd262u81f4v9ra6vec8x5oebpzbz",
+      "source_url": "https://tanukifigures.gumroad.com/l/Yennefer-TheWitcher-Bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "the-witcher",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
       "id": "tanuki-figures--faye-cowboy-bebop",
       "slug": "faye-cowboy-bebop",
       "title": "Faye - Cowboy Bebop",
@@ -22428,6 +22561,37 @@
       ],
       "featured": false,
       "first_seen": "2026-06-29T11:23:42.232Z"
+    },
+    {
+      "id": "tanuki-figures--jin-kazama-tekken",
+      "slug": "jin-kazama-tekken",
+      "title": "Jin Kazama - Tekken",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/2ajjcj50vidb8htw8fj7a0aokq9v",
+      "source_url": "https://tanukifigures.gumroad.com/l/JinKazama-Tekken",
+      "description": "",
+      "tags": [
+        "tekken",
+        "videogames"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "tanuki-figures--jin-kazama-tekken-bust",
+      "slug": "jin-kazama-tekken-bust",
+      "title": "Jin Kazama - Tekken - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/id9ciu26bxajszhdn4rf9xrxhece",
+      "source_url": "https://tanukifigures.gumroad.com/l/JinKazama-Tekken-Bust",
+      "description": "",
+      "tags": [
+        "tekken",
+        "busts",
+        "videogames"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
     },
     {
       "id": "tanuki-figures--goblin-slayer-chibi",
@@ -30494,6 +30658,66 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "vs3d--batman-beyond-animated",
+      "slug": "batman-beyond-animated",
+      "title": "Batman Beyond: Animated ",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/msd3gctwzuzxifnd4jpukegqh1o3",
+      "source_url": "https://vs3d.gumroad.com/l/ujmqza",
+      "description": "",
+      "tags": [
+        "dc",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "vs3d--the-iron-giant-diorama",
+      "slug": "the-iron-giant-diorama",
+      "title": "The Iron Giant Diorama",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/8qwabsqk2045h48g54pxo7fsexfu",
+      "source_url": "https://vs3d.gumroad.com/l/czwik",
+      "description": "",
+      "tags": [
+        "movies",
+        "cartoons",
+        "pixar-disney",
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "vs3d--edward-kenway",
+      "slug": "edward-kenway",
+      "title": "Edward Kenway",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/tzojjrdun9s1g2dis5aq5rgkk2ux",
+      "source_url": "https://vs3d.gumroad.com/l/zgcxue",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
+    },
+    {
+      "id": "vs3d--black-beard-black-sails",
+      "slug": "black-beard-black-sails",
+      "title": "Black Beard-Black Sails",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/wmq5im86afjpy839wmk38et2m8w6",
+      "source_url": "https://vs3d.gumroad.com/l/fhxyjv",
+      "description": "",
+      "tags": [
+        "movies",
+        "tv-shows",
+        "black-sails"
+      ],
+      "featured": false,
+      "first_seen": "2026-06-30T10:01:15.793Z"
     },
     {
       "id": "vs3d--billy-bones-black-sails",
