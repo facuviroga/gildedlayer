@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-01T10:14:20.831Z",
-  "new_count": 585,
-  "count": 3482,
+  "generated_at": "2026-07-02T09:32:03.430Z",
+  "new_count": 2,
+  "count": 3484,
   "excluded_count": 56,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--billy-butcher-3d-print",
+      "slug": "billy-butcher-3d-print",
+      "title": "BILLY BUTCHER 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/mxsely4eie9afigyuaoohbzlcxqb",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/iigthx",
+      "description": "",
+      "tags": [
+        "the-boys"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-02T09:32:03.430Z"
+    },
     {
       "id": "zenith-collectibles--penguins-3d-print",
       "slug": "penguins-3d-print",
@@ -16223,6 +16237,18 @@
       "first_seen": "2026-06-15T12:43:18.422Z"
     },
     {
+      "id": "rechtag-studio--sagat",
+      "slug": "sagat",
+      "title": "Sagat",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/1gzwe32t03qjra71o1buquudviy5",
+      "source_url": "https://rechtagstudio.gumroad.com/l/anwpzv",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-02T09:32:03.430Z"
+    },
+    {
       "id": "tooniverse83--hank-stl",
       "slug": "hank-stl",
       "title": "HANK STL",
@@ -22508,7 +22534,7 @@
       "slug": "b3dserk-june-term-2026-trigon-sculpture-ready-for-printing",
       "title": "B3DSERK June Term 2026 Trigon Sculpture ready for printing",
       "creator": "B3DSerk",
-      "image": "https://public-files.gumroad.com/ierqjiw5tjwxe11gf23yvmt9hx8m",
+      "image": "https://public-files.gumroad.com/abfh4qjk56t2gqm54a54b6rmbnif",
       "source_url": "https://b3dserk.gumroad.com/l/TrigonS",
       "description": "",
       "tags": [
