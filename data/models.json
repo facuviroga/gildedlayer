@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-07-08T08:43:51.661Z",
-  "new_count": 0,
-  "count": 2932,
+  "generated_at": "2026-07-09T09:57:10.045Z",
+  "new_count": 1,
+  "count": 2933,
   "excluded_count": 54,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--woody-3d-print",
+      "slug": "woody-3d-print",
+      "title": "WOODY 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/2dvrj35h457goivaggktrxg7evdy",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/zuerke",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-07T10:00:37.795Z"
+    },
+    {
+      "id": "zenith-collectibles--buzz-3d-print",
+      "slug": "buzz-3d-print",
+      "title": "BUZZ  3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/j6uqr8oeolvvd148lyjog964r80r",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/lrwtf",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-07T10:00:37.795Z"
+    },
     {
       "id": "zenith-collectibles--billy-butcher-3d-print",
       "slug": "billy-butcher-3d-print",
@@ -1033,30 +1057,6 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--buzz-3d-print",
-      "slug": "buzz-3d-print",
-      "title": "BUZZ  3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/j6uqr8oeolvvd148lyjog964r80r",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/lrwtf",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-07-07T10:00:37.795Z"
-    },
-    {
-      "id": "zenith-collectibles--woody-3d-print",
-      "slug": "woody-3d-print",
-      "title": "WOODY 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/2dvrj35h457goivaggktrxg7evdy",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/zuerke",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-07-07T10:00:37.795Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -16271,6 +16271,21 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-07-02T09:32:03.430Z"
+    },
+    {
+      "id": "rechtag-studio--skeletor",
+      "slug": "skeletor",
+      "title": "Skeletor",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/f27v2sfktoq4kdk2tpvxeo69enlg",
+      "source_url": "https://rechtagstudio.gumroad.com/l/biqrxk",
+      "description": "",
+      "tags": [
+        "cartoons",
+        "masters-of-the-universe"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-09T09:57:10.045Z"
     },
     {
       "id": "tooniverse83--hank-stl",
