@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T09:52:42.610Z",
-  "new_count": 0,
-  "count": 2933,
+  "generated_at": "2026-07-11T08:14:34.405Z",
+  "new_count": 5,
+  "count": 2938,
   "excluded_count": 54,
   "errors": [],
   "models": [
@@ -16033,6 +16033,21 @@
       "first_seen": "2026-07-01T10:14:20.831Z"
     },
     {
+      "id": "zez-collectibles--two-face-stl-bust",
+      "slug": "two-face-stl-bust",
+      "title": "TWO FACE STL + BUST ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/r65g4u1wq1vyymhkz2n0rbtxbui7",
+      "source_url": "https://zezcollectibles.gumroad.com/l/TWOFACE",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-11T08:14:34.405Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -22595,6 +22610,64 @@
       ],
       "featured": false,
       "first_seen": "2026-07-01T10:14:20.831Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-june-term-2026-man-of-steel-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-june-term-2026-man-of-steel-portrait-bust-ready-for-printing",
+      "title": "B3DSERK June Term 2026 Man of Steel Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/1w4appep7xvi858eomjp4lcf9i9m",
+      "source_url": "https://b3dserk.gumroad.com/l/ManofSteelPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-11T08:14:34.405Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-june-term-2026-spectre-kingdom-come-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-june-term-2026-spectre-kingdom-come-portrait-bust-ready-for-printing",
+      "title": "B3DSERK June Term 2026 Spectre Kingdom Come Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/lw6fwlz1l2s9irpo1rwyzlv6hqur",
+      "source_url": "https://b3dserk.gumroad.com/l/SpectreKingdomPB",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-11T08:14:34.405Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-june-term-2026-trigon-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-june-term-2026-trigon-portrait-bust-ready-for-printing",
+      "title": "B3DSERK June Term 2026 Trigon Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/a0b8r2nyy52sm4h7tyn1j4krpt4b",
+      "source_url": "https://b3dserk.gumroad.com/l/TrigonPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-11T08:14:34.405Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-june-term-2026-spectre-kingdom-come-bust-ready-for-printing",
+      "slug": "b3dserk-june-term-2026-spectre-kingdom-come-bust-ready-for-printing",
+      "title": "B3DSERK June Term 2026 Spectre Kingdom Come Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/xvwpbz2j4b0tc1fmexmdimp1rgi8",
+      "source_url": "https://b3dserk.gumroad.com/l/SpectreKingdomComeB",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-11T08:14:34.405Z"
     },
     {
       "id": "tanuki-figures--baba-yaga",
