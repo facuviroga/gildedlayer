@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-07-13T09:47:29.588Z",
-  "new_count": 0,
-  "count": 2938,
+  "generated_at": "2026-07-14T08:27:51.315Z",
+  "new_count": 2,
+  "count": 2940,
   "excluded_count": 54,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--dark-souls-3d-print",
+      "slug": "dark-souls-3d-print",
+      "title": "DARK SOULS 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/nt4ffx0su6y63xzex4hhbv5hklnr",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/rtvvak",
+      "description": "",
+      "tags": [
+        "videogames",
+        "dark-souls"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-14T08:27:51.315Z"
+    },
     {
       "id": "zenith-collectibles--woody-3d-print",
       "slug": "woody-3d-print",
@@ -16301,6 +16316,18 @@
       ],
       "featured": false,
       "first_seen": "2026-07-09T09:57:10.045Z"
+    },
+    {
+      "id": "rechtag-studio--spiderham",
+      "slug": "spiderham",
+      "title": "SpiderHam",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/refncrl5dz8vj0b5ug4pfnbu5xo6",
+      "source_url": "https://rechtagstudio.gumroad.com/l/pkhuge",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-14T08:27:51.315Z"
     },
     {
       "id": "tooniverse83--hank-stl",
