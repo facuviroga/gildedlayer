@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T08:27:51.315Z",
-  "new_count": 2,
-  "count": 2940,
+  "generated_at": "2026-07-15T08:35:51.743Z",
+  "new_count": 3,
+  "count": 2943,
   "excluded_count": 54,
   "errors": [],
   "models": [
@@ -13860,6 +13860,20 @@
       "first_seen": "2026-07-01T10:14:20.831Z"
     },
     {
+      "id": "3d-wicked--wicked-wildcard-music-elvis-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-wildcard-music-elvis-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked WILDCARD Music Elvis Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/s0elofczhlf8c99qq39i9hlfssdf",
+      "source_url": "https://3dwicked.gumroad.com/l/ElvisS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-15T08:35:51.743Z"
+    },
+    {
       "id": "3d-wicked--wicked-wildcard-music-michael-jackson-93-portrait-bust-tested-and-ready-for-3d-p",
       "slug": "wicked-wildcard-music-michael-jackson-93-portrait-bust-tested-and-ready-for-3d-p",
       "title": "Wicked WILDCARD Music Michael Jackson 93 Portrait Bust: Tested and ready for 3D printing ",
@@ -13873,6 +13887,20 @@
       ],
       "featured": false,
       "first_seen": "2026-07-01T10:14:20.831Z"
+    },
+    {
+      "id": "3d-wicked--wicked-wildcard-music-elvis-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-wildcard-music-elvis-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked WILDCARD Music Elvis Portrait Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/vv1a7a8o08jc8f4wjormx7a0hwg2",
+      "source_url": "https://3dwicked.gumroad.com/l/ElvisPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-15T08:35:51.743Z"
     },
     {
       "id": "zez-collectibles--deadpool-3d-print-bust",
@@ -16328,6 +16356,21 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-07-14T08:27:51.315Z"
+    },
+    {
+      "id": "rechtag-studio--all-might",
+      "slug": "all-might",
+      "title": "All Might",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/jsw8obf4gsdk04s2vtr639aivmcj",
+      "source_url": "https://rechtagstudio.gumroad.com/l/kmfpev",
+      "description": "",
+      "tags": [
+        "anime",
+        "my-hero-academia"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-15T08:35:51.743Z"
     },
     {
       "id": "tooniverse83--hank-stl",
