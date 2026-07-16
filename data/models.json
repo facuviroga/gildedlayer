@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T08:35:51.743Z",
-  "new_count": 3,
-  "count": 2943,
+  "generated_at": "2026-07-16T08:34:34.044Z",
+  "new_count": 8,
+  "count": 2951,
   "excluded_count": 54,
   "errors": [],
   "models": [
@@ -16373,6 +16373,20 @@
       "first_seen": "2026-07-15T08:35:51.743Z"
     },
     {
+      "id": "rechtag-studio--batgirl",
+      "slug": "batgirl",
+      "title": "Batgirl",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/rjrhp4dndvtujlc9l0qtlwpmsteh",
+      "source_url": "https://rechtagstudio.gumroad.com/l/xgfant",
+      "description": "",
+      "tags": [
+        "dc"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
       "id": "tooniverse83--hank-stl",
       "slug": "hank-stl",
       "title": "HANK STL",
@@ -30985,6 +30999,107 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-06-15T12:43:18.422Z"
+    },
+    {
+      "id": "kaidan-3d--maka-albarn-soul-eater-stl-ready-for-3d-printing",
+      "slug": "maka-albarn-soul-eater-stl-ready-for-3d-printing",
+      "title": "Maka Albarn SOUL EATER - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/3gnzo2mkse6nvpwljndvbt0pf3kr",
+      "source_url": "https://kaidan3d.gumroad.com/l/wjydk",
+      "description": "",
+      "tags": [
+        "anime",
+        "soul-eater"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "kaidan-3d--ryuma-one-piece-stl-ready-for-3d-printing",
+      "slug": "ryuma-one-piece-stl-ready-for-3d-printing",
+      "title": "Ryuma ONE PIECE - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/wzq48nll8nu0g0dodwl9xkvgybwv",
+      "source_url": "https://kaidan3d.gumroad.com/l/yiqbfc",
+      "description": "",
+      "tags": [
+        "anime",
+        "one-piece"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "kaidan-3d--zero-megaman-x-stl-ready-for-3d-printing",
+      "slug": "zero-megaman-x-stl-ready-for-3d-printing",
+      "title": "Zero MEGAMAN X - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/8nh3fmzqn5ui5salopwqhp8yqdn2",
+      "source_url": "https://kaidan3d.gumroad.com/l/bbegc",
+      "description": "",
+      "tags": [
+        "mega-man"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "kaidan-3d--erza-x-mirajane-fairy-tail-stl-ready-for-3d-printing",
+      "slug": "erza-x-mirajane-fairy-tail-stl-ready-for-3d-printing",
+      "title": "Erza x Mirajane FAIRY TAIL - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/vnioyls0mfi93sirzedplblap21g",
+      "source_url": "https://kaidan3d.gumroad.com/l/itbguy",
+      "description": "",
+      "tags": [
+        "anime",
+        "fairy-tail"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "kaidan-3d--rudo-gachiakuta-stl-ready-for-3d-printing",
+      "slug": "rudo-gachiakuta-stl-ready-for-3d-printing",
+      "title": "Rudo GACHIAKUTA - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/ka5zsxtpi4iahepxl9mu04ksj4yq",
+      "source_url": "https://kaidan3d.gumroad.com/l/bmlzzs",
+      "description": "",
+      "tags": [
+        "anime"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "kaidan-3d--arkham-knight-batman-arkham-knight-stl-ready-for-3d-printing",
+      "slug": "arkham-knight-batman-arkham-knight-stl-ready-for-3d-printing",
+      "title": "Arkham Knight BATMAN: ARKHAM KNIGHT - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/u8dul0zo3lecutjlv4gooy0mp3fa",
+      "source_url": "https://kaidan3d.gumroad.com/l/mwhiy",
+      "description": "",
+      "tags": [
+        "dc",
+        "videogames",
+        "arkham-series"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "vs3d--cameron-poe-con-air",
+      "slug": "cameron-poe-con-air",
+      "title": "Cameron Poe-Con Air",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/ignf2uqa9ul05affl5110xbk11bl",
+      "source_url": "https://vs3d.gumroad.com/l/hcssma",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-16T08:34:34.044Z"
     },
     {
       "id": "vs3d--frankenstein-2025",
