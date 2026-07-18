@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T08:28:16.247Z",
-  "new_count": 0,
-  "count": 2951,
+  "generated_at": "2026-07-18T08:08:59.823Z",
+  "new_count": 1,
+  "count": 2952,
   "excluded_count": 54,
   "errors": [],
   "models": [
@@ -1072,6 +1072,18 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "zenith-collectibles--samurai-jack-3d-print",
+      "slug": "samurai-jack-3d-print",
+      "title": "SAMURAI JACK 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/2qdafsvpue9vsjdu2w1z5hrgkp6k",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/tizkil",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-18T08:08:59.823Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
