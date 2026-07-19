@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T08:08:59.823Z",
+  "generated_at": "2026-07-19T08:32:54.334Z",
   "new_count": 1,
-  "count": 2952,
+  "count": 2953,
   "excluded_count": 54,
   "errors": [],
   "models": [
@@ -44179,6 +44179,18 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-07-07T10:00:37.795Z"
+    },
+    {
+      "id": "carlos-edu--the-necromancer-3d-print",
+      "slug": "the-necromancer-3d-print",
+      "title": " The Necromancer 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/2jjtgqthsr4ypazzgvjdom5cf867",
+      "source_url": "https://carlosedu.gumroad.com/l/ageph",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-19T08:32:54.334Z"
     }
   ]
 }
