@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T08:32:54.334Z",
-  "new_count": 1,
-  "count": 2953,
+  "generated_at": "2026-07-20T09:33:29.785Z",
+  "new_count": 2,
+  "count": 2946,
   "excluded_count": 54,
   "errors": [],
   "models": [
@@ -16103,6 +16103,37 @@
       "first_seen": "2026-07-11T08:14:34.405Z"
     },
     {
+      "id": "zez-collectibles--gohan-stl-bust",
+      "slug": "gohan-stl-bust",
+      "title": "GOHAN STL + BUST ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/n7ddk6edhcw28jcvtydokhp4rl9l",
+      "source_url": "https://zezcollectibles.gumroad.com/l/GOHAN",
+      "description": "",
+      "tags": [
+        "anime",
+        "dragon-ball",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-20T09:33:29.785Z"
+    },
+    {
+      "id": "zez-collectibles--hercules-stl-bust",
+      "slug": "hercules-stl-bust",
+      "title": "HERCULES STL + BUST",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/l2m8tbrbr209kc0l854n481emxkm",
+      "source_url": "https://zezcollectibles.gumroad.com/l/HECULES",
+      "description": "",
+      "tags": [
+        "greek-mythology",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-20T09:33:29.785Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -31271,21 +31302,6 @@
       "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
-      "id": "vs3d--ayame-tenchu",
-      "slug": "ayame-tenchu",
-      "title": "Ayame Tenchu",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/jinlmbkyjbcio6v3g0ih7qig6t8y",
-      "source_url": "https://vs3d.gumroad.com/l/hfxaie",
-      "description": "",
-      "tags": [
-        "videogames",
-        "tenchu"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
       "id": "vs3d--queen-of-pain",
       "slug": "queen-of-pain",
       "title": "Queen of Pain ",
@@ -32486,21 +32502,6 @@
       "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
-      "id": "vs3d--inarius-diablo-4",
-      "slug": "inarius-diablo-4",
-      "title": "Inarius Diablo 4",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/ndw55b4klh7i7rtumgh8fju6irln",
-      "source_url": "https://vs3d.gumroad.com/l/jlbys",
-      "description": "",
-      "tags": [
-        "videogames",
-        "diablo"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
       "id": "vs3d--batman-knight-of-steel",
       "slug": "batman-knight-of-steel",
       "title": "Batman Knight Of Steel",
@@ -33343,20 +33344,6 @@
       "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
-      "id": "vs3d--eddys-batman",
-      "slug": "eddys-batman",
-      "title": "Eddys Batman",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/2kontwe34rfkebd5ti9rkwxiiruw",
-      "source_url": "https://vs3d.gumroad.com/l/xkang",
-      "description": "",
-      "tags": [
-        "dc"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
       "id": "vs3d--the-jackal",
       "slug": "the-jackal",
       "title": "The Jackal",
@@ -33430,34 +33417,6 @@
       "tags": [
         "marvel",
         "x-men"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
-      "id": "vs3d--eddys-superman-justice-league-line-up",
-      "slug": "eddys-superman-justice-league-line-up",
-      "title": "Eddys Superman (Justice League Line Up)",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/7ydoc7jtx3ynhgyabons1r3xezxy",
-      "source_url": "https://vs3d.gumroad.com/l/ryhhig",
-      "description": "",
-      "tags": [
-        "dc"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
-      "id": "vs3d--eddys-joker",
-      "slug": "eddys-joker",
-      "title": "Eddys Joker",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/zcdozo8uej7ih9f178cc9vhhn4pc",
-      "source_url": "https://vs3d.gumroad.com/l/imafq",
-      "description": "",
-      "tags": [
-        "dc"
       ],
       "featured": false,
       "first_seen": "2026-06-09T23:32:37.312Z"
@@ -33573,21 +33532,6 @@
       "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
-      "id": "vs3d--eddy-s-aquaman-justice-league-line-up",
-      "slug": "eddy-s-aquaman-justice-league-line-up",
-      "title": "Eddy's Aquaman (Justice League Line Up)",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/2il0ddhocjhnixs14zpfwfjdwu15",
-      "source_url": "https://vs3d.gumroad.com/l/wppqk",
-      "description": "",
-      "tags": [
-        "dc",
-        "cartoons"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
       "id": "vs3d--majin-vegeta",
       "slug": "majin-vegeta",
       "title": "Majin Vegeta",
@@ -33675,21 +33619,6 @@
         "movies",
         "13-ghosts",
         "horror"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
-      "id": "vs3d--eddy-s-the-flash",
-      "slug": "eddy-s-the-flash",
-      "title": "Eddy's The Flash",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/j6yez0su80ecr0ykosgp3f5htxkk",
-      "source_url": "https://vs3d.gumroad.com/l/sjtjj",
-      "description": "",
-      "tags": [
-        "dc",
-        "cartoons"
       ],
       "featured": false,
       "first_seen": "2026-06-09T23:32:37.312Z"
@@ -33831,20 +33760,6 @@
       "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
-      "id": "vs3d--eddys-green-lantern-jl-line-up",
-      "slug": "eddys-green-lantern-jl-line-up",
-      "title": "Eddys Green Lantern(JL Line Up)",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/p24uje2swe8bfcf26wt9rgyiizd0",
-      "source_url": "https://vs3d.gumroad.com/l/bxgkvb",
-      "description": "",
-      "tags": [
-        "dc"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
       "id": "vs3d--old-man-logan",
       "slug": "old-man-logan",
       "title": "Old Man Logan",
@@ -33932,20 +33847,6 @@
         "movies",
         "13-ghosts",
         "horror"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
-      "id": "vs3d--eddys-wonder-woman-jl-line-up",
-      "slug": "eddys-wonder-woman-jl-line-up",
-      "title": "Eddys Wonder Woman(JL Line Up)",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/elqx5pv5rvft0qsz6pel9l7jyjl7",
-      "source_url": "https://vs3d.gumroad.com/l/uyevr",
-      "description": "",
-      "tags": [
-        "dc"
       ],
       "featured": false,
       "first_seen": "2026-06-09T23:32:37.312Z"
