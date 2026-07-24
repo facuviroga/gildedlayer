@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T08:44:17.728Z",
-  "new_count": 0,
-  "count": 2946,
+  "generated_at": "2026-07-24T08:42:31.763Z",
+  "new_count": 6,
+  "count": 2952,
   "excluded_count": 54,
   "errors": [],
   "models": [
@@ -1084,6 +1084,21 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-07-18T08:08:59.823Z"
+    },
+    {
+      "id": "zenith-collectibles--spider-man-3d-print",
+      "slug": "spider-man-3d-print",
+      "title": "SPIDER-MAN 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/3xkz976mk8k73k4p836soi59m2yj",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/tzomo",
+      "description": "",
+      "tags": [
+        "marvel",
+        "spider-verse"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-24T08:42:31.763Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -13913,6 +13928,76 @@
       ],
       "featured": false,
       "first_seen": "2026-07-15T08:35:51.743Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-lone-wolf-mcquade-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-lone-wolf-mcquade-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Lone Wolf McQuade Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/o15bpe8nblsttt82oazxz47i2mic",
+      "source_url": "https://3dwicked.gumroad.com/l/LoneWolfMcQuade",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-24T08:42:31.763Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-chuck-norris-lone-wolf-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-chuck-norris-lone-wolf-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Chuck Norris Lone Wolf Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/sbghh33kupfx7c2vgcqd2knjbyuj",
+      "source_url": "https://3dwicked.gumroad.com/l/ChuckNorrisSS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-24T08:42:31.763Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-rawley-wilke-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-rawley-wilke-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Rawley Wilke Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/ra7yanqxnun2lhzjazl24nfayugo",
+      "source_url": "https://3dwicked.gumroad.com/l/CarradineS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-24T08:42:31.763Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-chuck-norris-lone-wolf-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-chuck-norris-lone-wolf-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Chuck Norris Lone Wolf Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/d3i3ev7wrfrrw0921omiw3zixgjo",
+      "source_url": "https://3dwicked.gumroad.com/l/ChuckNorrisLW",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-24T08:42:31.763Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-rawley-wilke-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-rawley-wilke-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Rawley Wilke Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/7tmox7o6opvxus04zno15lb0ul06",
+      "source_url": "https://3dwicked.gumroad.com/l/CarradineB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-24T08:42:31.763Z"
     },
     {
       "id": "zez-collectibles--deadpool-3d-print-bust",
