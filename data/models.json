@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T09:08:43.149Z",
-  "new_count": 586,
-  "count": 3539,
+  "generated_at": "2026-07-30T08:50:08.641Z",
+  "new_count": 5,
+  "count": 3544,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -16321,6 +16321,18 @@
       ],
       "featured": false,
       "first_seen": "2026-07-20T09:33:29.785Z"
+    },
+    {
+      "id": "zez-collectibles--thragg-museum-stl",
+      "slug": "thragg-museum-stl",
+      "title": "THRAGG MUSEUM  STL ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/pfztszbhdf3bnmgzz3jmfd4ivpnw",
+      "source_url": "https://zezcollectibles.gumroad.com/l/thraggmusuem",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-30T08:50:08.641Z"
     },
     {
       "id": "rechtag-studio--batman-who-laughs",
@@ -39513,6 +39525,54 @@
       ],
       "featured": false,
       "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "vs3d--june-2026-entire-catalog",
+      "slug": "june-2026-entire-catalog",
+      "title": "June 2026 ENTIRE CATALOG",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/kqh32i3ts3ax7krzmubqvv5gho37",
+      "source_url": "https://vs3d.gumroad.com/l/hjsik",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-30T08:50:08.641Z"
+    },
+    {
+      "id": "vs3d--quarterly-reward-9-month-pack",
+      "slug": "quarterly-reward-9-month-pack",
+      "title": "Quarterly Reward - 9 Month Pack",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/ac2p1p8xzsx8r3m8xz4us0g2ooxj",
+      "source_url": "https://vs3d.gumroad.com/l/zbkhd",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-30T08:50:08.641Z"
+    },
+    {
+      "id": "vs3d--quarterly-reward-6-month-pack",
+      "slug": "quarterly-reward-6-month-pack",
+      "title": "Quarterly Reward - 6 Month Pack",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/nme1p8oiqsnqje0klb01xhtr8aeh",
+      "source_url": "https://vs3d.gumroad.com/l/amkmag",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-30T08:50:08.641Z"
+    },
+    {
+      "id": "vs3d--quarterly-reward-3-month-pack",
+      "slug": "quarterly-reward-3-month-pack",
+      "title": "Quarterly Reward - 3 Month Pack",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/ej2xguzq0hvotcbfahel6rqn9jum",
+      "source_url": "https://vs3d.gumroad.com/l/vksxd",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-30T08:50:08.641Z"
     },
     {
       "id": "vs3d--cameron-poe-con-air",
