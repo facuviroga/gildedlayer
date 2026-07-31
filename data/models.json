@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-07-30T08:50:08.641Z",
-  "new_count": 5,
-  "count": 3544,
+  "generated_at": "2026-07-31T09:16:51.321Z",
+  "new_count": 15,
+  "count": 3559,
   "excluded_count": 56,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--flapjack-3d-print",
+      "slug": "flapjack-3d-print",
+      "title": "FLAPJACK 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/ccyficvt14yjm88ezvu9jno7nv95",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/gdxcw",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-28T09:04:17.635Z"
+    },
     {
       "id": "zenith-collectibles--spider-man-3d-print",
       "slug": "spider-man-3d-print",
@@ -1099,18 +1111,6 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--flapjack-3d-print",
-      "slug": "flapjack-3d-print",
-      "title": "FLAPJACK 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/ccyficvt14yjm88ezvu9jno7nv95",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/gdxcw",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-07-28T09:04:17.635Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -22996,6 +22996,228 @@
       ],
       "featured": false,
       "first_seen": "2026-07-11T08:14:34.405Z"
+    },
+    {
+      "id": "tanuki-figures--edward-assassin-s-creed-black-flag",
+      "slug": "edward-assassin-s-creed-black-flag",
+      "title": "Edward - Assassin's Creed Black Flag",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/xxhqzhrccygzubekrhw4ppnt9p5t",
+      "source_url": "https://tanukifigures.gumroad.com/l/Edward-Assassins-Creed-Black-Flag",
+      "description": "",
+      "tags": [
+        "videogames",
+        "assassins-creed",
+        "rocky-films",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--edward-assassin-s-creed-bust",
+      "slug": "edward-assassin-s-creed-bust",
+      "title": "Edward - Assassin's Creed - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/8n4q3xv935o04l3ld6e63skhov7y",
+      "source_url": "https://tanukifigures.gumroad.com/l/Edward-Assassins-Creed-Bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "assassins-creed",
+        "rocky-films",
+        "busts",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--wolverine-x-men",
+      "slug": "wolverine-x-men",
+      "title": "Wolverine - X-Men",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/sejs4h5an0fxdjuwezyoiit39zcr",
+      "source_url": "https://tanukifigures.gumroad.com/l/Wolverine-X-Men",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--wolverine-x-men-bust",
+      "slug": "wolverine-x-men-bust",
+      "title": "Wolverine - X-Men - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/2xdx5jct45cm82mv1w42qtrvw03t",
+      "source_url": "https://tanukifigures.gumroad.com/l/Wolverine-X-Men-Bust",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--vincent-valentine-final-fantasy-vii",
+      "slug": "vincent-valentine-final-fantasy-vii",
+      "title": "Vincent Valentine - Final Fantasy VII",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/9vw2679jjfn9yiwfn3kwl3ua88m8",
+      "source_url": "https://tanukifigures.gumroad.com/l/Vincent-Valentine-Final-Fantasy-VII",
+      "description": "",
+      "tags": [
+        "videogames",
+        "final-fantasy"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--vincent-valentine-final-fantasy-vii-bust",
+      "slug": "vincent-valentine-final-fantasy-vii-bust",
+      "title": "Vincent Valentine - Final Fantasy VII - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/6uelm0g4nhvqocwifso1dqcr3j1k",
+      "source_url": "https://tanukifigures.gumroad.com/l/Vincent-Valentine-Final-Fantasy-VII-Bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "final-fantasy",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--sagat-street-fighter",
+      "slug": "sagat-street-fighter",
+      "title": "Sagat - Street Fighter",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/rqicn3cwng7p3rbiwcdx7dtpqh0u",
+      "source_url": "https://tanukifigures.gumroad.com/l/Sagat-Street-Fighter",
+      "description": "",
+      "tags": [
+        "videogames",
+        "street-fighter"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--sagat-street-fighter-bust",
+      "slug": "sagat-street-fighter-bust",
+      "title": "Sagat - Street Fighter - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/fw4ak1vh44xu6hral3a36m1fnxgu",
+      "source_url": "https://tanukifigures.gumroad.com/l/Sagat-Street-Fighter-Bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "street-fighter",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--albedo-overlord",
+      "slug": "albedo-overlord",
+      "title": "Albedo - Overlord",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/mkbes8uhm0rxd6m9744f7zl2gjru",
+      "source_url": "https://tanukifigures.gumroad.com/l/Albedo-Overlord",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--albedo-overlord-bust",
+      "slug": "albedo-overlord-bust",
+      "title": "Albedo - Overlord - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/b319zbbdh8btm75u6o80gixu2w9m",
+      "source_url": "https://tanukifigures.gumroad.com/l/Albedo-Overlord-Bust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--eva-01-neon-genesis-evangelion",
+      "slug": "eva-01-neon-genesis-evangelion",
+      "title": "Eva 01 - Neon Genesis Evangelion",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/gp1jfsebl446ozkhibjuzdk8zx4y",
+      "source_url": "https://tanukifigures.gumroad.com/l/Eva-01-Neon-Genesis-Evangelion",
+      "description": "",
+      "tags": [
+        "evangelion"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--eva-01-neon-genesis-evangelion-bust",
+      "slug": "eva-01-neon-genesis-evangelion-bust",
+      "title": "Eva 01 - Neon Genesis Evangelion - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/033p2su47brtpva7pkgt1fbsl6t6",
+      "source_url": "https://tanukifigures.gumroad.com/l/Eva-01-Neon-Genesis-Evangelion-Bust",
+      "description": "",
+      "tags": [
+        "evangelion",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--ghost-rider-chibi",
+      "slug": "ghost-rider-chibi",
+      "title": "Ghost Rider - Chibi",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/jfi1g5tgrm7tpyc1siyyjq5qjd3o",
+      "source_url": "https://tanukifigures.gumroad.com/l/Ghost-Rider-Marvel-Chibi",
+      "description": "",
+      "tags": [
+        "marvel",
+        "chibi"
+      ],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--mr-burns-the-simpsons",
+      "slug": "mr-burns-the-simpsons",
+      "title": "Mr. Burns - The Simpsons",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/pq6n1coo2h7xh39bf557el0o1wj1",
+      "source_url": "https://tanukifigures.gumroad.com/l/Mr-Burns-The-Simpsons",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
+    },
+    {
+      "id": "tanuki-figures--chel-the-road-to-el-dorado-toon",
+      "slug": "chel-the-road-to-el-dorado-toon",
+      "title": "Chel - The Road to El Dorado - Toon",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/qqsgmxexu8amleq24ehuon451adm",
+      "source_url": "https://tanukifigures.gumroad.com/l/Chel-The-Road-to-El-Dorado-Toon",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-07-31T09:16:51.321Z"
     },
     {
       "id": "tanuki-figures--baba-yaga",
