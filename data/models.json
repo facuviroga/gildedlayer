@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T09:16:51.321Z",
-  "new_count": 15,
-  "count": 3559,
+  "generated_at": "2026-08-01T08:33:49.124Z",
+  "new_count": 22,
+  "count": 3581,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -14003,6 +14003,21 @@
       "first_seen": "2026-07-29T09:08:43.149Z"
     },
     {
+      "id": "3d-wicked--wicked-marvel-june-2026-term-thanos-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-marvel-june-2026-term-thanos-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Marvel June 2026 Term Thanos Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/s95sc3tldzlqrctxy0rgqzwhszbr",
+      "source_url": "https://3dwicked.gumroad.com/l/ThanosB2026",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
       "id": "3d-wicked--wicked-marvel-june-2026-term-omega-red-portrait-bust-tested-and-ready-for-3d-pri",
       "slug": "wicked-marvel-june-2026-term-omega-red-portrait-bust-tested-and-ready-for-3d-pri",
       "title": "Wicked Marvel June 2026 Term Omega Red Portrait Bust: Tested and ready for 3D printing",
@@ -14016,6 +14031,21 @@
       ],
       "featured": false,
       "first_seen": "2026-07-29T09:08:43.149Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-june-2026-term-red-sonja-portrait-bust-tested-and-ready-for-3d-pri",
+      "slug": "wicked-marvel-june-2026-term-red-sonja-portrait-bust-tested-and-ready-for-3d-pri",
+      "title": "Wicked Marvel June 2026 Term Red Sonja Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/byernncx19bgm8c0s9xwvsj70bv6",
+      "source_url": "https://3dwicked.gumroad.com/l/RedSonjaPB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-june-2026-term-magneto-portrait-bust-tested-and-ready-for-3d-print",
@@ -14102,6 +14132,68 @@
       ],
       "featured": false,
       "first_seen": "2026-07-24T08:42:31.763Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-assassin-s-creed-1-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-assassin-s-creed-1-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Assassin’s Creed 1 Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/fipdonxnssmvowvyfx9dxvtd164l",
+      "source_url": "https://3dwicked.gumroad.com/l/AssassinsCreed",
+      "description": "",
+      "tags": [
+        "rocky-films",
+        "dioramas",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-altair-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-altair-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Altair Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/exk2l2la8tls4h8rctm2l53p211e",
+      "source_url": "https://3dwicked.gumroad.com/l/AltairS",
+      "description": "",
+      "tags": [
+        "videogames",
+        "assassins-creed",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-altair-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-altair-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Altair Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/8e8phfehww677k7d9so1rqojnlvr",
+      "source_url": "https://3dwicked.gumroad.com/l/AltairPB",
+      "description": "",
+      "tags": [
+        "videogames",
+        "assassins-creed",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-robert-de-sabl-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-robert-de-sabl-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Robert de Sablé Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/xlfllroq61wqx2tuclk2nvw6zbyk",
+      "source_url": "https://3dwicked.gumroad.com/l/RobertPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
     },
     {
       "id": "zez-collectibles--deadpool-3d-print-bust",
@@ -17553,6 +17645,37 @@
       ],
       "featured": false,
       "first_seen": "2026-07-01T10:14:20.831Z"
+    },
+    {
+      "id": "tooniverse83--nick-wilde-and-judy-hopps-stl",
+      "slug": "nick-wilde-and-judy-hopps-stl",
+      "title": "NICK WILDE AND JUDY HOPPS  STL   ",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/94dy6566ppjqtsjw0ssugc6s4q0g",
+      "source_url": "https://tooniverse83.gumroad.com/l/juddynick",
+      "description": "",
+      "tags": [
+        "cartoons",
+        "judy-hopps",
+        "movies",
+        "pixar-disney"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "tooniverse83--speedy-gonzalez-stl",
+      "slug": "speedy-gonzalez-stl",
+      "title": "SPEEDY GONZALEZ STL ",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/27g5qfvuga3jltm5q0wwhzyg4hkp",
+      "source_url": "https://tooniverse83.gumroad.com/l/SPEEDYGONZALEZ",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
     },
     {
       "id": "b3dserk--b3dserk-april-term-2022-aquaman-bust-1-4-ready-for-printing",
@@ -22996,6 +23119,21 @@
       ],
       "featured": false,
       "first_seen": "2026-07-11T08:14:34.405Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-july-term-2026-flash-kingdom-come-sculpture-ready-for-printing",
+      "slug": "b3dserk-july-term-2026-flash-kingdom-come-sculpture-ready-for-printing",
+      "title": "B3DSERK July Term 2026 Flash Kingdom Come Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/wk7l7hlrscemd4ljm1n6rhzys7f2",
+      "source_url": "https://b3dserk.gumroad.com/l/FlashKingdomComeS",
+      "description": "",
+      "tags": [
+        "dc",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
     },
     {
       "id": "tanuki-figures--edward-assassin-s-creed-black-flag",
@@ -39749,6 +39887,46 @@
       "first_seen": "2026-07-16T08:34:34.044Z"
     },
     {
+      "id": "vs3d--the-phantom",
+      "slug": "the-phantom",
+      "title": "The Phantom",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/iy5lvv9hw64dgymjmswb5dd77lxs",
+      "source_url": "https://vs3d.gumroad.com/l/ybhcy",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "vs3d--bill-the-butcher",
+      "slug": "bill-the-butcher",
+      "title": "Bill The Butcher",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/ejgg1oaij6xolxysad7x9itvcof4",
+      "source_url": "https://vs3d.gumroad.com/l/iirtm",
+      "description": "",
+      "tags": [
+        "the-boys"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "vs3d--end-of-an-era-btas-diorama",
+      "slug": "end-of-an-era-btas-diorama",
+      "title": "End Of An Era- BTAS Diorama",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/u6ad5uwmf5djubuv5c1kkpda7pf8",
+      "source_url": "https://vs3d.gumroad.com/l/exepe",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
       "id": "vs3d--june-2026-entire-catalog",
       "slug": "june-2026-entire-catalog",
       "title": "June 2026 ENTIRE CATALOG",
@@ -39795,6 +39973,18 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-07-30T08:50:08.641Z"
+    },
+    {
+      "id": "vs3d--connor-kenway",
+      "slug": "connor-kenway",
+      "title": "Connor Kenway ",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/jzbbr4mfd45a7yh57lfxba5ep2ys",
+      "source_url": "https://vs3d.gumroad.com/l/usmpix",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
     },
     {
       "id": "vs3d--cameron-poe-con-air",
@@ -52756,6 +52946,125 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-07-19T08:32:54.334Z"
+    },
+    {
+      "id": "carlos-edu--darth-vader-samurai-3d-print",
+      "slug": "darth-vader-samurai-3d-print",
+      "title": "Darth Vader Samurai 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/8t12k2bpdcavw1tkz459z6ekfz2n",
+      "source_url": "https://carlosedu.gumroad.com/l/renfxtk",
+      "description": "",
+      "tags": [
+        "star-wars"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--edward-elric-3d-print",
+      "slug": "edward-elric-3d-print",
+      "title": "EDWARD ELRIC 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/u3qvsrppag6v12yl60fz2we60lx9",
+      "source_url": "https://carlosedu.gumroad.com/l/fgwaof",
+      "description": "",
+      "tags": [
+        "anime",
+        "fullmetal-alchemist"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--ivy-valentine-soul-calibur-3d-print",
+      "slug": "ivy-valentine-soul-calibur-3d-print",
+      "title": "Ivy Valentine - Soul Calibur 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/b1fgh3qag431xvztdzc6rhig7zi1",
+      "source_url": "https://carlosedu.gumroad.com/l/tjeyz",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--minthara-baldurs-gate-3-3d-print",
+      "slug": "minthara-baldurs-gate-3-3d-print",
+      "title": "Minthara-Baldurs Gate 3 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/7h68qhsk91rnolv2qd233hl4k86u",
+      "source_url": "https://carlosedu.gumroad.com/l/xisufj",
+      "description": "",
+      "tags": [
+        "baldurs-gate",
+        "videogames"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--regina-3d-print",
+      "slug": "regina-3d-print",
+      "title": "Regina 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/lohdf6oy5bahowlpy3plhkmns6ky",
+      "source_url": "https://carlosedu.gumroad.com/l/ecycw",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--symbiote-spiderman-3d-print",
+      "slug": "symbiote-spiderman-3d-print",
+      "title": "Symbiote Spiderman 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/p8mfkxbjn8hmhl86usmetu603sfe",
+      "source_url": "https://carlosedu.gumroad.com/l/nsdzue",
+      "description": "",
+      "tags": [
+        "marvel",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--warrior-of-the-north-3d-print",
+      "slug": "warrior-of-the-north-3d-print",
+      "title": "Warrior of the North 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/enmdhvtoikm0rjcj3ftqisx6pddk",
+      "source_url": "https://carlosedu.gumroad.com/l/ejogy",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--yuria-of-londor-3d-print",
+      "slug": "yuria-of-londor-3d-print",
+      "title": "Yuria of Londor 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/uqk0etp0tgpx2y1y7x3wcbbv3ywg",
+      "source_url": "https://carlosedu.gumroad.com/l/cvjwcw",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "carlos-edu--fallen-angel-3d-print",
+      "slug": "fallen-angel-3d-print",
+      "title": " Fallen Angel 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/qydpyuh2tg6wld3cnuhg26powxcs",
+      "source_url": "https://carlosedu.gumroad.com/l/sgeftz",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-01T08:33:49.124Z"
     }
   ]
 }
