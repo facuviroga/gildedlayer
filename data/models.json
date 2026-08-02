@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T08:33:49.124Z",
-  "new_count": 22,
-  "count": 3581,
-  "excluded_count": 56,
+  "generated_at": "2026-08-02T08:36:44.332Z",
+  "new_count": 2,
+  "count": 3583,
+  "excluded_count": 58,
   "errors": [],
   "models": [
     {
@@ -1111,6 +1111,18 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "zenith-collectibles--valeera-sanguinar-3d-print",
+      "slug": "valeera-sanguinar-3d-print",
+      "title": "VALEERA SANGUINAR 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/x8uboltl1mpao80sss2uh46kayee",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/afggfn",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-02T08:36:44.332Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -39885,6 +39897,21 @@
       ],
       "featured": false,
       "first_seen": "2026-07-16T08:34:34.044Z"
+    },
+    {
+      "id": "kaidan-3d--muichiro-tokito-demon-slayer-stl-ready-for-3d-printing",
+      "slug": "muichiro-tokito-demon-slayer-stl-ready-for-3d-printing",
+      "title": "Muichiro Tokito DEMON SLAYER - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/lebdiktn56kljy8o830y3btdi4t7",
+      "source_url": "https://kaidan3d.gumroad.com/l/xffevd",
+      "description": "",
+      "tags": [
+        "anime",
+        "demon-slayer"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-02T08:36:44.332Z"
     },
     {
       "id": "vs3d--the-phantom",
