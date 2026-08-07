@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T09:06:08.720Z",
-  "new_count": 2,
-  "count": 3007,
+  "generated_at": "2026-08-07T07:41:30.756Z",
+  "new_count": 11,
+  "count": 3017,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -16745,9 +16745,9 @@
       "first_seen": "2026-07-15T08:35:51.743Z"
     },
     {
-      "id": "rechtag-studio--batgirl",
-      "slug": "batgirl",
-      "title": "Batgirl",
+      "id": "rechtag-studio--batgirl-july-2026",
+      "slug": "batgirl-july-2026",
+      "title": "Batgirl - July 2026",
       "creator": "Rechtag Studio",
       "image": "https://public-files.gumroad.com/rjrhp4dndvtujlc9l0qtlwpmsteh",
       "source_url": "https://rechtagstudio.gumroad.com/l/xgfant",
@@ -16756,7 +16756,7 @@
         "dc"
       ],
       "featured": false,
-      "first_seen": "2026-07-16T08:34:34.044Z"
+      "first_seen": "2026-08-07T07:41:30.756Z"
     },
     {
       "id": "rechtag-studio--ichigo-horn-of-salvation-july-2026",
@@ -16772,6 +16772,18 @@
       ],
       "featured": false,
       "first_seen": "2026-08-04T09:07:52.257Z"
+    },
+    {
+      "id": "rechtag-studio--great-shinobi-owl-july-2026",
+      "slug": "great-shinobi-owl-july-2026",
+      "title": "Great Shinobi Owl -  July 2026 ",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/vb37wimffgybn6huicbe8vzwn4bx",
+      "source_url": "https://rechtagstudio.gumroad.com/l/owl",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
     },
     {
       "id": "tooniverse83--hank-stl",
@@ -44952,6 +44964,137 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-08-04T09:07:52.257Z"
+    },
+    {
+      "id": "carlos-edu--darth-vader-samurai-bust-3d-print",
+      "slug": "darth-vader-samurai-bust-3d-print",
+      "title": "Darth Vader Samurai Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/ytg62tf4qq8l2hak52aisrjvrfpo",
+      "source_url": "https://carlosedu.gumroad.com/l/zfxpi",
+      "description": "",
+      "tags": [
+        "star-wars",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--edward-elric-bust-3d-print",
+      "slug": "edward-elric-bust-3d-print",
+      "title": "EDWARD ELRIC Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/ckjrfbjgi2so6ca993ewm4r2zt80",
+      "source_url": "https://carlosedu.gumroad.com/l/naetyo",
+      "description": "",
+      "tags": [
+        "anime",
+        "fullmetal-alchemist",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--fallen-angel-bust-3d-print",
+      "slug": "fallen-angel-bust-3d-print",
+      "title": "Fallen Angel Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/tksfwiajlvelsh1xs9wu7eefhr7y",
+      "source_url": "https://carlosedu.gumroad.com/l/grmpsh",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--ivy-valentine-bust-soul-calibur-3d-print",
+      "slug": "ivy-valentine-bust-soul-calibur-3d-print",
+      "title": "Ivy Valentine Bust - Soul Calibur 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/rt4i8vng6wqb6kekghdkp38o5kcp",
+      "source_url": "https://carlosedu.gumroad.com/l/cgrdhj",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--minthara-bust-3d-print",
+      "slug": "minthara-bust-3d-print",
+      "title": "Minthara Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/a5lt2m9nll7e3s5gv3qqv05hrbay",
+      "source_url": "https://carlosedu.gumroad.com/l/dfupyc",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--regina-bust-3d-print",
+      "slug": "regina-bust-3d-print",
+      "title": "Regina Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/hgmob460f0r72yvjancxn7ayt9j3",
+      "source_url": "https://carlosedu.gumroad.com/l/cxjonj",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--symbiote-spiderman-bust-3d-print",
+      "slug": "symbiote-spiderman-bust-3d-print",
+      "title": "Symbiote Spiderman Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/164rud6iv9mo9354is68pnvu6882",
+      "source_url": "https://carlosedu.gumroad.com/l/nywodu",
+      "description": "",
+      "tags": [
+        "marvel",
+        "movies",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--warrior-of-the-north-bust-3d-print",
+      "slug": "warrior-of-the-north-bust-3d-print",
+      "title": "Warrior of the North Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/durjphwyeo4b5hkg8bokveisl6ad",
+      "source_url": "https://carlosedu.gumroad.com/l/ocdecb",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
+    },
+    {
+      "id": "carlos-edu--yuria-of-londor-bust-3d-print",
+      "slug": "yuria-of-londor-bust-3d-print",
+      "title": "Yuria of Londor Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/po0v2955nhknux4c8o2qp83l2cx3",
+      "source_url": "https://carlosedu.gumroad.com/l/sewmt",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-07T07:41:30.756Z"
     }
   ]
 }
