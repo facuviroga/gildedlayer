@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-07T07:41:30.756Z",
-  "new_count": 11,
+  "generated_at": "2026-08-08T07:15:12.755Z",
+  "new_count": 0,
   "count": 3017,
   "excluded_count": 56,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--bullseye-3d-print",
+      "slug": "bullseye-3d-print",
+      "title": "BULLSEYE 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/y48ewjpi7g24s2geyoq5gcx2hjm1",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/huajmt",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-06T09:06:08.720Z"
+    },
+    {
+      "id": "zenith-collectibles--jessie-3d-print",
+      "slug": "jessie-3d-print",
+      "title": "JESSIE 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/6wctkbk4axtxwdqjejwrc7ah0aqm",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/nwmpq",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-06T09:06:08.720Z"
+    },
     {
       "id": "zenith-collectibles--valeera-sanguinar-3d-print",
       "slug": "valeera-sanguinar-3d-print",
@@ -1123,30 +1147,6 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--jessie-3d-print",
-      "slug": "jessie-3d-print",
-      "title": "JESSIE 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/6wctkbk4axtxwdqjejwrc7ah0aqm",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/nwmpq",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-08-06T09:06:08.720Z"
-    },
-    {
-      "id": "zenith-collectibles--bullseye-3d-print",
-      "slug": "bullseye-3d-print",
-      "title": "BULLSEYE 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/y48ewjpi7g24s2geyoq5gcx2hjm1",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/huajmt",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-08-06T09:06:08.720Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
