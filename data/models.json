@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T07:15:12.755Z",
-  "new_count": 0,
-  "count": 3017,
+  "generated_at": "2026-08-09T07:16:29.351Z",
+  "new_count": 1,
+  "count": 3018,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -23197,6 +23197,20 @@
       ],
       "featured": false,
       "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-july-term-2026-commissioner-gordon-sculpture-ready-for-printing",
+      "slug": "b3dserk-july-term-2026-commissioner-gordon-sculpture-ready-for-printing",
+      "title": "B3DSERK July Term 2026 Commissioner Gordon Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/j514m22l1f3xcpo7nymkxx7ijwl3",
+      "source_url": "https://b3dserk.gumroad.com/l/GordonS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-09T07:16:29.351Z"
     },
     {
       "id": "tanuki-figures--edward-assassin-s-creed-black-flag",
