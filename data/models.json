@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T07:37:23.265Z",
-  "new_count": 1,
-  "count": 3018,
+  "generated_at": "2026-08-12T07:52:24.312Z",
+  "new_count": 4,
+  "count": 3022,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -1147,6 +1147,20 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "zenith-collectibles--deadpool-3d-print",
+      "slug": "deadpool-3d-print",
+      "title": "DEADPOOL 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/m7e53uu7dmajm1jy2au3ggy1svbw",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/nkgzv",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-12T07:52:24.312Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -16461,6 +16475,35 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-07-30T08:50:08.641Z"
+    },
+    {
+      "id": "zez-collectibles--michael-jackson-stl-bust",
+      "slug": "michael-jackson-stl-bust",
+      "title": "MICHAEL JACKSON STL + BUST  ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/5e883ntp98pe80i5micvmqiceftw",
+      "source_url": "https://zezcollectibles.gumroad.com/l/MJ",
+      "description": "",
+      "tags": [
+        "celebrities",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-12T07:52:24.312Z"
+    },
+    {
+      "id": "zez-collectibles--all-mighty-bastet-stl-bust",
+      "slug": "all-mighty-bastet-stl-bust",
+      "title": "ALL MIGHTY  ( BASTET ) STL + BUST  ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/pvuk29vxh1lgm313jrrwg08azfa2",
+      "source_url": "https://zezcollectibles.gumroad.com/l/allmighty",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-12T07:52:24.312Z"
     },
     {
       "id": "rechtag-studio--batman-who-laughs",
@@ -31810,6 +31853,21 @@
       ],
       "featured": false,
       "first_seen": "2026-08-05T09:05:42.522Z"
+    },
+    {
+      "id": "kaidan-3d--iron-solo-leveling-stl-ready-for-3d-printing",
+      "slug": "iron-solo-leveling-stl-ready-for-3d-printing",
+      "title": "Iron SOLO LEVELING  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/ddmgvmuor9h3gbmquibp4azxei50",
+      "source_url": "https://kaidan3d.gumroad.com/l/jqmide",
+      "description": "",
+      "tags": [
+        "anime",
+        "solo-leveling"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-12T07:52:24.312Z"
     },
     {
       "id": "vs3d--the-phantom",
