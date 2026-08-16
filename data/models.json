@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T06:57:53.687Z",
-  "new_count": 585,
-  "count": 3607,
+  "generated_at": "2026-08-16T06:59:04.781Z",
+  "new_count": 9,
+  "count": 3616,
   "excluded_count": 58,
   "errors": [],
   "models": [
@@ -23295,6 +23295,20 @@
       "first_seen": "2026-08-14T07:50:34.441Z"
     },
     {
+      "id": "b3dserk--b3dserk-july-term-2026-commissioner-gordon-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-july-term-2026-commissioner-gordon-portrait-bust-ready-for-printing",
+      "title": "B3DSERK July Term 2026 Commissioner Gordon Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/01re9xzb8y2b7d00en6jkidatg5s",
+      "source_url": "https://b3dserk.gumroad.com/l/GordonPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
       "id": "tanuki-figures--edward-assassin-s-creed-black-flag",
       "slug": "edward-assassin-s-creed-black-flag",
       "title": "Edward - Assassin's Creed Black Flag",
@@ -40131,6 +40145,122 @@
       ],
       "featured": false,
       "first_seen": "2026-08-12T07:52:24.312Z"
+    },
+    {
+      "id": "kaidan-3d--thragg-invencible-stl-ready-for-3d-printing",
+      "slug": "thragg-invencible-stl-ready-for-3d-printing",
+      "title": "Thragg INVENCIBLE - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/wb6bw322rdmersb4ohxvfkw3s2k8",
+      "source_url": "https://kaidan3d.gumroad.com/l/fykpew",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "kaidan-3d--thor-god-of-war-ragnakarok-stl-ready-for-3d-printing",
+      "slug": "thor-god-of-war-ragnakarok-stl-ready-for-3d-printing",
+      "title": "Thor GOD OF WAR: RAGNAKAROK - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/rvsevzelye3bxuxx2sjvh7op5fd7",
+      "source_url": "https://kaidan3d.gumroad.com/l/sxusc",
+      "description": "",
+      "tags": [
+        "marvel",
+        "videogames",
+        "avengers",
+        "god-of-war"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "kaidan-3d--saber-alter-fate-stay-night-stl-ready-for-3d-printing",
+      "slug": "saber-alter-fate-stay-night-stl-ready-for-3d-printing",
+      "title": "Saber Alter FATE/STAY NIGHT - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/54u3kd9u2kzswsmxo1vmbhct1u63",
+      "source_url": "https://kaidan3d.gumroad.com/l/zifpsf",
+      "description": "",
+      "tags": [
+        "anime",
+        "fate-series"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "kaidan-3d--roy-mustang-full-metal-alchemist-stl-ready-for-3d-printing",
+      "slug": "roy-mustang-full-metal-alchemist-stl-ready-for-3d-printing",
+      "title": "Roy Mustang FULL METAL ALCHEMIST - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/j4v5p5tqqfeng25wfx6eonej1l3x",
+      "source_url": "https://kaidan3d.gumroad.com/l/vpejkx",
+      "description": "",
+      "tags": [
+        "anime",
+        "fullmetal-alchemist"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "kaidan-3d--goku-vs-bills-dragon-ball-super-stl-ready-for-3d-printing",
+      "slug": "goku-vs-bills-dragon-ball-super-stl-ready-for-3d-printing",
+      "title": "Goku vs Bills DRAGON BALL SUPER - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/cbryvk9jly8jfv1i823loowyj5i3",
+      "source_url": "https://kaidan3d.gumroad.com/l/fjebyg",
+      "description": "",
+      "tags": [
+        "anime",
+        "dragon-ball"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "kaidan-3d--fern-frieren-stl-ready-for-3d-printing",
+      "slug": "fern-frieren-stl-ready-for-3d-printing",
+      "title": "Fern FRIEREN - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/1wz8sx5fmv5jcqpx8rh9dgvnk4m8",
+      "source_url": "https://kaidan3d.gumroad.com/l/qhzsso",
+      "description": "",
+      "tags": [
+        "anime",
+        "frieren"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "kaidan-3d--okkotsu-yuta-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "slug": "okkotsu-yuta-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "title": "Okkotsu Yuta JUJUTSU KAISEN - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/y2j74qs44ikyv79lyjur5vtax3cj",
+      "source_url": "https://kaidan3d.gumroad.com/l/ohyrp",
+      "description": "",
+      "tags": [
+        "anime",
+        "jujutsu-kaisen"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "kaidan-3d--legoshi-x-haru-beastars-stl-ready-for-3d-printing",
+      "slug": "legoshi-x-haru-beastars-stl-ready-for-3d-printing",
+      "title": "Legoshi x Haru BEASTARS - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/4wt8felmhmwxrfp4gugjwlhyuujj",
+      "source_url": "https://kaidan3d.gumroad.com/l/nidwth",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-16T06:59:04.781Z"
     },
     {
       "id": "vs3d--the-phantom",
