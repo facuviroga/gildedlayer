@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-17T07:16:09.319Z",
+  "generated_at": "2026-08-18T07:04:07.823Z",
   "new_count": 0,
   "count": 3616,
   "excluded_count": 58,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--southpark-3d-print",
+      "slug": "southpark-3d-print",
+      "title": "SOUTHPARK 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/ztdf09v04i025qccnjku24wvg3h0",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/nhhghg",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-15T06:57:53.687Z"
+    },
     {
       "id": "zenith-collectibles--deadpool-3d-print",
       "slug": "deadpool-3d-print",
@@ -1161,18 +1173,6 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--southpark-3d-print",
-      "slug": "southpark-3d-print",
-      "title": "SOUTHPARK 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/ztdf09v04i025qccnjku24wvg3h0",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/nhhghg",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-08-15T06:57:53.687Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
