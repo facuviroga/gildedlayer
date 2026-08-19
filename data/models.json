@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T07:04:07.823Z",
-  "new_count": 0,
-  "count": 3616,
+  "generated_at": "2026-08-19T07:05:09.946Z",
+  "new_count": 4,
+  "count": 3619,
   "excluded_count": 58,
   "errors": [],
   "models": [
@@ -14256,6 +14256,53 @@
       ],
       "featured": false,
       "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-july-2026-term-rogue-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-marvel-july-2026-term-rogue-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Marvel July 2026 Term Rogue Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/5afj8kj3wrvvuj1uf2lmckd5n6qg",
+      "source_url": "https://3dwicked.gumroad.com/l/RogueSculpture",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-19T07:05:09.946Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-july-2026-term-gambit-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-marvel-july-2026-term-gambit-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Marvel July 2026 Term Gambit Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/golli93zv02lfgfgynor1799ao4h",
+      "source_url": "https://3dwicked.gumroad.com/l/GambitSculptuure",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-19T07:05:09.946Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-july-2026-term-rom-space-knight-sculpture-tested-and-ready-for-3d",
+      "slug": "wicked-marvel-july-2026-term-rom-space-knight-sculpture-tested-and-ready-for-3d",
+      "title": "Wicked Marvel July 2026 Term ROM Space knight Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/15wky4sg25egmkaiy6qxlmkstfu4",
+      "source_url": "https://3dwicked.gumroad.com/l/ROMSpaceknightS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-19T07:05:09.946Z"
     },
     {
       "id": "zez-collectibles--deadpool-3d-print-bust",
@@ -28748,9 +28795,9 @@
       "first_seen": "2026-08-15T06:57:53.687Z"
     },
     {
-      "id": "nomnom-figures--dragon-ball-z-keycaps",
-      "slug": "dragon-ball-z-keycaps",
-      "title": "Dragon Ball Z Keycaps",
+      "id": "nomnom-figures--teclas-de-dragon-ball-z",
+      "slug": "teclas-de-dragon-ball-z",
+      "title": "Teclas de Dragon Ball Z",
       "creator": "Nomnom Figures",
       "image": "https://images.cults3d.com/hekBJVvZuAo9qQMeejanUNt8YyU=/246x246/filters:no_upscale()/https://fbi.cults3d.com/uploaders/25151011/illustration-file/511535d7-a7d7-4212-b6aa-815bd6ddac3f/DBZ_BS_01.jpg",
       "source_url": "https://cults3d.com/es/modelo-3d/arte/dragon-ball-z-keycaps",
@@ -28760,7 +28807,7 @@
         "dragon-ball"
       ],
       "featured": false,
-      "first_seen": "2026-08-15T06:57:53.687Z"
+      "first_seen": "2026-08-19T07:05:09.946Z"
     },
     {
       "id": "nomnom-figures--chibi-he-man",
