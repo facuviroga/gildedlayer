@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T07:06:31.246Z",
-  "new_count": 4,
-  "count": 3619,
+  "generated_at": "2026-08-21T07:07:44.592Z",
+  "new_count": 3,
+  "count": 3621,
   "excluded_count": 58,
   "errors": [],
   "models": [
@@ -14256,6 +14256,22 @@
       ],
       "featured": false,
       "first_seen": "2026-08-01T08:33:49.124Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-july-2026-term-rogue-and-gambit-diorama-tested-and-ready-for-3d-pr",
+      "slug": "wicked-marvel-july-2026-term-rogue-and-gambit-diorama-tested-and-ready-for-3d-pr",
+      "title": "Wicked Marvel July 2026 Term Rogue and Gambit Diorama: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/igqe2avq7i4lgc3yk43lc18be4ll",
+      "source_url": "https://3dwicked.gumroad.com/l/RogueandGambitD",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men",
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-21T07:07:44.592Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-july-2026-term-rogue-sculpture-tested-and-ready-for-3d-printing",
@@ -28547,9 +28563,9 @@
       "first_seen": "2026-08-20T07:06:31.246Z"
     },
     {
-      "id": "nomnom-figures--crash-bandicoot-props-keycaps",
-      "slug": "crash-bandicoot-props-keycaps",
-      "title": "Crash Bandicoot Props - Keycaps",
+      "id": "nomnom-figures--accesorios-de-crash-bandicoot-teclas",
+      "slug": "accesorios-de-crash-bandicoot-teclas",
+      "title": "Accesorios de Crash Bandicoot: teclas",
       "creator": "Nomnom Figures",
       "image": "https://images.cults3d.com/cAF35oye36gc_BsNukYIVmDfYV0=/246x246/filters:no_upscale()/https://fbi.cults3d.com/uploaders/25151011/illustration-file/287bec98-4457-4c3e-baed-8e70f643a8ef/Crash-BS-01.jpg",
       "source_url": "https://cults3d.com/es/modelo-3d/arte/crash-bandicoot-props-keycaps",
@@ -28559,7 +28575,7 @@
         "crash-bandicoot"
       ],
       "featured": false,
-      "first_seen": "2026-08-15T06:57:53.687Z"
+      "first_seen": "2026-08-21T07:07:44.592Z"
     },
     {
       "id": "nomnom-figures--ruby-rose-rwby",
@@ -40192,6 +40208,21 @@
       ],
       "featured": false,
       "first_seen": "2026-08-12T07:52:24.312Z"
+    },
+    {
+      "id": "kaidan-3d--zaraki-kenpachi-bankai-bleach-stl-ready-for-3d-printing",
+      "slug": "zaraki-kenpachi-bankai-bleach-stl-ready-for-3d-printing",
+      "title": "Zaraki Kenpachi Bankai! BLEACH - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/4matdfvmwdc5ylu6a455h1b5t7xu",
+      "source_url": "https://kaidan3d.gumroad.com/l/ksjfe",
+      "description": "",
+      "tags": [
+        "anime",
+        "bleach"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-21T07:07:44.592Z"
     },
     {
       "id": "kaidan-3d--thragg-invencible-stl-ready-for-3d-printing",
