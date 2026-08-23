@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-08-22T06:59:04.068Z",
-  "new_count": 2,
+  "generated_at": "2026-08-23T07:00:57.743Z",
+  "new_count": 0,
   "count": 3039,
   "excluded_count": 56,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--jinx-3d-print",
+      "slug": "jinx-3d-print",
+      "title": "JINX 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/0gwgup8b9s77s22ukm5g1z7g99ho",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/wnvdau",
+      "description": "",
+      "tags": [
+        "videogames",
+        "league-of-legends"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-22T06:59:04.068Z"
+    },
     {
       "id": "zenith-collectibles--southpark-3d-print",
       "slug": "southpark-3d-print",
@@ -1173,21 +1188,6 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--jinx-3d-print",
-      "slug": "jinx-3d-print",
-      "title": "JINX 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/0gwgup8b9s77s22ukm5g1z7g99ho",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/wnvdau",
-      "description": "",
-      "tags": [
-        "videogames",
-        "league-of-legends"
-      ],
-      "featured": false,
-      "first_seen": "2026-08-22T06:59:04.068Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
