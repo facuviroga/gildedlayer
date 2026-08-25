@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T07:28:42.817Z",
+  "generated_at": "2026-08-25T07:08:13.102Z",
   "new_count": 0,
-  "count": 3039,
+  "count": 3029,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -83,18 +83,6 @@
       "first_seen": "2026-08-02T08:36:44.332Z"
     },
     {
-      "id": "zenith-collectibles--flapjack-3d-print",
-      "slug": "flapjack-3d-print",
-      "title": "FLAPJACK 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/ccyficvt14yjm88ezvu9jno7nv95",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/gdxcw",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-07-28T09:04:17.635Z"
-    },
-    {
       "id": "zenith-collectibles--spider-man-3d-print",
       "slug": "spider-man-3d-print",
       "title": "SPIDER-MAN 3D PRINT",
@@ -108,18 +96,6 @@
       ],
       "featured": false,
       "first_seen": "2026-07-24T08:42:31.763Z"
-    },
-    {
-      "id": "zenith-collectibles--samurai-jack-3d-print",
-      "slug": "samurai-jack-3d-print",
-      "title": "SAMURAI JACK 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/2qdafsvpue9vsjdu2w1z5hrgkp6k",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/tizkil",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-07-18T08:08:59.823Z"
     },
     {
       "id": "zenith-collectibles--dark-souls-3d-print",
@@ -187,18 +163,6 @@
       "first_seen": "2026-06-27T08:49:47.036Z"
     },
     {
-      "id": "zenith-collectibles--hawkman-3d-print",
-      "slug": "hawkman-3d-print",
-      "title": "HAWKMAN 3D PRINT ",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/fv3t8a5sy8a7b8nejd1dsqmzwvb8",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/tbayig",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-06-27T08:49:47.036Z"
-    },
-    {
       "id": "zenith-collectibles--rango-3d-print",
       "slug": "rango-3d-print",
       "title": "RANGO 3D PRINT",
@@ -224,18 +188,6 @@
       ],
       "featured": false,
       "first_seen": "2026-06-17T11:17:27.850Z"
-    },
-    {
-      "id": "zenith-collectibles--billy-and-mandy-3d-print",
-      "slug": "billy-and-mandy-3d-print",
-      "title": "BILLY AND MANDY 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/womxl9uufuy3sy88m9if3i53wthm",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/gigjiq",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
       "id": "zenith-collectibles--tony-stark-3d-print",
@@ -470,20 +422,6 @@
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
-      "id": "zenith-collectibles--the-clown-3d-print",
-      "slug": "the-clown-3d-print",
-      "title": "THE CLOWN 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/0yndnu1o0bl2pn9zgqtq2myynsxd",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/xbxwty",
-      "description": "",
-      "tags": [
-        "horror"
-      ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
       "id": "zenith-collectibles--michelangelo-tmnt-3d-print",
       "slug": "michelangelo-tmnt-3d-print",
       "title": "MICHELANGELO TMNT 3D PRINT",
@@ -495,18 +433,6 @@
         "cartoons",
         "tmnt"
       ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--the-wizard-3d-print",
-      "slug": "the-wizard-3d-print",
-      "title": "THE WIZARD 3D PRINT ",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/dg6vpj0zbqi756m8mu5byg5gauka",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/fuugc",
-      "description": "",
-      "tags": [],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
@@ -586,21 +512,6 @@
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
-      "id": "zenith-collectibles--rick-and-morty-3d-print",
-      "slug": "rick-and-morty-3d-print",
-      "title": "RICK AND MORTY 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/ppkqvxsbrw2h581kdy5g4t1sr8bd",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/vejiqj",
-      "description": "",
-      "tags": [
-        "cartoons",
-        "tv-shows"
-      ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
       "id": "zenith-collectibles--bayonetta-3d-print",
       "slug": "bayonetta-3d-print",
       "title": "BAYONETTA 3D PRINT",
@@ -626,20 +537,6 @@
       "tags": [
         "movies",
         "alien-predator"
-      ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--the-main-man-3d-print",
-      "slug": "the-main-man-3d-print",
-      "title": "THE MAIN MAN 3D PRINT ",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/kmut6avgyqoivmrlx5ybsmmtsi7g",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/wvzxx",
-      "description": "",
-      "tags": [
-        "dc"
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
@@ -748,20 +645,6 @@
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
-      "id": "zenith-collectibles--superman-krypto-3d-print",
-      "slug": "superman-krypto-3d-print",
-      "title": "SUPERMAN  & KRYPTO 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/ujyvtuybhrkhdfgpv1l0jd4fka4d",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/vdktyy",
-      "description": "",
-      "tags": [
-        "dc"
-      ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
       "id": "zenith-collectibles--stan-lee-3d-print",
       "slug": "stan-lee-3d-print",
       "title": "STAN LEE 3D PRINT  ",
@@ -801,20 +684,6 @@
       "tags": [
         "marvel",
         "spider-verse"
-      ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--static-shock-3d-print",
-      "slug": "static-shock-3d-print",
-      "title": "STATIC SHOCK 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/tebdkzhnntwiq445ti4lgaam3faq",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/fsrrqr",
-      "description": "",
-      "tags": [
-        "dc"
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
