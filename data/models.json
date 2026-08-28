@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T17:38:29.035Z",
-  "new_count": 7,
-  "count": 3035,
+  "generated_at": "2026-08-28T18:43:11.754Z",
+  "new_count": 3,
+  "count": 3038,
   "excluded_count": 55,
   "errors": [],
   "models": [
@@ -23318,6 +23318,20 @@
       "first_seen": "2026-08-01T08:33:49.124Z"
     },
     {
+      "id": "b3dserk--b3dserk-july-term-2026-faora-ul-sculpture-ready-for-printing",
+      "slug": "b3dserk-july-term-2026-faora-ul-sculpture-ready-for-printing",
+      "title": "B3DSERK July Term 2026 Faora-Ul Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/nrtntx4w7gnilfs8bztqw6vv5a57",
+      "source_url": "https://b3dserk.gumroad.com/l/Faora-UlS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-28T18:43:11.754Z"
+    },
+    {
       "id": "b3dserk--b3dserk-july-term-2026-commissioner-gordon-sculpture-ready-for-printing",
       "slug": "b3dserk-july-term-2026-commissioner-gordon-sculpture-ready-for-printing",
       "title": "B3DSERK July Term 2026 Commissioner Gordon Sculpture ready for printing",
@@ -23347,6 +23361,20 @@
       "first_seen": "2026-08-14T07:50:34.441Z"
     },
     {
+      "id": "b3dserk--b3dserk-july-term-2026-faora-ul-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-july-term-2026-faora-ul-portrait-bust-ready-for-printing",
+      "title": "B3DSERK July Term 2026 Faora-Ul Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/82vkugvarq4mmo8mpt3ouc67dw2b",
+      "source_url": "https://b3dserk.gumroad.com/l/Faora-UlPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-28T18:43:11.754Z"
+    },
+    {
       "id": "b3dserk--b3dserk-july-term-2026-commissioner-gordon-portrait-bust-ready-for-printing",
       "slug": "b3dserk-july-term-2026-commissioner-gordon-portrait-bust-ready-for-printing",
       "title": "B3DSERK July Term 2026 Commissioner Gordon Portrait Bust ready for printing",
@@ -23359,6 +23387,20 @@
       ],
       "featured": false,
       "first_seen": "2026-08-16T06:59:04.781Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-july-term-2026-faora-ul-portrait-bust-2-ready-for-printing",
+      "slug": "b3dserk-july-term-2026-faora-ul-portrait-bust-2-ready-for-printing",
+      "title": "B3DSERK July Term 2026 Faora-Ul Portrait Bust 2 ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/ndzz1678dzrz1vz2nx6ihqbjgix3",
+      "source_url": "https://b3dserk.gumroad.com/l/FaoraPB2",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-28T18:43:11.754Z"
     },
     {
       "id": "tanuki-figures--edward-assassin-s-creed-black-flag",
