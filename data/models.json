@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T12:41:41.130Z",
-  "new_count": 583,
-  "count": 3621,
+  "generated_at": "2026-08-30T11:55:13.942Z",
+  "new_count": 3,
+  "count": 3624,
   "excluded_count": 57,
   "errors": [],
   "models": [
@@ -81,6 +81,18 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-08-02T08:36:44.332Z"
+    },
+    {
+      "id": "zenith-collectibles--flapjack-3d-print",
+      "slug": "flapjack-3d-print",
+      "title": "FLAPJACK 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/ccyficvt14yjm88ezvu9jno7nv95",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/gdxcw",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-08-30T11:55:13.942Z"
     },
     {
       "id": "zenith-collectibles--spider-man-3d-print",
@@ -16614,6 +16626,36 @@
       ],
       "featured": false,
       "first_seen": "2026-08-27T17:38:29.035Z"
+    },
+    {
+      "id": "zez-collectibles--venom-2026-stl-bust",
+      "slug": "venom-2026-stl-bust",
+      "title": "VENOM 2026 STL + BUST   ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/jqyjd8gbnsba8vntdfdjpa1x8mgb",
+      "source_url": "https://zezcollectibles.gumroad.com/l/venom2026",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-30T11:55:13.942Z"
+    },
+    {
+      "id": "zez-collectibles--lobo-throne-stl",
+      "slug": "lobo-throne-stl",
+      "title": "LOBO THRONE STL ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/2effyns8sn11jw81erh9in6347gr",
+      "source_url": "https://zezcollectibles.gumroad.com/l/lobothrone",
+      "description": "",
+      "tags": [
+        "dc",
+        "thrones"
+      ],
+      "featured": false,
+      "first_seen": "2026-08-30T11:55:13.942Z"
     },
     {
       "id": "rechtag-studio--batman-who-laughs",
