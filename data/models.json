@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T11:19:32.064Z",
+  "generated_at": "2026-09-03T11:15:34.416Z",
   "new_count": 1,
-  "count": 3086,
+  "count": 3087,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -14292,6 +14292,21 @@
       ],
       "featured": false,
       "first_seen": "2026-08-22T06:59:04.068Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-july-2026-term-clint-barton-ronin-portrait-bust-tested-and-ready-f",
+      "slug": "wicked-marvel-july-2026-term-clint-barton-ronin-portrait-bust-tested-and-ready-f",
+      "title": "Wicked Marvel July 2026 Term Clint Barton Ronin Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/mh9r1qgxvohz29jb8lgyunz6w9dg",
+      "source_url": "https://3dwicked.gumroad.com/l/ClintBartonRoninPB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-03T11:15:34.416Z"
     },
     {
       "id": "3d-wicked--wicked-video-games-diablo-diorama-tested-and-ready-for-3d-printing",
