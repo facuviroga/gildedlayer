@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T11:18:40.302Z",
-  "new_count": 0,
-  "count": 3087,
+  "generated_at": "2026-09-05T10:36:18.518Z",
+  "new_count": 1,
+  "count": 3088,
   "excluded_count": 56,
   "errors": [],
   "models": [
@@ -46110,6 +46110,20 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-08-31T13:52:12.338Z"
+    },
+    {
+      "id": "carlos-edu--pack-star-wars-3d-print",
+      "slug": "pack-star-wars-3d-print",
+      "title": "Pack Star Wars 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/pbu88ngip4s2c3wbcsm3umk4fi4t",
+      "source_url": "https://carlosedu.gumroad.com/l/blywmv",
+      "description": "",
+      "tags": [
+        "star-wars"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-05T10:36:18.518Z"
     }
   ]
 }
