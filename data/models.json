@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T10:36:18.518Z",
-  "new_count": 1,
-  "count": 3088,
-  "excluded_count": 56,
+  "generated_at": "2026-09-06T10:57:59.077Z",
+  "new_count": 5,
+  "count": 3093,
+  "excluded_count": 57,
   "errors": [],
   "models": [
     {
@@ -16758,6 +16758,21 @@
       "first_seen": "2026-08-30T11:55:13.942Z"
     },
     {
+      "id": "zez-collectibles--voldemort-stl-bust",
+      "slug": "voldemort-stl-bust",
+      "title": "VOLDEMORT STL + BUST  ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/wotriyqpzmjf0aagryzv9dtc1njc",
+      "source_url": "https://zezcollectibles.gumroad.com/l/VOLDEMORT",
+      "description": "",
+      "tags": [
+        "harry-potter",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-06T10:57:59.077Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -17091,6 +17106,51 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-08-11T07:37:23.265Z"
+    },
+    {
+      "id": "rechtag-studio--whitebeard-one-piece",
+      "slug": "whitebeard-one-piece",
+      "title": "Whitebeard - One Piece",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/lqk5n1672uavx3846eajjd7trt59",
+      "source_url": "https://rechtagstudio.gumroad.com/l/whitebeard",
+      "description": "",
+      "tags": [
+        "anime",
+        "one-piece"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-06T10:57:59.077Z"
+    },
+    {
+      "id": "rechtag-studio--law-one-piece",
+      "slug": "law-one-piece",
+      "title": "Law - One Piece",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/e7frdhpes52zgrelomrpfzzhycue",
+      "source_url": "https://rechtagstudio.gumroad.com/l/law",
+      "description": "",
+      "tags": [
+        "anime",
+        "one-piece"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-06T10:57:59.077Z"
+    },
+    {
+      "id": "rechtag-studio--hisoka-hunter-x-hunter",
+      "slug": "hisoka-hunter-x-hunter",
+      "title": "Hisoka - Hunter x Hunter",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/nr0slapxfnxyw6ijm3ixtu126aid",
+      "source_url": "https://rechtagstudio.gumroad.com/l/llsifr",
+      "description": "",
+      "tags": [
+        "anime",
+        "hunter-x-hunter"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-06T10:57:59.077Z"
     },
     {
       "id": "tooniverse83--hank-stl",
@@ -23646,6 +23706,20 @@
       ],
       "featured": false,
       "first_seen": "2026-09-01T11:40:06.891Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-august-term-2026-alan-scott-kingdomecome-sculpture-ready-for-printing",
+      "slug": "b3dserk-august-term-2026-alan-scott-kingdomecome-sculpture-ready-for-printing",
+      "title": "B3DSERK August Term 2026 Alan Scott Kingdomecome Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/wr1cwhb3bkrlsu5zksaqs6jxqywz",
+      "source_url": "https://b3dserk.gumroad.com/l/AlanScottK2026",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-06T10:57:59.077Z"
     },
     {
       "id": "tanuki-figures--itachi-naruto",
