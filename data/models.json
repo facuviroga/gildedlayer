@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T10:57:59.077Z",
-  "new_count": 5,
-  "count": 3093,
+  "generated_at": "2026-09-07T12:34:01.463Z",
+  "new_count": 13,
+  "count": 3106,
   "excluded_count": 57,
   "errors": [],
   "models": [
@@ -46198,6 +46198,193 @@
       ],
       "featured": false,
       "first_seen": "2026-09-05T10:36:18.518Z"
+    },
+    {
+      "id": "carlos-edu--samson-vs-the-lion-bust-3d-print",
+      "slug": "samson-vs-the-lion-bust-3d-print",
+      "title": "Samson vs. the Lion Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/psqss4wnngmsi8mvx7i8rrsi9pd0",
+      "source_url": "https://carlosedu.gumroad.com/l/iyhmbi",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--cha-hae-in-bust-3d-print",
+      "slug": "cha-hae-in-bust-3d-print",
+      "title": "Cha Hae-in Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/x2jbh44xe455d2djq4qrvrifmu92",
+      "source_url": "https://carlosedu.gumroad.com/l/smihae",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--david-vs-goliath-bust-3d-print",
+      "slug": "david-vs-goliath-bust-3d-print",
+      "title": "David vs Goliath Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/zvv4p62zl4bmvhu6vfkqbze6qnwn",
+      "source_url": "https://carlosedu.gumroad.com/l/mvkymc",
+      "description": "",
+      "tags": [
+        "gargoyles",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--evie-bust-3d-print",
+      "slug": "evie-bust-3d-print",
+      "title": "Evie Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/9r4wjzsmi1kxo88kainvz2ozql9q",
+      "source_url": "https://carlosedu.gumroad.com/l/obypx",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--hellboy-bust-3d-print",
+      "slug": "hellboy-bust-3d-print",
+      "title": "Hellboy Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/1h3p3rdfrnaf7jc6pu6e18oab3l3",
+      "source_url": "https://carlosedu.gumroad.com/l/wsirat",
+      "description": "",
+      "tags": [
+        "hellboy",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--jolyne-kujo-bust-3d-print",
+      "slug": "jolyne-kujo-bust-3d-print",
+      "title": "Jolyne Kujo Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/6p8aingjgxzbeyum4zni6st0gzza",
+      "source_url": "https://carlosedu.gumroad.com/l/bbvpy",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--faye-bust-3d-print",
+      "slug": "faye-bust-3d-print",
+      "title": "Faye Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/y2sf9o8zaerhi994v2uxioa00bgq",
+      "source_url": "https://carlosedu.gumroad.com/l/savfw",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--lunch-bust-3d-print",
+      "slug": "lunch-bust-3d-print",
+      "title": "Lunch Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/dnh9id6via5gwzfhbwxsi4z7dlvx",
+      "source_url": "https://carlosedu.gumroad.com/l/esftd",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--norse-witch-bust-3d-print",
+      "slug": "norse-witch-bust-3d-print",
+      "title": "Norse Witch Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/2ps910q61sxo3v7k2h6yhmyj76e6",
+      "source_url": "https://carlosedu.gumroad.com/l/agbtw",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--savage-land-psylocke-bust-3d-print",
+      "slug": "savage-land-psylocke-bust-3d-print",
+      "title": "Savage Land Psylocke Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/1y4qrxspwpbhepev40gi0wop7i16",
+      "source_url": "https://carlosedu.gumroad.com/l/pwffyt",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--cowgirl-rogue-bust-3d-print",
+      "slug": "cowgirl-rogue-bust-3d-print",
+      "title": "Cowgirl Rogue Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/i7dfdjlbdwlorup27jvrpdaitvjz",
+      "source_url": "https://carlosedu.gumroad.com/l/opzgs",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--solid-snake-bust-3d-print",
+      "slug": "solid-snake-bust-3d-print",
+      "title": "Solid Snake Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/k827j6iedfo3qr5ofmqixmcqfp51",
+      "source_url": "https://carlosedu.gumroad.com/l/vjnnx",
+      "description": "",
+      "tags": [
+        "videogames",
+        "metal-gear",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--busts-platinum-september",
+      "slug": "busts-platinum-september",
+      "title": "busts platinum september",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/wr8gbg83omyubrchudalulj10x0e",
+      "source_url": "https://carlosedu.gumroad.com/l/nbfkmzh",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-07T12:34:01.463Z"
     }
   ]
 }
