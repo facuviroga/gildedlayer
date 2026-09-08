@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T12:34:01.463Z",
-  "new_count": 13,
-  "count": 3106,
+  "generated_at": "2026-09-08T11:20:00.830Z",
+  "new_count": 7,
+  "count": 3113,
   "excluded_count": 57,
   "errors": [],
   "models": [
@@ -17153,6 +17153,88 @@
       "first_seen": "2026-09-06T10:57:59.077Z"
     },
     {
+      "id": "rechtag-studio--the-hunter-bloodborne",
+      "slug": "the-hunter-bloodborne",
+      "title": "The Hunter - Bloodborne",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/545q61b6ymdw8vu39m2uzd9ed4ny",
+      "source_url": "https://rechtagstudio.gumroad.com/l/Hunter",
+      "description": "",
+      "tags": [
+        "videogames",
+        "bloodborne"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-08T11:20:00.830Z"
+    },
+    {
+      "id": "rechtag-studio--queen-one-piece",
+      "slug": "queen-one-piece",
+      "title": "Queen - One Piece",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/ion50rsn6kwo2f8b460011226fyd",
+      "source_url": "https://rechtagstudio.gumroad.com/l/Queen",
+      "description": "",
+      "tags": [
+        "anime",
+        "one-piece"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-08T11:20:00.830Z"
+    },
+    {
+      "id": "rechtag-studio--tom-and-jerry",
+      "slug": "tom-and-jerry",
+      "title": "Tom and Jerry",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/uth5i883zn3ytdwvitlabrqb9hsc",
+      "source_url": "https://rechtagstudio.gumroad.com/l/tomandjerry",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-08T11:20:00.830Z"
+    },
+    {
+      "id": "rechtag-studio--clen-clevatess",
+      "slug": "clen-clevatess",
+      "title": "Clen - Clevatess",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/w8op3vzmo6qdmkhbq9nrt5yjs2b9",
+      "source_url": "https://rechtagstudio.gumroad.com/l/clen",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-08T11:20:00.830Z"
+    },
+    {
+      "id": "rechtag-studio--orsted-mushoku-tensei",
+      "slug": "orsted-mushoku-tensei",
+      "title": "Orsted - Mushoku Tensei",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/k5olms72tzyw9dn0jftb26candr1",
+      "source_url": "https://rechtagstudio.gumroad.com/l/Orsted",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-08T11:20:00.830Z"
+    },
+    {
+      "id": "rechtag-studio--pochita",
+      "slug": "pochita",
+      "title": "Pochita",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/z6b1ipqvqj9t6p5mhfqtbovjpk28",
+      "source_url": "https://rechtagstudio.gumroad.com/l/pochita",
+      "description": "",
+      "tags": [
+        "chainsaw-man"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-08T11:20:00.830Z"
+    },
+    {
       "id": "tooniverse83--hank-stl",
       "slug": "hank-stl",
       "title": "HANK STL",
@@ -32680,6 +32762,21 @@
       ],
       "featured": false,
       "first_seen": "2026-09-02T11:19:32.064Z"
+    },
+    {
+      "id": "kaidan-3d--zaraki-kenpachi-bankai-bleach-stl-ready-for-3d-printing",
+      "slug": "zaraki-kenpachi-bankai-bleach-stl-ready-for-3d-printing",
+      "title": "Zaraki Kenpachi Bankai! BLEACH - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/4matdfvmwdc5ylu6a455h1b5t7xu",
+      "source_url": "https://kaidan3d.gumroad.com/l/ksjfe",
+      "description": "",
+      "tags": [
+        "anime",
+        "bleach"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-08T11:20:00.830Z"
     },
     {
       "id": "vs3d--gow-battle-of-the-gods-long-term",
