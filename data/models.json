@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T11:20:00.830Z",
-  "new_count": 7,
-  "count": 3113,
+  "generated_at": "2026-09-09T11:24:18.753Z",
+  "new_count": 5,
+  "count": 3118,
   "excluded_count": 57,
   "errors": [],
   "models": [
@@ -1084,6 +1084,30 @@
       ],
       "featured": false,
       "first_seen": "2026-08-27T17:38:29.035Z"
+    },
+    {
+      "id": "zenith-collectibles--green-goblin-3d-print",
+      "slug": "green-goblin-3d-print",
+      "title": "GREEN GOBLIN 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/o5h9t1pepohj1krt978hhxybzc82",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/tzzcsl",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-09T11:24:18.753Z"
+    },
+    {
+      "id": "zenith-collectibles--winnie-the-pooh-3d-print",
+      "slug": "winnie-the-pooh-3d-print",
+      "title": "WINNIE THE POOH 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/btq55jewipp6pag297h99tgsp801",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/dqtbl",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-09T11:24:18.753Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -17235,6 +17259,30 @@
       "first_seen": "2026-09-08T11:20:00.830Z"
     },
     {
+      "id": "rechtag-studio--thragg-invenc-vel",
+      "slug": "thragg-invenc-vel",
+      "title": "Thragg - invencível",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/6942g8z3e11l586432tnk6v6gwqr",
+      "source_url": "https://rechtagstudio.gumroad.com/l/Thraagg",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-09T11:24:18.753Z"
+    },
+    {
+      "id": "rechtag-studio--eris-mushoku-tensei",
+      "slug": "eris-mushoku-tensei",
+      "title": "Eris - Mushoku Tensei",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/7u6v4j7ad2pq1yjvjym9fbviu2z1",
+      "source_url": "https://rechtagstudio.gumroad.com/l/Eris",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-09T11:24:18.753Z"
+    },
+    {
       "id": "tooniverse83--hank-stl",
       "slug": "hank-stl",
       "title": "HANK STL",
@@ -23802,6 +23850,20 @@
       ],
       "featured": false,
       "first_seen": "2026-09-06T10:57:59.077Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-august-term-2026-jonah-hex-sculpture-ready-for-printing",
+      "slug": "b3dserk-august-term-2026-jonah-hex-sculpture-ready-for-printing",
+      "title": "B3DSERK August Term 2026 Jonah Hex Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/9h2bmxufvw6oex64l377rfe6624k",
+      "source_url": "https://b3dserk.gumroad.com/l/JonahHexS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-09T11:24:18.753Z"
     },
     {
       "id": "tanuki-figures--itachi-naruto",
