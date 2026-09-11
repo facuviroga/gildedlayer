@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T11:20:42.840Z",
+  "generated_at": "2026-09-11T11:22:08.958Z",
   "new_count": 1,
-  "count": 3108,
+  "count": 3109,
   "excluded_count": 46,
   "errors": [],
   "models": [
@@ -17263,7 +17263,7 @@
       "slug": "pochita",
       "title": "Pochita",
       "creator": "Rechtag Studio",
-      "image": "https://public-files.gumroad.com/z6b1ipqvqj9t6p5mhfqtbovjpk28",
+      "image": "https://public-files.gumroad.com/yx5jacebknwbvvibgyksc5iqyoeh",
       "source_url": "https://rechtagstudio.gumroad.com/l/pochita",
       "description": "",
       "tags": [
@@ -31626,6 +31626,21 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "kaidan-3d--yuji-x-todo-vs-mahito-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "slug": "yuji-x-todo-vs-mahito-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "title": "Yuji x Todo vs Mahito JUJUTSU KAISEN STL - Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/1snm9uyfiuw126208nq49ea1fn7i",
+      "source_url": "https://kaidan3d.gumroad.com/l/navgg",
+      "description": "",
+      "tags": [
+        "anime",
+        "jujutsu-kaisen"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-11T11:22:08.958Z"
     },
     {
       "id": "kaidan-3d--death-the-kid-soul-eater-stl-ready-for-3d-printing",
