@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T10:47:47.913Z",
-  "new_count": 9,
-  "count": 2805,
+  "generated_at": "2026-09-13T11:53:33.345Z",
+  "new_count": 5,
+  "count": 2810,
   "excluded_count": 42,
   "errors": [],
   "models": [
@@ -16797,6 +16797,20 @@
       "first_seen": "2026-09-06T10:57:59.077Z"
     },
     {
+      "id": "zez-collectibles--baraka-stl-bust",
+      "slug": "baraka-stl-bust",
+      "title": "BARAKA STL + BUST ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/0419d4vy7ikhtfitc1vkln6v5q7g",
+      "source_url": "https://zezcollectibles.gumroad.com/l/BARAKA1-6",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
       "id": "zez-collectibles--cammy-bastet-stl",
       "slug": "cammy-bastet-stl",
       "title": "CAMMY  ( BASTET ) STL ",
@@ -19284,6 +19298,64 @@
       ],
       "featured": false,
       "first_seen": "2026-09-09T11:24:18.753Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-august-term-2026-catwoman-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-august-term-2026-catwoman-portrait-bust-ready-for-printing",
+      "title": "B3DSERK August Term 2026 Catwoman Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/dkqt88i3h8wlqnooi7maag8st1lz",
+      "source_url": "https://b3dserk.gumroad.com/l/CatwomanPB",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-august-term-2026-alan-scott-kingdomecome-portrait-bust-ready-for-printin",
+      "slug": "b3dserk-august-term-2026-alan-scott-kingdomecome-portrait-bust-ready-for-printin",
+      "title": "B3DSERK August Term 2026 Alan Scott Kingdomecome Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/cn14m71s44g8klfxk1fngubmh11a",
+      "source_url": "https://b3dserk.gumroad.com/l/AlanScottKingdomecomePB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-august-term-2026-jonah-hex-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-august-term-2026-jonah-hex-portrait-bust-ready-for-printing",
+      "title": "B3DSERK August Term 2026 Jonah Hex Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/tm8akdc0vs3jln8ht54lsq8n3cse",
+      "source_url": "https://b3dserk.gumroad.com/l/JonahHexPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-august-term-2026-catwoman-portrait-bust-2-ready-for-printing",
+      "slug": "b3dserk-august-term-2026-catwoman-portrait-bust-2-ready-for-printing",
+      "title": "B3DSERK August Term 2026 Catwoman Portrait Bust 2 ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/azqqeeeny4v03eu36qa5jt9j8b5m",
+      "source_url": "https://b3dserk.gumroad.com/l/CatwomanPB2",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-13T11:53:33.345Z"
     },
     {
       "id": "tanuki-figures--itachi-naruto",
