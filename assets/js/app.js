@@ -70,6 +70,45 @@ const state = {
 
 let scrollObserver = null;
 
+// --- Shareable URL state ---------------------------------------------------
+// Filter selections are mirrored into the query string so a link like
+// ?tag=marvel&sculptor=B3DSERK restores that exact view. Read once on load,
+// rewritten on every filter change (via replaceState, so keystroke-level
+// search updates don't flood the browser history).
+const VALID_TABS = ['new', 'all', 'featured'];
+
+function readStateFromUrl() {
+  const p = new URLSearchParams(location.search);
+  const tag = p.get('tag');
+  const creator = p.get('sculptor');
+  const search = p.get('q') || '';
+  let tab = p.get('tab');
+  if (!VALID_TABS.includes(tab)) tab = null;
+
+  if (tag) state.activeTag = tag;
+  if (creator) state.activeCreator = creator;
+  if (search) state.search = search;
+  if (tab) state.activeFeatured = tab;
+  // A shared link scoped to a tag/creator/search should show ALL matches, not
+  // intersect with the 7-day "Nuevas" window — so default to "Todas" when a
+  // filter is present but no tab was pinned explicitly.
+  else if (tag || creator || search) state.activeFeatured = 'all';
+}
+
+function writeStateToUrl() {
+  const p = new URLSearchParams();
+  const hasOther = state.activeTag || state.activeCreator || state.search.trim();
+  // Omit tab only in the pristine "Nuevas, nothing else" case so bare links
+  // stay clean; pin it explicitly whenever another filter is active so the
+  // reader reproduces the same tab instead of defaulting to "Todas".
+  if (state.activeFeatured !== 'new' || hasOther) p.set('tab', state.activeFeatured);
+  if (state.activeTag) p.set('tag', state.activeTag);
+  if (state.activeCreator) p.set('sculptor', state.activeCreator);
+  if (state.search.trim()) p.set('q', state.search.trim());
+  const qs = p.toString();
+  history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
+}
+
 const $gallery = document.getElementById('gallery');
 const $tagFilters = document.getElementById('tag-filters');
 const $creatorFilters = document.getElementById('creator-filters');
@@ -83,6 +122,8 @@ const $lastRefresh = document.getElementById('last-refresh');
 
 async function load() {
   try {
+    readStateFromUrl();
+    $search.value = state.search;
     const res = await fetch('./data/models.json', { cache: 'no-cache' });
     if (!res.ok) throw new Error('models.json missing');
     const data = await res.json();
@@ -248,6 +289,7 @@ function seededRandom(seed) {
 }
 
 function render() {
+  writeStateToUrl();
   if (scrollObserver) { scrollObserver.disconnect(); scrollObserver = null; }
   state.filteredCache = filtered();
   state.rendered = 0;
@@ -399,6 +441,16 @@ document.querySelectorAll('[data-filter-kind="featured"]').forEach(btn => {
 $search.addEventListener('input', (e) => {
   state.search = e.target.value;
   render();
+});
+
+document.getElementById('share-link').addEventListener('click', async () => {
+  writeStateToUrl();
+  try {
+    await navigator.clipboard.writeText(location.href);
+    showToast('✓ Enlace copiado — pegalo donde quieras compartir estos filtros');
+  } catch (e) {
+    showToast('Copiá el enlace desde la barra de direcciones del navegador', 5000);
+  }
 });
 
 $tagSearch.addEventListener('input', applyTagSearchFilter);

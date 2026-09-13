@@ -351,6 +351,17 @@ a:hover { color: var(--accent-hi); }
   border-color: var(--accent);
 }
 
+/* Share-current-filters button */
+.chip-share {
+  flex: 0 0 auto;
+  border-color: var(--line-strong);
+  color: var(--muted);
+}
+.chip-share:hover {
+  border-color: var(--accent);
+  color: var(--accent-hi);
+}
+
 #search {
   margin-left: auto;
   flex: 1 1 220px;
