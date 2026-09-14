@@ -172,6 +172,8 @@ function buildFilters() {
     btn.innerHTML = '#' + escapeHtml(tag) + ' <span class="chip-count">' + count + '</span>';
     btn.addEventListener('click', () => {
       state.activeTag = state.activeTag === tag ? null : tag;
+      // A tag search spans the whole catalog, not just the current tab.
+      if (state.activeTag) state.activeFeatured = 'all';
       syncChips();
       render();
     });
@@ -188,6 +190,8 @@ function buildFilters() {
     btn.innerHTML = escapeHtml(c) + ' <span class="chip-count">' + count + '</span>';
     btn.addEventListener('click', () => {
       state.activeCreator = state.activeCreator === c ? null : c;
+      // Picking a sculptor spans the whole catalog, not just the current tab.
+      if (state.activeCreator) state.activeFeatured = 'all';
       syncChips();
       render();
     });
@@ -440,6 +444,9 @@ document.querySelectorAll('[data-filter-kind="featured"]').forEach(btn => {
 
 $search.addEventListener('input', (e) => {
   state.search = e.target.value;
+  // Searching by name spans the whole catalog, not just the current tab.
+  if (state.search.trim()) state.activeFeatured = 'all';
+  syncChips();
   render();
 });
 
