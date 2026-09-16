@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T11:45:00.259Z",
-  "new_count": 593,
-  "count": 3402,
+  "generated_at": "2026-09-16T11:35:22.921Z",
+  "new_count": 7,
+  "count": 3409,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -18322,6 +18322,20 @@
       "first_seen": "2026-09-15T11:45:00.259Z"
     },
     {
+      "id": "tooniverse83--scar-stl",
+      "slug": "scar-stl",
+      "title": "SCAR STL",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/96pt2yvjs2q2ky19n8jvov8tarud",
+      "source_url": "https://tooniverse83.gumroad.com/l/SCAR",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-16T11:35:22.921Z"
+    },
+    {
       "id": "b3dserk--b3dserk-dc-comics-green-lantern-lantern-stl-ready-for-printing",
       "slug": "b3dserk-dc-comics-green-lantern-lantern-stl-ready-for-printing",
       "title": "B3DSERK DC comics Green Lantern Lantern: STL ready for printing",
@@ -33094,6 +33108,89 @@
       ],
       "featured": false,
       "first_seen": "2026-09-12T10:47:47.913Z"
+    },
+    {
+      "id": "kaidan-3d--chun-li-street-fighters-stl-ready-for-3d-printing",
+      "slug": "chun-li-street-fighters-stl-ready-for-3d-printing",
+      "title": "Chun-Li STREET FIGHTERS  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/u7svq3bxz95ywxex10agmy4t6hu1",
+      "source_url": "https://kaidan3d.gumroad.com/l/abgrhr",
+      "description": "",
+      "tags": [
+        "videogames",
+        "street-fighter"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-16T11:35:22.921Z"
+    },
+    {
+      "id": "kaidan-3d--seiya-saint-seiya-knights-of-zodiac-stl-ready-for-3d-printing",
+      "slug": "seiya-saint-seiya-knights-of-zodiac-stl-ready-for-3d-printing",
+      "title": "Seiya SAINT SEIYA: KNIGHTS OF ZODIAC  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/lqjqg7t8055t78vfyojhd630owce",
+      "source_url": "https://kaidan3d.gumroad.com/l/gxjmv",
+      "description": "",
+      "tags": [
+        "anime",
+        "saint-seiya"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-16T11:35:22.921Z"
+    },
+    {
+      "id": "kaidan-3d--ryuk-death-note-stl-ready-for-3d-printing",
+      "slug": "ryuk-death-note-stl-ready-for-3d-printing",
+      "title": "Ryuk DEATH NOTE - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/2jjz213xk5ljwz9mf4yrnny0eglw",
+      "source_url": "https://kaidan3d.gumroad.com/l/evluc",
+      "description": "",
+      "tags": [
+        "anime",
+        "death-note"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-16T11:35:22.921Z"
+    },
+    {
+      "id": "kaidan-3d--rayquaza-vs-deoxys-pokemon-stl-ready-for-3d-printing",
+      "slug": "rayquaza-vs-deoxys-pokemon-stl-ready-for-3d-printing",
+      "title": "Rayquaza vs Deoxys POKEMON  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/nraxc24pc0rgeg894q8y33ovf7wj",
+      "source_url": "https://kaidan3d.gumroad.com/l/lxdkq",
+      "description": "",
+      "tags": [
+        "pokemon"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-16T11:35:22.921Z"
+    },
+    {
+      "id": "kaidan-3d--koro-sensei-assassination-classroom-stl-ready-for-3d-printing",
+      "slug": "koro-sensei-assassination-classroom-stl-ready-for-3d-printing",
+      "title": "Koro-Sensei ASSASSINATION CLASSROOM  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/0gpb68p5p6rvf06zs5paenwbjg0p",
+      "source_url": "https://kaidan3d.gumroad.com/l/hamuf",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-16T11:35:22.921Z"
+    },
+    {
+      "id": "kaidan-3d--doom-slayer-doom-eternal-stl-ready-for-3d-printing",
+      "slug": "doom-slayer-doom-eternal-stl-ready-for-3d-printing",
+      "title": "Doom Slayer DOOM: ETERNAL  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/z1biijx2gd3xna5pbs5bu6z1went",
+      "source_url": "https://kaidan3d.gumroad.com/l/qvkcck",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-16T11:35:22.921Z"
     },
     {
       "id": "kaidan-3d--shanks-one-piece-stl-ready-for-3d-printing",
