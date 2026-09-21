@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T11:25:15.983Z",
-  "new_count": 5,
-  "count": 2831,
+  "generated_at": "2026-09-21T12:49:33.713Z",
+  "new_count": 1,
+  "count": 2832,
   "excluded_count": 42,
   "errors": [],
   "models": [
@@ -17019,6 +17019,21 @@
       ],
       "featured": false,
       "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
+      "id": "zez-collectibles--penguin-stl-bust",
+      "slug": "penguin-stl-bust",
+      "title": "PENGUIN STL + BUST",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/15kaj57e3fr0kiqds3m8e05sqbie",
+      "source_url": "https://zezcollectibles.gumroad.com/l/PENGUINSTL",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-21T12:49:33.713Z"
     },
     {
       "id": "zez-collectibles--cammy-bastet-stl",
