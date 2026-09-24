@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T11:38:02.403Z",
-  "new_count": 592,
-  "count": 3424,
+  "generated_at": "2026-09-24T11:46:50.655Z",
+  "new_count": 4,
+  "count": 3428,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -14567,6 +14567,66 @@
       ],
       "featured": false,
       "first_seen": "2026-09-20T11:25:15.983Z"
+    },
+    {
+      "id": "3d-wicked--wicked-wildcard-steve-austin-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-wildcard-steve-austin-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked WILDCARD Steve Austin Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/9u0krm40rf5h72i4fpcl8h3bgkpk",
+      "source_url": "https://3dwicked.gumroad.com/l/SteveAustinS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-24T11:46:50.655Z"
+    },
+    {
+      "id": "3d-wicked--wicked-wildcard-hulk-hogan-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-wildcard-hulk-hogan-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked WILDCARD Hulk Hogan Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/wlu8csozucsd9sbpti48kkomedug",
+      "source_url": "https://3dwicked.gumroad.com/l/HulkHoganS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-24T11:46:50.655Z"
+    },
+    {
+      "id": "3d-wicked--wicked-wildcard-steve-austin-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-wildcard-steve-austin-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked WILDCARD Steve Austin Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/nrwm51pdg79t4jikesvwx1zsec8z",
+      "source_url": "https://3dwicked.gumroad.com/l/SteveAustinB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-24T11:46:50.655Z"
+    },
+    {
+      "id": "3d-wicked--wicked-wildcard-hulk-hogan-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-wildcard-hulk-hogan-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked WILDCARD Hulk Hogan Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/l1x8aq3znojguk1juhu23m6f2q93",
+      "source_url": "https://3dwicked.gumroad.com/l/HulkHoganB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-24T11:46:50.655Z"
     },
     {
       "id": "3d-wicked--wicked-wolverine-pack-weapon-x-sculpture-tested-and-ready-for-3d-printing",
