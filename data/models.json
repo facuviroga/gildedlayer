@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T11:51:54.522Z",
-  "new_count": 0,
-  "count": 2837,
+  "generated_at": "2026-09-26T11:25:54.985Z",
+  "new_count": 5,
+  "count": 2842,
   "excluded_count": 42,
   "errors": [],
   "models": [
@@ -14567,6 +14567,76 @@
       ],
       "featured": false,
       "first_seen": "2026-09-20T11:25:15.983Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-punch-out-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-punch-out-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Punch Out Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/p6ryffgjpzewrsz16ftjwvpz7323",
+      "source_url": "https://3dwicked.gumroad.com/l/PunchOutD",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-26T11:25:54.985Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-mike-tyson-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-mike-tyson-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Mike Tyson Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/xyt7ufs77ykdtrpnglcvbtzdvate",
+      "source_url": "https://3dwicked.gumroad.com/l/MikeTysonS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-26T11:25:54.985Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-little-mac-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-little-mac-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Little Mac Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/irt0m0fb9opj6cui3l9ws6gkdyd3",
+      "source_url": "https://3dwicked.gumroad.com/l/LittleMacS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-26T11:25:54.985Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-mike-tyson-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-mike-tyson-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Mike Tyson Portrait Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/k8an7fp486j64uo864hmbr2w38h9",
+      "source_url": "https://3dwicked.gumroad.com/l/MikeTysonB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-26T11:25:54.985Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-little-mac-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-little-mac-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Little Mac Portrait Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/24rem3og168dap8n9dfjenwnlkya",
+      "source_url": "https://3dwicked.gumroad.com/l/olhlgn",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-26T11:25:54.985Z"
     },
     {
       "id": "3d-wicked--wicked-wildcard-steve-austin-sculpture-tested-and-ready-for-3d-printing",
