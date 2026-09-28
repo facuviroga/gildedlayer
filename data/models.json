@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T12:03:49.144Z",
+  "generated_at": "2026-09-28T13:56:23.081Z",
   "new_count": 0,
-  "count": 2842,
+  "count": 2841,
   "excluded_count": 42,
   "errors": [],
   "models": [
@@ -31760,22 +31760,6 @@
       "tags": [
         "dc",
         "movies"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
-      "id": "vs3d--goku-vs-frieza",
-      "slug": "goku-vs-frieza",
-      "title": "Goku vs Frieza",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/q4gqoiy2pkkqblpqfyfkynu04npe",
-      "source_url": "https://vs3d.gumroad.com/l/rddzfx",
-      "description": "",
-      "tags": [
-        "anime",
-        "movies",
-        "dragon-ball"
       ],
       "featured": false,
       "first_seen": "2026-06-09T23:32:37.312Z"
