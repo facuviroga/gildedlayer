@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T13:56:23.081Z",
-  "new_count": 0,
-  "count": 2841,
+  "generated_at": "2026-09-29T12:54:11.527Z",
+  "new_count": 3,
+  "count": 2844,
   "excluded_count": 42,
   "errors": [],
   "models": [
@@ -14553,6 +14553,21 @@
       "first_seen": "2026-09-20T11:25:15.983Z"
     },
     {
+      "id": "3d-wicked--wicked-marvel-august-2026-term-squirrel-sculpture-tested-and-ready-for-3d-printi",
+      "slug": "wicked-marvel-august-2026-term-squirrel-sculpture-tested-and-ready-for-3d-printi",
+      "title": "Wicked Marvel August 2026 Term Squirrel Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/xwwlm0twkfxwrxe56wvyzvnbzulp",
+      "source_url": "https://3dwicked.gumroad.com/l/SquirrelS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-29T12:54:11.527Z"
+    },
+    {
       "id": "3d-wicked--wicked-marvel-augusr-2026-term-mystique-portrait-bust-tested-and-ready-for-3d-pr",
       "slug": "wicked-marvel-augusr-2026-term-mystique-portrait-bust-tested-and-ready-for-3d-pr",
       "title": "Wicked Marvel Augusr 2026 Term Mystique Portrait Bust: Tested and ready for 3D printing",
@@ -14567,6 +14582,21 @@
       ],
       "featured": false,
       "first_seen": "2026-09-20T11:25:15.983Z"
+    },
+    {
+      "id": "3d-wicked--wicked-marvel-august-2026-term-squirrel-portrait-bust-tested-and-ready-for-3d-pr",
+      "slug": "wicked-marvel-august-2026-term-squirrel-portrait-bust-tested-and-ready-for-3d-pr",
+      "title": "Wicked Marvel August 2026 Term Squirrel Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/czsbcpy325ijrpynh5ef21q7svv2",
+      "source_url": "https://3dwicked.gumroad.com/l/SquirrelPortraitBust",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-29T12:54:11.527Z"
     },
     {
       "id": "3d-wicked--wicked-video-games-punch-out-diorama-tested-and-ready-for-3d-printing",
@@ -17684,6 +17714,21 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-09-09T11:24:18.753Z"
+    },
+    {
+      "id": "rechtag-studio--aizen-bleach",
+      "slug": "aizen-bleach",
+      "title": "Aizen - Bleach",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/uwdf3wilf5uiirzwyq4iqxbmrwno",
+      "source_url": "https://rechtagstudio.gumroad.com/l/yivzbm",
+      "description": "",
+      "tags": [
+        "anime",
+        "bleach"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-29T12:54:11.527Z"
     },
     {
       "id": "tooniverse83--hank-stl",
