@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-09-29T12:54:11.527Z",
-  "new_count": 3,
-  "count": 2844,
+  "generated_at": "2026-09-30T12:35:54.621Z",
+  "new_count": 16,
+  "count": 2860,
   "excluded_count": 42,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--light-yagami-3d-print",
+      "slug": "light-yagami-3d-print",
+      "title": "LIGHT YAGAMI 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/cjrziwvlvcnu0u4at9s99rwab0qo",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/dxota",
+      "description": "",
+      "tags": [
+        "anime",
+        "death-note"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
     {
       "id": "zenith-collectibles--lilo-and-stitch-3d-print",
       "slug": "lilo-and-stitch-3d-print",
@@ -19804,6 +19819,220 @@
       ],
       "featured": false,
       "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
+      "id": "tanuki-figures--deku-my-hero-academia",
+      "slug": "deku-my-hero-academia",
+      "title": "Deku - My Hero Academia",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/emg0ai283fuxkftrbvm06bd1be0n",
+      "source_url": "https://tanukifigures.gumroad.com/l/Deku-My-Hero-Academia",
+      "description": "",
+      "tags": [
+        "anime",
+        "my-hero-academia"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--deku-my-hero-academia-bust",
+      "slug": "deku-my-hero-academia-bust",
+      "title": "Deku - My Hero Academia - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/4saiz0rej39ddfo4ziumwg00z2sx",
+      "source_url": "https://tanukifigures.gumroad.com/l/Deku-My-Hero-Academia-Bust",
+      "description": "",
+      "tags": [
+        "anime",
+        "my-hero-academia",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--big-daddy-and-little-sister-bioshock",
+      "slug": "big-daddy-and-little-sister-bioshock",
+      "title": "Big Daddy and Little Sister - BioShock",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/1oea6ytloau12zdih8yeitgwj2jw",
+      "source_url": "https://tanukifigures.gumroad.com/l/BigDaddyandLittleSister-BioShock",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--big-daddy-and-little-sister-bioshock-bust",
+      "slug": "big-daddy-and-little-sister-bioshock-bust",
+      "title": "Big Daddy and Little Sister - BioShock - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/mcogy6vr1o0k19chi6z97cw3yv0r",
+      "source_url": "https://tanukifigures.gumroad.com/l/BigDaddyandLittleSister-BioShock-Bust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--nanami-jujutsu-kaisen",
+      "slug": "nanami-jujutsu-kaisen",
+      "title": "Nanami - Jujutsu Kaisen",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/w41j85v402nl7sbc8a3eznyq37rc",
+      "source_url": "https://tanukifigures.gumroad.com/l/Nanami-Jujutsu-Kaisen",
+      "description": "",
+      "tags": [
+        "anime",
+        "jujutsu-kaisen"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--nanami-jujutsu-kaisen-bust",
+      "slug": "nanami-jujutsu-kaisen-bust",
+      "title": "Nanami - Jujutsu Kaisen - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/ei2vmqvo3rz16uug753s8q7u8qra",
+      "source_url": "https://tanukifigures.gumroad.com/l/Nanami-Jujutsu-Kaisen-Bust",
+      "description": "",
+      "tags": [
+        "anime",
+        "jujutsu-kaisen",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--mai-shiranui-the-king-of-fighters",
+      "slug": "mai-shiranui-the-king-of-fighters",
+      "title": "Mai Shiranui - The King of Fighters",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/incnxp7iov4y4rvegif38zx9sy95",
+      "source_url": "https://tanukifigures.gumroad.com/l/Mai-Shiranui-The-King-of-Fighters",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--mai-shiranui-the-king-of-fighters-bust",
+      "slug": "mai-shiranui-the-king-of-fighters-bust",
+      "title": "Mai Shiranui - The King of Fighters - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/1p1zbgg3zwjnlgferqs3eatawot0",
+      "source_url": "https://tanukifigures.gumroad.com/l/Mai-Shiranui-The-King-of-Fighters-Bust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--silver-surfer",
+      "slug": "silver-surfer",
+      "title": "Silver Surfer",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/zm9zyl8f0onm7873cm66df8xm2uq",
+      "source_url": "https://tanukifigures.gumroad.com/l/Silver-Surfer",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--silver-surfer-bust",
+      "slug": "silver-surfer-bust",
+      "title": "Silver Surfer - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/lkv2v19349rqfguczofozj47ev1d",
+      "source_url": "https://tanukifigures.gumroad.com/l/Silver-Surfer-Bust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--spike-spiegel-cowboy-bebop-bust",
+      "slug": "spike-spiegel-cowboy-bebop-bust",
+      "title": "Spike Spiegel - Cowboy Bebop - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/xy5pemx64li4luy5ed9zx3qngssv",
+      "source_url": "https://tanukifigures.gumroad.com/l/Spike-Spiegel-Cowboy-Bebop-Bust",
+      "description": "",
+      "tags": [
+        "anime",
+        "cowboy-bebop",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--spike-spiegel-cowboy-bebop",
+      "slug": "spike-spiegel-cowboy-bebop",
+      "title": "Spike Spiegel - Cowboy Bebop",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/skrkmv77um0kd97ycf3ph7hd0ec8",
+      "source_url": "https://tanukifigures.gumroad.com/l/Spike-Spiegel-Cowboy-Bebop",
+      "description": "",
+      "tags": [
+        "anime",
+        "cowboy-bebop"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--tanya-degurechaff-saga-of-tanya-the-evil-chibi",
+      "slug": "tanya-degurechaff-saga-of-tanya-the-evil-chibi",
+      "title": "Tanya Degurechaff - Saga of Tanya the Evil - Chibi",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/ibpmgj4dl3z80ma6hm9m80abb4p6",
+      "source_url": "https://tanukifigures.gumroad.com/l/Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Chibi",
+      "description": "",
+      "tags": [
+        "chibi"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--neo-cortex-crash-bandicoot",
+      "slug": "neo-cortex-crash-bandicoot",
+      "title": "Neo Cortex - Crash Bandicoot",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/e6n03znyc3l58ei1988hyub3nz5c",
+      "source_url": "https://tanukifigures.gumroad.com/l/Neo-Cortex-Crash-Bandicoot-Extra",
+      "description": "",
+      "tags": [
+        "videogames",
+        "movies",
+        "matrix",
+        "crash-bandicoot"
+      ],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
+    },
+    {
+      "id": "tanuki-figures--miguel-the-road-to-el-dorado-toon",
+      "slug": "miguel-the-road-to-el-dorado-toon",
+      "title": "Miguel - The Road to El Dorado - Toon",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/csaxwfgnit8b01d38jzxpcqr3m86",
+      "source_url": "https://tanukifigures.gumroad.com/l/Miguel-The-Road-to-El-Dorado-Toon",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-09-30T12:35:54.621Z"
     },
     {
       "id": "tanuki-figures--itachi-naruto",
