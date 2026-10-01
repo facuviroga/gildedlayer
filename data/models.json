@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T12:35:54.621Z",
-  "new_count": 16,
-  "count": 2860,
-  "excluded_count": 42,
+  "generated_at": "2026-10-01T13:16:26.428Z",
+  "new_count": 32,
+  "count": 2891,
+  "excluded_count": 43,
   "errors": [],
   "models": [
     {
@@ -14614,6 +14614,69 @@
       "first_seen": "2026-09-29T12:54:11.527Z"
     },
     {
+      "id": "3d-wicked--wicked-movies-rambo-first-blood-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-rambo-first-blood-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Rambo First Blood Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/jazx5pl2vdlgohu6fh2nyld4148u",
+      "source_url": "https://3dwicked.gumroad.com/l/RamboFirstBloodD",
+      "description": "",
+      "tags": [
+        "rambo",
+        "dioramas",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-john-rambo-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-john-rambo-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies John Rambo Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/70qnph8wjrbbsgcrqf7eqnqh6m1p",
+      "source_url": "https://3dwicked.gumroad.com/l/JohnRamboS",
+      "description": "",
+      "tags": [
+        "rambo",
+        "sculptures",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-sheriff-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-sheriff-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Sheriff Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/w429hiv7y7zmyewxptwwjs3gg70y",
+      "source_url": "https://3dwicked.gumroad.com/l/SheriffS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-rambo-first-blood-bust-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-rambo-first-blood-bust-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Rambo First Blood Bust Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/915ueowv7j2b21qm7omwf6fkgchd",
+      "source_url": "https://3dwicked.gumroad.com/l/RamboFirstBloodDB",
+      "description": "",
+      "tags": [
+        "rambo",
+        "busts",
+        "dioramas",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
       "id": "3d-wicked--wicked-video-games-punch-out-diorama-tested-and-ready-for-3d-printing",
       "slug": "wicked-video-games-punch-out-diorama-tested-and-ready-for-3d-printing",
       "title": "Wicked Video Games Punch Out Diorama: Tested and ready for 3D printing ",
@@ -17226,6 +17289,20 @@
       "first_seen": "2026-09-21T12:49:33.713Z"
     },
     {
+      "id": "zez-collectibles--cable-museum-stl",
+      "slug": "cable-museum-stl",
+      "title": "CABLE MUSEUM STL",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/zt25axe0li10jcd0bpzlts33hzfx",
+      "source_url": "https://zezcollectibles.gumroad.com/l/CABLEMUSEUM",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
       "id": "zez-collectibles--cammy-bastet-stl",
       "slug": "cammy-bastet-stl",
       "title": "CAMMY  ( BASTET ) STL ",
@@ -17744,6 +17821,149 @@
       ],
       "featured": false,
       "first_seen": "2026-09-29T12:54:11.527Z"
+    },
+    {
+      "id": "rechtag-studio--loki-one-piece",
+      "slug": "loki-one-piece",
+      "title": "Loki - One Piece",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/fur3oghtr57mdps4vccqk5e2312l",
+      "source_url": "https://rechtagstudio.gumroad.com/l/cszwxx",
+      "description": "",
+      "tags": [
+        "marvel",
+        "anime",
+        "one-piece"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--mandark-dexter-s-laboratory",
+      "slug": "mandark-dexter-s-laboratory",
+      "title": "Mandark -Dexter's Laboratory",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/wrihhwqpj7ahtin7afsv50zfhdqc",
+      "source_url": "https://rechtagstudio.gumroad.com/l/selaib",
+      "description": "",
+      "tags": [
+        "tv-shows"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--megaman-classic",
+      "slug": "megaman-classic",
+      "title": "Megaman - Classic",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/66bz9375hbnkij8n2lyej476a06e",
+      "source_url": "https://rechtagstudio.gumroad.com/l/clfbox",
+      "description": "",
+      "tags": [
+        "mega-man"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--chopper-elbaph-one-piece",
+      "slug": "chopper-elbaph-one-piece",
+      "title": "Chopper (Elbaph)- One Piece",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/qqjlfoy5kha20cvhxkamz8oaevlw",
+      "source_url": "https://rechtagstudio.gumroad.com/l/otbmdi",
+      "description": "",
+      "tags": [
+        "anime",
+        "one-piece"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--ayaka-sajyou-fate-strange-fake",
+      "slug": "ayaka-sajyou-fate-strange-fake",
+      "title": "Ayaka Sajyou - Fate/Strange Fake",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/uahzvmvmwka6uzryk0pkvqb7nam4",
+      "source_url": "https://rechtagstudio.gumroad.com/l/iwdfmg",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--dr-strange-vs-shuma-gorath",
+      "slug": "dr-strange-vs-shuma-gorath",
+      "title": "Dr. Strange vs. Shuma Gorath",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/groe06unh5q7artubr1kb3vjkwkq",
+      "source_url": "https://rechtagstudio.gumroad.com/l/uifhzu",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--balrog-street-fighter",
+      "slug": "balrog-street-fighter",
+      "title": "Balrog - Street Fighter",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/9ebpii7rghqbnn4qmoxa0u978m9s",
+      "source_url": "https://rechtagstudio.gumroad.com/l/omogv",
+      "description": "",
+      "tags": [
+        "videogames",
+        "movies",
+        "lotr",
+        "street-fighter"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--loki-comics",
+      "slug": "loki-comics",
+      "title": "Loki - Comics",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/1sq2z2d38sgvinz24iif8qa1l0et",
+      "source_url": "https://rechtagstudio.gumroad.com/l/fvftl",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--eustass-kid",
+      "slug": "eustass-kid",
+      "title": "Eustass Kid",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/6nix6embbim306ownkiy0fiq306c",
+      "source_url": "https://rechtagstudio.gumroad.com/l/yamkw",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--kid-deku",
+      "slug": "kid-deku",
+      "title": "Kid Deku",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/qg8hu8fv7q79d6p6t2djxff1knm5",
+      "source_url": "https://rechtagstudio.gumroad.com/l/lvugof",
+      "description": "",
+      "tags": [
+        "anime",
+        "my-hero-academia"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
     },
     {
       "id": "tooniverse83--hank-stl",
@@ -19819,6 +20039,20 @@
       ],
       "featured": false,
       "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-september-term-2026-wonder-twins-zan-and-jayna-diorama-ready-for-printin",
+      "slug": "b3dserk-september-term-2026-wonder-twins-zan-and-jayna-diorama-ready-for-printin",
+      "title": "B3DSERK September Term 2026 Wonder Twins Zan and Jayna Diorama ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/iae85y5fcj0sar9uzjqk9tllc67z",
+      "source_url": "https://b3dserk.gumroad.com/l/WonderTwins",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
     },
     {
       "id": "tanuki-figures--deku-my-hero-academia",
@@ -29063,6 +29297,61 @@
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
+      "id": "vs3d--terrifier",
+      "slug": "terrifier",
+      "title": "Terrifier",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/dqmw98eunl14owwdby82fbg0rcli",
+      "source_url": "https://vs3d.gumroad.com/l/mwysco",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "vs3d--the-terminator-1984",
+      "slug": "the-terminator-1984",
+      "title": "The Terminator(1984)",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/fj02jfrzgukd52eqvl62gxd2rph9",
+      "source_url": "https://vs3d.gumroad.com/l/euekss",
+      "description": "",
+      "tags": [
+        "movies",
+        "terminator"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "vs3d--long-john-silver-black-sails",
+      "slug": "long-john-silver-black-sails",
+      "title": "Long John Silver-Black Sails",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/xrqcsh5g7f8wnhtt41zmikizi1lf",
+      "source_url": "https://vs3d.gumroad.com/l/npgbqb",
+      "description": "",
+      "tags": [
+        "movies",
+        "tv-shows",
+        "black-sails"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "vs3d--pinky-and-the-brain",
+      "slug": "pinky-and-the-brain",
+      "title": "Pinky and The Brain",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/7ura0ludxkj49jhycrwg3o1fg5yr",
+      "source_url": "https://vs3d.gumroad.com/l/mfqfb",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
       "id": "vs3d--gow-battle-of-the-gods-long-term",
       "slug": "gow-battle-of-the-gods-long-term",
       "title": "GOW-Battle Of The Gods(long term)",
@@ -29167,18 +29456,6 @@
       ],
       "featured": false,
       "first_seen": "2026-08-01T08:33:49.124Z"
-    },
-    {
-      "id": "vs3d--june-2026-and-back-entire-catalog",
-      "slug": "june-2026-and-back-entire-catalog",
-      "title": "June 2026 and back, ENTIRE CATALOG",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/kqh32i3ts3ax7krzmubqvv5gho37",
-      "source_url": "https://vs3d.gumroad.com/l/hjsik",
-      "description": "",
-      "tags": [],
-      "featured": false,
-      "first_seen": "2026-08-03T10:05:28.269Z"
     },
     {
       "id": "vs3d--quarterly-reward-9-month-pack",
@@ -42750,6 +43027,163 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-09-07T12:34:01.463Z"
+    },
+    {
+      "id": "carlos-edu--shanoa-3d-print",
+      "slug": "shanoa-3d-print",
+      "title": "Shanoa 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/qob2y2tz3va3969399l4c1v5us1y",
+      "source_url": "https://carlosedu.gumroad.com/l/osnoil",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--chainsaw-man-3d-print",
+      "slug": "chainsaw-man-3d-print",
+      "title": "Chainsaw Man 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/58xw97j781ghdvm3vkd1qq0dhyw3",
+      "source_url": "https://carlosedu.gumroad.com/l/kwrcib",
+      "description": "",
+      "tags": [
+        "chainsaw-man"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--claire-3d-print",
+      "slug": "claire-3d-print",
+      "title": "Claire 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/wty4j098ayfg32ws3ajuqaghs6gl",
+      "source_url": "https://carlosedu.gumroad.com/l/atnmzs",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--coraline-3d-print",
+      "slug": "coraline-3d-print",
+      "title": "Coraline 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/pfu8kqhvgee0zsx80c7yq0hfy4s0",
+      "source_url": "https://carlosedu.gumroad.com/l/iqhmmh",
+      "description": "",
+      "tags": [
+        "movies",
+        "pixar-disney"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--witch-hunter-3d-print",
+      "slug": "witch-hunter-3d-print",
+      "title": "Witch Hunter 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/xioz6urdyvlofjwqrztbc3e8am31",
+      "source_url": "https://carlosedu.gumroad.com/l/mejhqp",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--frieren-3d-print",
+      "slug": "frieren-3d-print",
+      "title": "Frieren 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/tpybp73lewre5bjd03t7n5munbg5",
+      "source_url": "https://carlosedu.gumroad.com/l/olcmh",
+      "description": "",
+      "tags": [
+        "anime",
+        "frieren"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--jojo-3d-print",
+      "slug": "jojo-3d-print",
+      "title": "Jojo 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/8adtkssu1ah2519l1plqczj2he6g",
+      "source_url": "https://carlosedu.gumroad.com/l/jztcnf",
+      "description": "",
+      "tags": [
+        "anime",
+        "jojo"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--juri-3d-print",
+      "slug": "juri-3d-print",
+      "title": "Juri 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/e32251a4m80jn0h2xxl9rn7u5vqf",
+      "source_url": "https://carlosedu.gumroad.com/l/nelpw",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--ronin-anakin-3d-print",
+      "slug": "ronin-anakin-3d-print",
+      "title": "Ronin Anakin 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/kykcy5slgzo3ooyphwl0obtogyh8",
+      "source_url": "https://carlosedu.gumroad.com/l/uoxjn",
+      "description": "",
+      "tags": [
+        "star-wars"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--skull-knight-3d-print",
+      "slug": "skull-knight-3d-print",
+      "title": "Skull Knight 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/j9tmbz6n8iuj4rwbvgqts2tjawtv",
+      "source_url": "https://carlosedu.gumroad.com/l/cskah",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--strahd-von-zarovich-3d-print",
+      "slug": "strahd-von-zarovich-3d-print",
+      "title": "Strahd Von Zarovich 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/crvmp8upychh7jnolpk831n27v1b",
+      "source_url": "https://carlosedu.gumroad.com/l/wjltf",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--kurg-3d-print",
+      "slug": "kurg-3d-print",
+      "title": "Kurg 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/yrlh8arodl10g3vn1z9t682h3c1w",
+      "source_url": "https://carlosedu.gumroad.com/l/jwnlbo",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-01T13:16:26.428Z"
     }
   ]
 }
