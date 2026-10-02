@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-01T13:16:26.428Z",
-  "new_count": 32,
-  "count": 2891,
+  "generated_at": "2026-10-02T12:36:21.380Z",
+  "new_count": 2,
+  "count": 2892,
   "excluded_count": 43,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--ellie-willians-3d-print",
+      "slug": "ellie-willians-3d-print",
+      "title": "ELLIE WILLIANS 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/8g3d32uno7pt44zt8dlplb05jr0y",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/qvjoaw",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-02T12:36:21.380Z"
+    },
     {
       "id": "zenith-collectibles--light-yagami-3d-print",
       "slug": "light-yagami-3d-print",
@@ -26021,6 +26033,20 @@
       "first_seen": "2026-06-09T23:32:37.312Z"
     },
     {
+      "id": "kaidan-3d--matt-x-gabumon-digimon-stl-ready-for-3d-printing",
+      "slug": "matt-x-gabumon-digimon-stl-ready-for-3d-printing",
+      "title": "Matt x Gabumon DIGIMON - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/rz6werjfvvpwxsatn9gy1n8ctn7q",
+      "source_url": "https://kaidan3d.gumroad.com/l/xuosil",
+      "description": "",
+      "tags": [
+        "digimon"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-02T12:36:21.380Z"
+    },
+    {
       "id": "kaidan-3d--bojack-horseman-bojack-horseman-stl-ready-for-3d-printing",
       "slug": "bojack-horseman-bojack-horseman-stl-ready-for-3d-printing",
       "title": "Bojack Horseman BOJACK HORSEMAN - STL Ready for 3D Printing",
@@ -32282,20 +32308,6 @@
         "movies",
         "13-ghosts",
         "horror"
-      ],
-      "featured": false,
-      "first_seen": "2026-06-09T23:32:37.312Z"
-    },
-    {
-      "id": "vs3d--martian-manhunter",
-      "slug": "martian-manhunter",
-      "title": "Martian Manhunter",
-      "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/1h3caug6axwazpq0a9kgopjqcaur",
-      "source_url": "https://vs3d.gumroad.com/l/qtwhy",
-      "description": "",
-      "tags": [
-        "dc"
       ],
       "featured": false,
       "first_seen": "2026-06-09T23:32:37.312Z"
