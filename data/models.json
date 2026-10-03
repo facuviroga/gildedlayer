@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T12:36:21.380Z",
-  "new_count": 2,
-  "count": 2892,
+  "generated_at": "2026-10-03T11:40:31.989Z",
+  "new_count": 0,
+  "count": 2890,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -19001,35 +19001,6 @@
       ],
       "featured": false,
       "first_seen": "2026-09-16T11:35:22.921Z"
-    },
-    {
-      "id": "b3dserk--b3dserk-dc-comics-green-lantern-lantern-stl-ready-for-printing",
-      "slug": "b3dserk-dc-comics-green-lantern-lantern-stl-ready-for-printing",
-      "title": "B3DSERK DC comics Green Lantern Lantern: STL ready for printing",
-      "creator": "B3DSerk",
-      "image": "https://public-files.gumroad.com/pc5w0cezjyoq90a8xfaa2abpjyq9",
-      "source_url": "https://b3dserk.gumroad.com/l/GjZbya",
-      "description": "",
-      "tags": [
-        "dc"
-      ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "b3dserk--b3dserk-dc-comics-green-lantern-hal-jordan-3d-sculpture-stl-ready-for-printing",
-      "slug": "b3dserk-dc-comics-green-lantern-hal-jordan-3d-sculpture-stl-ready-for-printing",
-      "title": "B3DSERK DC comics Green Lantern: Hal Jordan 3D Sculpture: STL ready for printing",
-      "creator": "B3DSerk",
-      "image": "https://public-files.gumroad.com/qixpgtuur6st7kh9hh1r6ql4vbm9",
-      "source_url": "https://b3dserk.gumroad.com/l/iDoWF",
-      "description": "",
-      "tags": [
-        "dc",
-        "sculptures"
-      ],
-      "featured": false,
-      "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
       "id": "b3dserk--b3dserk-june-term-2024-violator-sculpture-ready-for-printing",
