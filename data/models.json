@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T13:19:15.923Z",
-  "new_count": 0,
-  "count": 2890,
+  "generated_at": "2026-10-07T13:25:19.200Z",
+  "new_count": 13,
+  "count": 2903,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -43167,6 +43167,196 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "carlos-edu--anakin-ronin-bust-3d-print",
+      "slug": "anakin-ronin-bust-3d-print",
+      "title": "Anakin Ronin Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/bv4dzu9oz8ezdy1i1ieoz4ywriya",
+      "source_url": "https://carlosedu.gumroad.com/l/wtisef",
+      "description": "",
+      "tags": [
+        "star-wars",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--jojo-bust-3d-print",
+      "slug": "jojo-bust-3d-print",
+      "title": "Jojo Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/08k6jg0luqdhvs3dfr5m2v0cy2fq",
+      "source_url": "https://carlosedu.gumroad.com/l/woitdb",
+      "description": "",
+      "tags": [
+        "anime",
+        "jojo",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--kurg-bust-3d-print",
+      "slug": "kurg-bust-3d-print",
+      "title": "Kurg Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/sbyyvor44xg71rhwb0scjmgug4s9",
+      "source_url": "https://carlosedu.gumroad.com/l/wcktcq",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--chainsaw-man-bust-3d-print",
+      "slug": "chainsaw-man-bust-3d-print",
+      "title": "Chainsaw Man Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/ekx50ngjaemn3cgfdu16vgimq225",
+      "source_url": "https://carlosedu.gumroad.com/l/bavgyi",
+      "description": "",
+      "tags": [
+        "chainsaw-man",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--strahd-von-zarovich-bust3d-print",
+      "slug": "strahd-von-zarovich-bust3d-print",
+      "title": "Strahd von Zarovich Bust3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/emevfd8ohiqqgdijdfa8al1vzol4",
+      "source_url": "https://carlosedu.gumroad.com/l/vupjzz",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--skull-knight-bust-berserk-3d-print",
+      "slug": "skull-knight-bust-berserk-3d-print",
+      "title": "Skull Knight Bust - Berserk 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/v8qjslemw47bbyiwzj7j9wf24ly5",
+      "source_url": "https://carlosedu.gumroad.com/l/sazfhn",
+      "description": "",
+      "tags": [
+        "anime",
+        "berserk",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--shanoa-bust-3d-print",
+      "slug": "shanoa-bust-3d-print",
+      "title": "Shanoa Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/dgcq3bduyq4je8qazk7kz8gp0pi6",
+      "source_url": "https://carlosedu.gumroad.com/l/caxvit",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--coraline-bust-3d-print",
+      "slug": "coraline-bust-3d-print",
+      "title": "Coraline Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/8jsdc899qh2rngco85hhecu3hxhd",
+      "source_url": "https://carlosedu.gumroad.com/l/pytomy",
+      "description": "",
+      "tags": [
+        "movies",
+        "pixar-disney",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--claire-bust-3d-print",
+      "slug": "claire-bust-3d-print",
+      "title": "Claire Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/8cebyofvwyd9vb2eo0vreftu3i7i",
+      "source_url": "https://carlosedu.gumroad.com/l/exwihr",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--witch-hunter-bust-3d-print",
+      "slug": "witch-hunter-bust-3d-print",
+      "title": "Witch Hunter Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/mz0cnkx1gfwdhsttrw4fq0opj0nf",
+      "source_url": "https://carlosedu.gumroad.com/l/jzdhcz",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--frieren-bust-3d-print",
+      "slug": "frieren-bust-3d-print",
+      "title": "Frieren Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/sidx9lbzxvwpbzakul873vscmu3h",
+      "source_url": "https://carlosedu.gumroad.com/l/xtgekp",
+      "description": "",
+      "tags": [
+        "anime",
+        "frieren",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--juri-bust-3d-print",
+      "slug": "juri-bust-3d-print",
+      "title": "Juri Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/ixtflnjptokzbr76hv54kirjom8m",
+      "source_url": "https://carlosedu.gumroad.com/l/xdvxyd",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--bundle-bust-3d-print",
+      "slug": "bundle-bust-3d-print",
+      "title": "Bundle Bust 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/mr7cc1fg6l9cbf9x4h40bnc8ibkh",
+      "source_url": "https://carlosedu.gumroad.com/l/wwbhd",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-07T13:25:19.200Z"
     }
   ]
 }
