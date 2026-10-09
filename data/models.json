@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T13:30:41.470Z",
-  "new_count": 0,
-  "count": 2903,
+  "generated_at": "2026-10-09T13:18:14.139Z",
+  "new_count": 1,
+  "count": 2904,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -20022,6 +20022,21 @@
       ],
       "featured": false,
       "first_seen": "2026-09-13T11:53:33.345Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-september-term-2026-wonder-woman-dceu-ww2-sculpture-ready-for-printing",
+      "slug": "b3dserk-september-term-2026-wonder-woman-dceu-ww2-sculpture-ready-for-printing",
+      "title": "B3DSERK September Term 2026 Wonder Woman DCEU WW2 Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/j4xm8y61aamzyuyg8nm67fhn7o5z",
+      "source_url": "https://b3dserk.gumroad.com/l/WonderWSS",
+      "description": "",
+      "tags": [
+        "dc",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-09T13:18:14.139Z"
     },
     {
       "id": "b3dserk--b3dserk-september-term-2026-wonder-twins-zan-and-jayna-diorama-ready-for-printin",
