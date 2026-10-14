@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T14:12:46.363Z",
-  "new_count": 3,
-  "count": 2912,
+  "generated_at": "2026-10-14T11:53:32.538Z",
+  "new_count": 2,
+  "count": 2914,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -14979,6 +14979,22 @@
       "first_seen": "2026-09-17T11:42:16.224Z"
     },
     {
+      "id": "3d-wicked--wicked-video-games-altair-gauntlet-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-altair-gauntlet-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Altair Gauntlet: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/tee76oxiun04k3jdob08e7e00o0z",
+      "source_url": "https://3dwicked.gumroad.com/l/AltairGauntlet",
+      "description": "",
+      "tags": [
+        "videogames",
+        "assassins-creed",
+        "weapons"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-14T11:53:32.538Z"
+    },
+    {
       "id": "zez-collectibles--deadpool-3d-print-bust",
       "slug": "deadpool-3d-print-bust",
       "title": "DEADPOOL  3D PRINT + BUST",
@@ -25741,6 +25757,21 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "kaidan-3d--shiryu-saint-seiya-knights-of-the-zodiac-stl-ready-for-3d-printing",
+      "slug": "shiryu-saint-seiya-knights-of-the-zodiac-stl-ready-for-3d-printing",
+      "title": "Shiryu SAINT SEIYA: KNIGHTS OF THE ZODIAC - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/s8jfrrtdxnr7m8yy6ywns276ctxy",
+      "source_url": "https://kaidan3d.gumroad.com/l/ejoyfd",
+      "description": "",
+      "tags": [
+        "anime",
+        "saint-seiya"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-14T11:53:32.538Z"
     },
     {
       "id": "kaidan-3d--sanemi-shinazugawa-demon-slayer-stl-ready-for-3d-printing",
