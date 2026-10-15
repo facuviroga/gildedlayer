@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T11:53:32.538Z",
-  "new_count": 2,
-  "count": 2914,
+  "generated_at": "2026-10-15T11:30:30.039Z",
+  "new_count": 5,
+  "count": 2919,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -25759,6 +25759,36 @@
       "first_seen": "2020-01-01T00:00:00.000Z"
     },
     {
+      "id": "kaidan-3d--princess-peach-mario-kart-stl-ready-for-3d-printing",
+      "slug": "princess-peach-mario-kart-stl-ready-for-3d-printing",
+      "title": "Princess Peach MARIO KART - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/1vuwyvz5m0ibgrgfo2b7sx4v8rin",
+      "source_url": "https://kaidan3d.gumroad.com/l/epwkvr",
+      "description": "",
+      "tags": [
+        "videogames",
+        "super-mario"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-15T11:30:30.039Z"
+    },
+    {
+      "id": "kaidan-3d--merlin-the-seven-deadly-sins-stl-ready-for-3d-printing",
+      "slug": "merlin-the-seven-deadly-sins-stl-ready-for-3d-printing",
+      "title": "Merlin THE SEVEN DEADLY SINS - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/4t60xbq2t9p7doulry74i0dmpsmo",
+      "source_url": "https://kaidan3d.gumroad.com/l/ylqjxq",
+      "description": "",
+      "tags": [
+        "seven-deadly-sins",
+        "arthurian"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-15T11:30:30.039Z"
+    },
+    {
       "id": "kaidan-3d--shiryu-saint-seiya-knights-of-the-zodiac-stl-ready-for-3d-printing",
       "slug": "shiryu-saint-seiya-knights-of-the-zodiac-stl-ready-for-3d-printing",
       "title": "Shiryu SAINT SEIYA: KNIGHTS OF THE ZODIAC - STL Ready for 3D Printing",
@@ -25772,6 +25802,47 @@
       ],
       "featured": false,
       "first_seen": "2026-10-14T11:53:32.538Z"
+    },
+    {
+      "id": "kaidan-3d--albedo-overlord-stl-ready-for-3d-printing",
+      "slug": "albedo-overlord-stl-ready-for-3d-printing",
+      "title": "Albedo OVERLORD - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/s6wahojasdqo6r74vle8zu2mwyhl",
+      "source_url": "https://kaidan3d.gumroad.com/l/gvevd",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-15T11:30:30.039Z"
+    },
+    {
+      "id": "kaidan-3d--nanami-x-ino-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "slug": "nanami-x-ino-jujutsu-kaisen-stl-ready-for-3d-printing",
+      "title": "Nanami x Ino JUJUTSU KAISEN -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/imrtj5w2r7hvwqjqv34gyzfd3jn5",
+      "source_url": "https://kaidan3d.gumroad.com/l/piqsox",
+      "description": "",
+      "tags": [
+        "anime",
+        "jujutsu-kaisen"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-15T11:30:30.039Z"
+    },
+    {
+      "id": "kaidan-3d--2b-nier-automata-stl-ready-for-3d-printing",
+      "slug": "2b-nier-automata-stl-ready-for-3d-printing",
+      "title": "2B NIER:AUTOMATA - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/hbjtqmbpwxb96r96rt5am0e372g2",
+      "source_url": "https://kaidan3d.gumroad.com/l/wivqnl",
+      "description": "",
+      "tags": [
+        "nier"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-15T11:30:30.039Z"
     },
     {
       "id": "kaidan-3d--sanemi-shinazugawa-demon-slayer-stl-ready-for-3d-printing",
