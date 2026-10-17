@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T11:25:22.837Z",
-  "new_count": 0,
-  "count": 2919,
+  "generated_at": "2026-10-17T10:45:06.990Z",
+  "new_count": 1,
+  "count": 2920,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -20183,6 +20183,18 @@
       ],
       "featured": false,
       "first_seen": "2026-10-11T12:51:23.577Z"
+    },
+    {
+      "id": "tanuki-figures--super-haloween-2026",
+      "slug": "super-haloween-2026",
+      "title": "Super Haloween 2026",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/h5ud9wrybrksbkf10ybm0ft8v0b9",
+      "source_url": "https://tanukifigures.gumroad.com/l/haloween2026",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-17T10:45:06.990Z"
     },
     {
       "id": "tanuki-figures--deku-my-hero-academia",
