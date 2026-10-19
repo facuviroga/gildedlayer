@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-10-18T11:06:30.609Z",
-  "new_count": 0,
-  "count": 2920,
+  "generated_at": "2026-10-19T13:17:31.880Z",
+  "new_count": 2,
+  "count": 2922,
   "excluded_count": 44,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--puss-in-boots-3d-print",
+      "slug": "puss-in-boots-3d-print",
+      "title": "PUSS IN BOOTS 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/pho59g3bv5klmb1y4pj00e8fqytw",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/asewo",
+      "description": "",
+      "tags": [
+        "movies",
+        "pixar-disney"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-19T13:17:31.880Z"
+    },
     {
       "id": "zenith-collectibles--leatherface-3d-print",
       "slug": "leatherface-3d-print",
@@ -18035,6 +18050,21 @@
       ],
       "featured": false,
       "first_seen": "2026-10-01T13:16:26.428Z"
+    },
+    {
+      "id": "rechtag-studio--sanemi-demon-slayer",
+      "slug": "sanemi-demon-slayer",
+      "title": "Sanemi - Demon Slayer",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/ajiquriqiovkkkfee1poxhirh8fh",
+      "source_url": "https://rechtagstudio.gumroad.com/l/sanemi",
+      "description": "",
+      "tags": [
+        "anime",
+        "demon-slayer"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-19T13:17:31.880Z"
     },
     {
       "id": "tooniverse83--hank-stl",
