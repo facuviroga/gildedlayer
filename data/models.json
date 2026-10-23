@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T11:53:40.034Z",
-  "new_count": 0,
-  "count": 2923,
+  "generated_at": "2026-10-23T11:40:09.286Z",
+  "new_count": 5,
+  "count": 2928,
   "excluded_count": 44,
   "errors": [],
   "models": [
@@ -15004,6 +15004,86 @@
       ],
       "featured": false,
       "first_seen": "2026-09-17T11:42:16.224Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-thor-and-scarleth-witch-diorama-tested-and-ready-for",
+      "slug": "wicked-september-2026-term-thor-and-scarleth-witch-diorama-tested-and-ready-for",
+      "title": "Wicked September 2026 Term Thor and Scarleth Witch Diorama: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/lmfch4sfo69uplizhiwezaz5t1o5",
+      "source_url": "https://3dwicked.gumroad.com/l/ThoryScarlethWitchD",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-23T11:40:09.286Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-thor-zombie-sculpture-tested-and-ready-for-3d-printin",
+      "slug": "wicked-september-2026-term-thor-zombie-sculpture-tested-and-ready-for-3d-printin",
+      "title": "Wicked September 2026 Term Thor Zombie Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/znzez56dwm9oebbm7iuldginwh73",
+      "source_url": "https://3dwicked.gumroad.com/l/ThorZombieS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-23T11:40:09.286Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-scarlet-witch-zombie-sculpture-tested-and-ready-for-3",
+      "slug": "wicked-september-2026-term-scarlet-witch-zombie-sculpture-tested-and-ready-for-3",
+      "title": "Wicked September 2026 Term Scarlet Witch Zombie Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/x4uf04dhcb05iau1noekvdkvfwmf",
+      "source_url": "https://3dwicked.gumroad.com/l/ScarletWitchZombieS",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-23T11:40:09.286Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-thor-zombie-portrait-bust-tested-and-ready-for-3d-pri",
+      "slug": "wicked-september-2026-term-thor-zombie-portrait-bust-tested-and-ready-for-3d-pri",
+      "title": "Wicked September 2026 Term Thor Zombie Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/wmityksirqc6y8112js17ck9k32f",
+      "source_url": "https://3dwicked.gumroad.com/l/ThorZombiePB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-23T11:40:09.286Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-scarlet-witch-zombie-portrait-bust-tested-and-ready-f",
+      "slug": "wicked-september-2026-term-scarlet-witch-zombie-portrait-bust-tested-and-ready-f",
+      "title": "Wicked September 2026 Term Scarlet Witch Zombie Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/5kkqk719cgonhhd3pxzgoj9swkv0",
+      "source_url": "https://3dwicked.gumroad.com/l/ScarletWitchPB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-23T11:40:09.286Z"
     },
     {
       "id": "3d-wicked--wicked-video-games-altair-gauntlet-tested-and-ready-for-3d-printing",
