@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-23T11:40:09.286Z",
-  "new_count": 5,
-  "count": 2928,
-  "excluded_count": 44,
+  "generated_at": "2026-10-24T11:02:11.489Z",
+  "new_count": 2,
+  "count": 2930,
+  "excluded_count": 43,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--freddy-fazbear-3d-print",
+      "slug": "freddy-fazbear-3d-print",
+      "title": "FREDDY FAZBEAR 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/x8jpnv1z8i7funpw1bj6apklj0t1",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/lmpfmz",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-24T11:02:11.489Z"
+    },
     {
       "id": "zenith-collectibles--lucia-caminos-3d-print",
       "slug": "lucia-caminos-3d-print",
@@ -20305,6 +20317,21 @@
       ],
       "featured": false,
       "first_seen": "2026-10-11T12:51:23.577Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-hawkgirl-dc-zombie-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-hawkgirl-dc-zombie-portrait-bust-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Hawkgirl DC Zombie Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/uwcyh4h2m6nccx9k1ssldjvszh3i",
+      "source_url": "https://b3dserk.gumroad.com/l/HawkgirlDCZombie",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-24T11:02:11.489Z"
     },
     {
       "id": "tanuki-figures--super-haloween-2026",
