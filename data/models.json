@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T11:02:11.489Z",
-  "new_count": 2,
-  "count": 2930,
+  "generated_at": "2026-10-25T11:30:48.128Z",
+  "new_count": 4,
+  "count": 2934,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -15018,6 +15018,48 @@
       "first_seen": "2026-09-17T11:42:16.224Z"
     },
     {
+      "id": "3d-wicked--wicked-september-2026-term-were-wolf-by-night-diorama-tested-and-ready-for-3d-pr",
+      "slug": "wicked-september-2026-term-were-wolf-by-night-diorama-tested-and-ready-for-3d-pr",
+      "title": "Wicked September 2026 Term Were Wolf by Night Diorama: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/j0b4ecxu56kdf2g03pa2ecmcyg6q",
+      "source_url": "https://3dwicked.gumroad.com/l/WereWolfSS",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-25T11:30:48.128Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-were-wolf-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-september-2026-term-were-wolf-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked September 2026 Term Were Wolf Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/ezxzbk8znmdwz8ha3d2y2zr6b0dc",
+      "source_url": "https://3dwicked.gumroad.com/l/WereWolfS2",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-25T11:30:48.128Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-jack-russel-sculpture-tested-and-ready-for-3d-printin",
+      "slug": "wicked-september-2026-term-jack-russel-sculpture-tested-and-ready-for-3d-printin",
+      "title": "Wicked September 2026 Term Jack Russel Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/vimuabz39h8rjlb2eet83m5dkxg1",
+      "source_url": "https://3dwicked.gumroad.com/l/JackRusselSS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-25T11:30:48.128Z"
+    },
+    {
       "id": "3d-wicked--wicked-september-2026-term-thor-and-scarleth-witch-diorama-tested-and-ready-for",
       "slug": "wicked-september-2026-term-thor-and-scarleth-witch-diorama-tested-and-ready-for",
       "title": "Wicked September 2026 Term Thor and Scarleth Witch Diorama: Tested and ready for 3D printing",
@@ -20332,6 +20374,21 @@
       ],
       "featured": false,
       "first_seen": "2026-10-24T11:02:11.489Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-green-lantern-dc-zombie-portrait-bust-ready-for-printi",
+      "slug": "b3dserk-october-term-2026-green-lantern-dc-zombie-portrait-bust-ready-for-printi",
+      "title": "B3DSERK October Term 2026 Green Lantern DC Zombie Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/kuqozo0ayeu1dkjbj8179h7zb6qf",
+      "source_url": "https://b3dserk.gumroad.com/l/GreenLanternZ",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-25T11:30:48.128Z"
     },
     {
       "id": "tanuki-figures--super-haloween-2026",
