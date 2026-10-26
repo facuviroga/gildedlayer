@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T11:30:48.128Z",
-  "new_count": 4,
-  "count": 2934,
+  "generated_at": "2026-10-26T13:04:37.480Z",
+  "new_count": 1,
+  "count": 2935,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -15106,6 +15106,20 @@
       ],
       "featured": false,
       "first_seen": "2026-10-23T11:40:09.286Z"
+    },
+    {
+      "id": "3d-wicked--wicked-september-2026-term-were-wolf-and-jack-russel-portrait-bust-tested-and-re",
+      "slug": "wicked-september-2026-term-were-wolf-and-jack-russel-portrait-bust-tested-and-re",
+      "title": "Wicked September 2026 Term  Were Wolf and Jack Russel Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/1yc5nfty70c3nztox0aydoi09f34",
+      "source_url": "https://3dwicked.gumroad.com/l/JackRussellPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-26T13:04:37.480Z"
     },
     {
       "id": "3d-wicked--wicked-september-2026-term-thor-zombie-portrait-bust-tested-and-ready-for-3d-pri",
@@ -32434,7 +32448,7 @@
       "slug": "the-complete-goonies-diorama",
       "title": "The Complete Goonies Diorama",
       "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/fwnlhtlyyz1nj67pvysbb8x6yx6v",
+      "image": "https://public-files.gumroad.com/f5bes0kzg3mk2nl30at8t4ye4qfu",
       "source_url": "https://vs3d.gumroad.com/l/pdcoex",
       "description": "",
       "tags": [
