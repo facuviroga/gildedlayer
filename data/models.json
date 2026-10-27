@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T13:04:37.480Z",
+  "generated_at": "2026-10-27T12:12:43.163Z",
   "new_count": 1,
-  "count": 2935,
+  "count": 2936,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -17563,6 +17563,23 @@
       "first_seen": "2026-10-13T14:12:46.363Z"
     },
     {
+      "id": "zez-collectibles--dracula-stl-bust",
+      "slug": "dracula-stl-bust",
+      "title": "DRACULA STL + BUST   ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/6rpg4odzzi9rec0emgevjlw4025p",
+      "source_url": "https://zezcollectibles.gumroad.com/l/DRACULA",
+      "description": "",
+      "tags": [
+        "universal-monsters",
+        "busts",
+        "movies",
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-27T12:12:43.163Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -31606,7 +31623,7 @@
       "slug": "13-ghost-complete-diorama",
       "title": "13 Ghost Complete Diorama",
       "creator": "VS3D",
-      "image": "https://public-files.gumroad.com/d7cc967k2enojjwemt0blrj7cz4u",
+      "image": "https://public-files.gumroad.com/wrazz3pds6bk7d2hv47nveda67qu",
       "source_url": "https://vs3d.gumroad.com/l/fdmji",
       "description": "",
       "tags": [
