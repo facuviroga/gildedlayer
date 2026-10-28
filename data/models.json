@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T12:12:43.163Z",
-  "new_count": 1,
-  "count": 2936,
+  "generated_at": "2026-10-28T12:56:01.065Z",
+  "new_count": 4,
+  "count": 2940,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -15154,6 +15154,57 @@
       "first_seen": "2026-10-23T11:40:09.286Z"
     },
     {
+      "id": "3d-wicked--wicked-movies-phantom-of-the-opera-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-phantom-of-the-opera-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Phantom of the Opera Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/idsux2oss3dkjp8qoil6r5ly7wlu",
+      "source_url": "https://3dwicked.gumroad.com/l/PhantomoftheOperaS",
+      "description": "",
+      "tags": [
+        "movies",
+        "universal-monsters",
+        "sculptures",
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-28T12:56:01.065Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-bride-of-frankenstein-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-bride-of-frankenstein-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Bride of Frankenstein Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/qbsxytklo5taa2843kk2xvxh7zjh",
+      "source_url": "https://3dwicked.gumroad.com/l/BrideofFrankensteinS",
+      "description": "",
+      "tags": [
+        "movies",
+        "universal-monsters",
+        "sculptures",
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-28T12:56:01.065Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-bride-of-frankenstein-portrait-bust-tested-and-ready-for-3d-printi",
+      "slug": "wicked-movies-bride-of-frankenstein-portrait-bust-tested-and-ready-for-3d-printi",
+      "title": "Wicked Movies Bride of Frankenstein Portrait Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/qqt1kwk3e3msr5mvlqmqjb0sek9g",
+      "source_url": "https://3dwicked.gumroad.com/l/BrideofFrankensteinPB",
+      "description": "",
+      "tags": [
+        "movies",
+        "universal-monsters",
+        "busts",
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-28T12:56:01.065Z"
+    },
+    {
       "id": "3d-wicked--wicked-video-games-altair-gauntlet-tested-and-ready-for-3d-printing",
       "slug": "wicked-video-games-altair-gauntlet-tested-and-ready-for-3d-printing",
       "title": "Wicked Video Games Altair Gauntlet: Tested and ready for 3D printing ",
@@ -26006,6 +26057,21 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "kaidan-3d--blood-chains-ichigo-bleach-stl-ready-for-3d-printing",
+      "slug": "blood-chains-ichigo-bleach-stl-ready-for-3d-printing",
+      "title": "Blood Chains Ichigo BLEACH - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/q7pzmjbhqsqe6jb0y9lm8njq1ga6",
+      "source_url": "https://kaidan3d.gumroad.com/l/viafkr",
+      "description": "",
+      "tags": [
+        "anime",
+        "bleach"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-28T12:56:01.065Z"
     },
     {
       "id": "kaidan-3d--princess-peach-mario-kart-stl-ready-for-3d-printing",
