@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T12:56:01.065Z",
-  "new_count": 4,
-  "count": 2940,
+  "generated_at": "2026-10-29T13:02:18.529Z",
+  "new_count": 1,
+  "count": 2941,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -15186,6 +15186,23 @@
       ],
       "featured": false,
       "first_seen": "2026-10-28T12:56:01.065Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-phantom-of-the-opera-portrait-bust-tested-and-ready-for-3d-printin",
+      "slug": "wicked-movies-phantom-of-the-opera-portrait-bust-tested-and-ready-for-3d-printin",
+      "title": "Wicked Movies Phantom of the Opera Portrait Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/6741bz9k801n1j00wj57seag2xh3",
+      "source_url": "https://3dwicked.gumroad.com/l/PhantomoftheOperaPB",
+      "description": "",
+      "tags": [
+        "movies",
+        "universal-monsters",
+        "busts",
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-29T13:02:18.529Z"
     },
     {
       "id": "3d-wicked--wicked-movies-bride-of-frankenstein-portrait-bust-tested-and-ready-for-3d-printi",
