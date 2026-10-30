@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T13:02:18.529Z",
-  "new_count": 1,
-  "count": 2941,
+  "generated_at": "2026-10-30T12:56:43.406Z",
+  "new_count": 9,
+  "count": 2950,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -17648,6 +17648,23 @@
       "first_seen": "2026-10-27T12:12:43.163Z"
     },
     {
+      "id": "zez-collectibles--headless-horseman-stl-bust",
+      "slug": "headless-horseman-stl-bust",
+      "title": "HEADLESS HORSEMAN STL + BUST ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/19cthn6322wtlxn2g7knvntcxmw3",
+      "source_url": "https://zezcollectibles.gumroad.com/l/pglvn",
+      "description": "",
+      "tags": [
+        "movies",
+        "sleepy-hollow",
+        "busts",
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -26091,6 +26108,66 @@
       "first_seen": "2026-10-28T12:56:01.065Z"
     },
     {
+      "id": "kaidan-3d--young-minato-naruto-stl-ready-for-3d-printing",
+      "slug": "young-minato-naruto-stl-ready-for-3d-printing",
+      "title": "Young Minato NARUTO -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/1tnmrsr7legmlur304mapvf0q9cg",
+      "source_url": "https://kaidan3d.gumroad.com/l/dxatpr",
+      "description": "",
+      "tags": [
+        "anime",
+        "naruto"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
+      "id": "kaidan-3d--roronoa-zoro-one-piece-stl-ready-for-3d-printing",
+      "slug": "roronoa-zoro-one-piece-stl-ready-for-3d-printing",
+      "title": "Roronoa Zoro ONE PIECE -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/0chboaom63nxy0dwvaanqy9xq0j5",
+      "source_url": "https://kaidan3d.gumroad.com/l/dlrjm",
+      "description": "",
+      "tags": [
+        "anime",
+        "one-piece"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
+      "id": "kaidan-3d--annie-leonhart-attack-on-titan-stl-ready-for-3d-printing",
+      "slug": "annie-leonhart-attack-on-titan-stl-ready-for-3d-printing",
+      "title": "Annie Leonhart ATTACK ON TITAN -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/rxhpsmfz82jy6z3zwnjqhxwe8fpd",
+      "source_url": "https://kaidan3d.gumroad.com/l/yqihmg",
+      "description": "",
+      "tags": [
+        "anime",
+        "attack-on-titan"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
+      "id": "kaidan-3d--aizen-sousuke-bleach-stl-ready-for-3d-printing",
+      "slug": "aizen-sousuke-bleach-stl-ready-for-3d-printing",
+      "title": "Aizen Sousuke BLEACH - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/7n30cuxrt5584gqdjntjc8f1s3gp",
+      "source_url": "https://kaidan3d.gumroad.com/l/kmwvim",
+      "description": "",
+      "tags": [
+        "anime",
+        "bleach"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
       "id": "kaidan-3d--princess-peach-mario-kart-stl-ready-for-3d-printing",
       "slug": "princess-peach-mario-kart-stl-ready-for-3d-printing",
       "title": "Princess Peach MARIO KART - STL Ready for 3D Printing",
@@ -29857,6 +29934,65 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "vs3d--rambo-trio-and-diorama-base",
+      "slug": "rambo-trio-and-diorama-base",
+      "title": "Rambo Trio and DIORAMA BASE",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/ex0j2w9q95zn7n363zqyj59kcaqi",
+      "source_url": "https://vs3d.gumroad.com/l/hujkwo",
+      "description": "",
+      "tags": [
+        "rambo",
+        "dioramas",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
+      "id": "vs3d--tom-and-jerry-halloween-edition",
+      "slug": "tom-and-jerry-halloween-edition",
+      "title": "Tom and Jerry Halloween Edition",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/zplnuva4n44fd2hdljt9ke4l0bcu",
+      "source_url": "https://vs3d.gumroad.com/l/spqtqh",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
+      "id": "vs3d--tom-and-jerry-standard-edition",
+      "slug": "tom-and-jerry-standard-edition",
+      "title": "Tom and Jerry-Standard Edition",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/fcxcf4plqafaahc61tp6m0i6drx1",
+      "source_url": "https://vs3d.gumroad.com/l/ikfias",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
+    },
+    {
+      "id": "vs3d--rambo-3-versions",
+      "slug": "rambo-3-versions",
+      "title": "Rambo : 3 versions",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/ursg5hmthyyjdp53ymk4u34ku05o",
+      "source_url": "https://vs3d.gumroad.com/l/uawdhc",
+      "description": "",
+      "tags": [
+        "rambo",
+        "movies"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-30T12:56:43.406Z"
     },
     {
       "id": "vs3d--terrifier",
