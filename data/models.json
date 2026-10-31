@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T12:56:43.406Z",
-  "new_count": 9,
-  "count": 2950,
+  "generated_at": "2026-10-31T12:31:17.081Z",
+  "new_count": 18,
+  "count": 2968,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -20507,6 +20507,225 @@
       "first_seen": "2026-10-25T11:30:48.128Z"
     },
     {
+      "id": "tanuki-figures--nameless-king-dark-souls",
+      "slug": "nameless-king-dark-souls",
+      "title": "Nameless King - Dark Souls",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/058kh3p8yis1q0xdfs4gp27u5wz2",
+      "source_url": "https://tanukifigures.gumroad.com/l/nameless-king-dark-souls",
+      "description": "",
+      "tags": [
+        "videogames",
+        "dark-souls"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--nameless-king-dark-souls-bust",
+      "slug": "nameless-king-dark-souls-bust",
+      "title": "Nameless King - Dark Souls - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/cpvn9x4hkzp78ketqtgx8g1ogt65",
+      "source_url": "https://tanukifigures.gumroad.com/l/nameless-king-dark-souls-bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "dark-souls",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--denji-chainsaw-man",
+      "slug": "denji-chainsaw-man",
+      "title": "Denji - Chainsaw Man",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/3frev0cchkzxkx0l2tzlirxj5bh8",
+      "source_url": "https://tanukifigures.gumroad.com/l/chainsaw-man",
+      "description": "",
+      "tags": [
+        "chainsaw-man"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--denji-chainsaw-man-bust",
+      "slug": "denji-chainsaw-man-bust",
+      "title": "Denji - Chainsaw Man - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/vqzzukyo26nrvbmuod6mbmf0fl1u",
+      "source_url": "https://tanukifigures.gumroad.com/l/chainsaw-man-bust",
+      "description": "",
+      "tags": [
+        "chainsaw-man",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--punisher",
+      "slug": "punisher",
+      "title": "Punisher",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/9oq2hvvp22ydbo79wxdshq2hh4kb",
+      "source_url": "https://tanukifigures.gumroad.com/l/punisher",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--punisher-bust",
+      "slug": "punisher-bust",
+      "title": "Punisher - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/kwot1pvmm4b5h2903xwhl4mba20m",
+      "source_url": "https://tanukifigures.gumroad.com/l/punisher-bust",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--asta-black-clover",
+      "slug": "asta-black-clover",
+      "title": "Asta - Black Clover",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/6b8iav7nh5x41gtx6khq5o9kdgku",
+      "source_url": "https://tanukifigures.gumroad.com/l/asta-black-clover",
+      "description": "",
+      "tags": [
+        "anime",
+        "black-clover"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--asta-black-clover-bust",
+      "slug": "asta-black-clover-bust",
+      "title": "Asta - Black Clover - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/p95ea67pjbkfh1p31zqf01mrn6zr",
+      "source_url": "https://tanukifigures.gumroad.com/l/asta-black-clover-bust",
+      "description": "",
+      "tags": [
+        "anime",
+        "black-clover",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--nosferatu-1922",
+      "slug": "nosferatu-1922",
+      "title": "Nosferatu 1922",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/gptolck3u0oam35hed7m0ugg6ep4",
+      "source_url": "https://tanukifigures.gumroad.com/l/nosferatu-1922",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--nosferatu-1922-bust",
+      "slug": "nosferatu-1922-bust",
+      "title": "Nosferatu 1922 - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/vn3hm7jr4v5ivemaev7zy94yw285",
+      "source_url": "https://tanukifigures.gumroad.com/l/nosferatu-1922-bust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--dr-william-birkin-resident-evil",
+      "slug": "dr-william-birkin-resident-evil",
+      "title": "Dr. William Birkin - Resident Evil",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/0xo151pa5qbov30yqxkt4j3q0z1e",
+      "source_url": "https://tanukifigures.gumroad.com/l/dr-william-birkin-resident-evil",
+      "description": "",
+      "tags": [
+        "videogames",
+        "resident-evil"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--dr-william-birkin-resident-evil-bust",
+      "slug": "dr-william-birkin-resident-evil-bust",
+      "title": "Dr. William Birkin - Resident Evil - Bust",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/leuaznko86fay8b20zsulxl0rb95",
+      "source_url": "https://tanukifigures.gumroad.com/l/dr-william-birkin-resident-evil-bust",
+      "description": "",
+      "tags": [
+        "videogames",
+        "resident-evil",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--ainz-ooal-gown-overlord-chibi",
+      "slug": "ainz-ooal-gown-overlord-chibi",
+      "title": "Ainz Ooal Gown - Overlord - Chibi",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/5vn2a0c3ngl5185pnhztp7dezmwi",
+      "source_url": "https://tanukifigures.gumroad.com/l/ainz-ooal-gown-overlord-chibi",
+      "description": "",
+      "tags": [
+        "chibi"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--lamb-cult-of-the-lamb-extra",
+      "slug": "lamb-cult-of-the-lamb-extra",
+      "title": "Lamb - Cult of the Lamb - Extra",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/j5ik0wp7qptym87dv6gidt34gvh9",
+      "source_url": "https://tanukifigures.gumroad.com/l/lamb-cult-of-the-lamb-extra",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "tanuki-figures--frankenstein-toon",
+      "slug": "frankenstein-toon",
+      "title": "Frankenstein - Toon",
+      "creator": "Tanuki Figures",
+      "image": "https://public-files.gumroad.com/nky4osuxjq5aw4xlw65un6tx2q3e",
+      "source_url": "https://tanukifigures.gumroad.com/l/frankenstein-toon",
+      "description": "",
+      "tags": [
+        "movies",
+        "universal-monsters",
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
       "id": "tanuki-figures--super-haloween-2026",
       "slug": "super-haloween-2026",
       "title": "Super Haloween 2026",
@@ -29934,6 +30153,46 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "vs3d--red-sonja-3d-poster",
+      "slug": "red-sonja-3d-poster",
+      "title": "Red Sonja 3D Poster",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/74fa5qqqnh85sjb1h43ltvpv7egk",
+      "source_url": "https://vs3d.gumroad.com/l/jmiis",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "vs3d--red-sonja-with-3d-poster-included",
+      "slug": "red-sonja-with-3d-poster-included",
+      "title": "Red Sonja With 3d Poster Included",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/dgjc0d799mp4kzj8xmnlrenf6yk5",
+      "source_url": "https://vs3d.gumroad.com/l/zxind",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
+    },
+    {
+      "id": "vs3d--sinners-diorama",
+      "slug": "sinners-diorama",
+      "title": "Sinners Diorama",
+      "creator": "VS3D",
+      "image": "https://public-files.gumroad.com/lsz1guyfw51sku9png6y91g9eggh",
+      "source_url": "https://vs3d.gumroad.com/l/hurjbe",
+      "description": "",
+      "tags": [
+        "movies",
+        "horror",
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-10-31T12:31:17.081Z"
     },
     {
       "id": "vs3d--rambo-trio-and-diorama-base",
