@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T12:31:17.081Z",
-  "new_count": 18,
-  "count": 2968,
+  "generated_at": "2026-11-01T13:25:49.836Z",
+  "new_count": 32,
+  "count": 3000,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -15154,6 +15154,60 @@
       "first_seen": "2026-10-23T11:40:09.286Z"
     },
     {
+      "id": "3d-wicked--wicked-video-games-alien-isolation-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-alien-isolation-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Alien Isolation Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/q36md5jf1siah577gn4vfmic3xh9",
+      "source_url": "https://3dwicked.gumroad.com/l/AlienIsolationD",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-alien-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-alien-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Alien Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/3sz6dryh8wszhaq1ijhceljozv05",
+      "source_url": "https://3dwicked.gumroad.com/l/AlienSculptureSS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-amanda-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-amanda-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Amanda Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/gwgvvcdk2xioc0flwik6d9727pw1",
+      "source_url": "https://3dwicked.gumroad.com/l/AmandaBust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-alien-wall-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-alien-wall-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Alien Wall: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/3579ingspq33dr4tiwpjypuzmjjy",
+      "source_url": "https://3dwicked.gumroad.com/l/AlienWS",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
       "id": "3d-wicked--wicked-movies-phantom-of-the-opera-sculpture-tested-and-ready-for-3d-printing",
       "slug": "wicked-movies-phantom-of-the-opera-sculpture-tested-and-ready-for-3d-printing",
       "title": "Wicked Movies Phantom of the Opera Sculpture: Tested and ready for 3D printing ",
@@ -15236,6 +15290,20 @@
       ],
       "featured": false,
       "first_seen": "2026-10-14T11:53:32.538Z"
+    },
+    {
+      "id": "3d-wicked--wicked-video-games-amanda-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-video-games-amanda-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Video Games Amanda Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/tz4fl3pjw3leqgfrk5zb44dwv3x2",
+      "source_url": "https://3dwicked.gumroad.com/l/AmandaS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
     },
     {
       "id": "zez-collectibles--deadpool-3d-print-bust",
@@ -17665,6 +17733,32 @@
       "first_seen": "2026-10-30T12:56:43.406Z"
     },
     {
+      "id": "zez-collectibles--night-king-throne-stl",
+      "slug": "night-king-throne-stl",
+      "title": "NIGHT KING THRONE STL",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/v6lk6vikc3dycd3kll0psporiv9q",
+      "source_url": "https://zezcollectibles.gumroad.com/l/NIGHTKING",
+      "description": "",
+      "tags": [
+        "thrones"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "zez-collectibles--starlord-bastet-stl",
+      "slug": "starlord-bastet-stl",
+      "title": "STARLORD BASTET  STL ",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/oefv4cif5h2mxrbvynt0qzhga90v",
+      "source_url": "https://zezcollectibles.gumroad.com/l/STARLORDBASTET",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -18327,6 +18421,122 @@
       ],
       "featured": false,
       "first_seen": "2026-10-19T13:17:31.880Z"
+    },
+    {
+      "id": "rechtag-studio--absolute-joker-october-2026",
+      "slug": "absolute-joker-october-2026",
+      "title": "Absolute Joker - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/5iny5ty378tebwsmzjqqgx8zqgwk",
+      "source_url": "https://rechtagstudio.gumroad.com/l/absolutejoker",
+      "description": "",
+      "tags": [
+        "dc"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--ikkaku-october-2026",
+      "slug": "ikkaku-october-2026",
+      "title": "Ikkaku - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/ickihp35f6jg78p850ryiyp6qw3k",
+      "source_url": "https://rechtagstudio.gumroad.com/l/ikkaku",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--the-lamb-october-2026",
+      "slug": "the-lamb-october-2026",
+      "title": "The Lamb - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/uwaut6peb19o7g9nsh8zqai44yl3",
+      "source_url": "https://rechtagstudio.gumroad.com/l/thelamb",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--gaban-october-2026",
+      "slug": "gaban-october-2026",
+      "title": "Gaban - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/4k1hyy4tdiekiuyajcqjn9s3qs1v",
+      "source_url": "https://rechtagstudio.gumroad.com/l/gaban",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--wolverine-october-2026",
+      "slug": "wolverine-october-2026",
+      "title": "Wolverine - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/wbe9wx57uofz9hqock5vxv84woyh",
+      "source_url": "https://rechtagstudio.gumroad.com/l/wolverine",
+      "description": "",
+      "tags": [
+        "marvel",
+        "x-men"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--alicia-october-2026",
+      "slug": "alicia-october-2026",
+      "title": "Alicia - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/wupr0aqlposqlmu1bcrrh9idfqfl",
+      "source_url": "https://rechtagstudio.gumroad.com/l/alicia",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--squidward-october-2026",
+      "slug": "squidward-october-2026",
+      "title": "Squidward - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/v3qgk404j1rxo0xtt1z6yu0ulib0",
+      "source_url": "https://rechtagstudio.gumroad.com/l/squidward",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--alicia-squirrel-october-2026",
+      "slug": "alicia-squirrel-october-2026",
+      "title": "Alicia Squirrel - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/wmvj1mkuh72wtoukzvlazl0a0m2z",
+      "source_url": "https://rechtagstudio.gumroad.com/l/aliciasquirrel",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "rechtag-studio--dante-october-2026",
+      "slug": "dante-october-2026",
+      "title": "Dante - October 2026",
+      "creator": "Rechtag Studio",
+      "image": "https://public-files.gumroad.com/cj8ugcm22oyxfpg47q0fuvgxoxyt",
+      "source_url": "https://rechtagstudio.gumroad.com/l/dante",
+      "description": "",
+      "tags": [
+        "videogames",
+        "devil-may-cry"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
     },
     {
       "id": "tooniverse83--hank-stl",
@@ -19352,6 +19562,49 @@
       ],
       "featured": false,
       "first_seen": "2026-09-16T11:35:22.921Z"
+    },
+    {
+      "id": "tooniverse83--buzz-and-woody-stl",
+      "slug": "buzz-and-woody-stl",
+      "title": "BUZZ AND WOODY STL",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/yns6bseztgbg6uihc8e0maruyy0e",
+      "source_url": "https://tooniverse83.gumroad.com/l/toystory",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "tooniverse83--porky-stl",
+      "slug": "porky-stl",
+      "title": "PORKY STL",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/zwlr9uh70hdjzvkz986qbxtb8h8l",
+      "source_url": "https://tooniverse83.gumroad.com/l/porky",
+      "description": "",
+      "tags": [
+        "cartoons"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "tooniverse83--robin-hood-stl",
+      "slug": "robin-hood-stl",
+      "title": "ROBIN HOOD STL",
+      "creator": "Tooniverse83",
+      "image": "https://public-files.gumroad.com/e4ki67zqd8u1eni0h8um17hntjy8",
+      "source_url": "https://tooniverse83.gumroad.com/l/robinhood",
+      "description": "",
+      "tags": [
+        "cartoons",
+        "dc"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
     },
     {
       "id": "b3dserk--b3dserk-june-term-2024-violator-sculpture-ready-for-printing",
@@ -20475,6 +20728,20 @@
       ],
       "featured": false,
       "first_seen": "2026-10-11T12:51:23.577Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-black-hand-sculpture-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-black-hand-sculpture-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Black Hand Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/cwen3eil74gskzm7d9eapwbe49dv",
+      "source_url": "https://b3dserk.gumroad.com/l/BlackHandS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
     },
     {
       "id": "b3dserk--b3dserk-october-term-2026-hawkgirl-dc-zombie-portrait-bust-ready-for-printing",
@@ -44317,6 +44584,158 @@
       ],
       "featured": false,
       "first_seen": "2026-10-07T13:25:19.200Z"
+    },
+    {
+      "id": "carlos-edu--dva-and-meka-3d-print",
+      "slug": "dva-and-meka-3d-print",
+      "title": "DVA and Meka 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/p990943wc6z094qh2z96tg7j9noh",
+      "source_url": "https://carlosedu.gumroad.com/l/rbnbty",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--zelda-3d-print",
+      "slug": "zelda-3d-print",
+      "title": "Zelda 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/z7aecund7uw2vn6p5k06q38bho1w",
+      "source_url": "https://carlosedu.gumroad.com/l/rnrvuc",
+      "description": "",
+      "tags": [
+        "videogames",
+        "zelda"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--angewomon-3d-print",
+      "slug": "angewomon-3d-print",
+      "title": "Angewomon 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/0mzwm593lcwkt4f7yy4m6ua0na0y",
+      "source_url": "https://carlosedu.gumroad.com/l/iqyur",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--demon-blade-samurai-3d-print",
+      "slug": "demon-blade-samurai-3d-print",
+      "title": "Demon Blade Samurai 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/x8pr6n6hhc0auwyffp6nvl53lawb",
+      "source_url": "https://carlosedu.gumroad.com/l/ejseeq",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--jin-sakai-3d-print",
+      "slug": "jin-sakai-3d-print",
+      "title": "Jin Sakai 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/q5a6cvymv8ossx03uqke7vel1aqo",
+      "source_url": "https://carlosedu.gumroad.com/l/eooqtk",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--lae-zel-and-her-dragon-3d-print",
+      "slug": "lae-zel-and-her-dragon-3d-print",
+      "title": "Lae’zel and her Dragon 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/tmu4494sebcbvtp93wsewayrg6je",
+      "source_url": "https://carlosedu.gumroad.com/l/wtuhm",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--maelle-3d-print",
+      "slug": "maelle-3d-print",
+      "title": "Maelle 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/63btc1haijccp817wq6lkwkiyr79",
+      "source_url": "https://carlosedu.gumroad.com/l/dliwed",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--raiden-3d-print",
+      "slug": "raiden-3d-print",
+      "title": "Raiden 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/p36iwxo7mrufguitlhnzqjyspcs7",
+      "source_url": "https://carlosedu.gumroad.com/l/tpejxa",
+      "description": "",
+      "tags": [
+        "videogames",
+        "mortal-kombat"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--swimsuit-black-cat-3d-print",
+      "slug": "swimsuit-black-cat-3d-print",
+      "title": "Swimsuit Black Cat 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/awkebjwb1c896id1f3cnzngox926",
+      "source_url": "https://carlosedu.gumroad.com/l/hzchwk",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--sypha-belnades-3d-print",
+      "slug": "sypha-belnades-3d-print",
+      "title": "Sypha Belnades 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/q9foe9f5stlivusrumwjgwph0scv",
+      "source_url": "https://carlosedu.gumroad.com/l/eqcgaq",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--the-queen-3d-print",
+      "slug": "the-queen-3d-print",
+      "title": "The Queen 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/admzvkbdndrwv8ks904m0bva87eg",
+      "source_url": "https://carlosedu.gumroad.com/l/wilqn",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "carlos-edu--vampire-countess-3d-print",
+      "slug": "vampire-countess-3d-print",
+      "title": "Vampire Countess 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/4j3ds4fd2vcdponcircriau7nzbr",
+      "source_url": "https://carlosedu.gumroad.com/l/kozkukv",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-01T13:25:49.836Z"
     }
   ]
 }
