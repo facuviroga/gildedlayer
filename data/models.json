@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T13:25:49.836Z",
-  "new_count": 32,
-  "count": 3000,
+  "generated_at": "2026-11-02T15:54:35.044Z",
+  "new_count": 1,
+  "count": 3001,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -1217,6 +1217,20 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "zenith-collectibles--jason-duval-3d-print",
+      "slug": "jason-duval-3d-print",
+      "title": "JASON DUVAL 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/rbu8egmpeyil9nhkoy0065in8zip",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/sndxis",
+      "description": "",
+      "tags": [
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-02T15:54:35.044Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
