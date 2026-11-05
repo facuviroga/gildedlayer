@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T14:32:58.004Z",
-  "new_count": 0,
-  "count": 3001,
+  "generated_at": "2026-11-05T14:40:07.500Z",
+  "new_count": 1,
+  "count": 3002,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -26606,6 +26606,21 @@
       ],
       "featured": false,
       "first_seen": "2026-10-28T12:56:01.065Z"
+    },
+    {
+      "id": "kaidan-3d--slifer-the-sky-dragon-yu-gi-oh-stl-ready-for-3d-printing",
+      "slug": "slifer-the-sky-dragon-yu-gi-oh-stl-ready-for-3d-printing",
+      "title": "Slifer The Sky Dragon YU-GI-OH! - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/uyvr2a1e5gbvw74lm0az21rl6iv4",
+      "source_url": "https://kaidan3d.gumroad.com/l/djmrsk",
+      "description": "",
+      "tags": [
+        "anime",
+        "yugioh"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-05T14:40:07.500Z"
     },
     {
       "id": "kaidan-3d--young-minato-naruto-stl-ready-for-3d-printing",
