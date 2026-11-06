@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-11-05T14:40:07.500Z",
+  "generated_at": "2026-11-06T14:16:50.123Z",
   "new_count": 1,
-  "count": 3002,
+  "count": 3003,
   "excluded_count": 43,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--scrat-3d-print",
+      "slug": "scrat-3d-print",
+      "title": "SCRAT 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/msgznydq28wdc6ep8e2dq5bt8ahp",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/cykgzj",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-06T14:16:50.123Z"
+    },
+    {
+      "id": "zenith-collectibles--jason-duval-3d-print",
+      "slug": "jason-duval-3d-print",
+      "title": "JASON DUVAL 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/rbu8egmpeyil9nhkoy0065in8zip",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/sndxis",
+      "description": "",
+      "tags": [
+        "horror"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-02T15:54:35.044Z"
+    },
     {
       "id": "zenith-collectibles--freddy-fazbear-3d-print",
       "slug": "freddy-fazbear-3d-print",
@@ -1217,20 +1243,6 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--jason-duval-3d-print",
-      "slug": "jason-duval-3d-print",
-      "title": "JASON DUVAL 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/rbu8egmpeyil9nhkoy0065in8zip",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/sndxis",
-      "description": "",
-      "tags": [
-        "horror"
-      ],
-      "featured": false,
-      "first_seen": "2026-11-02T15:54:35.044Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
