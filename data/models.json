@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T13:01:46.468Z",
-  "new_count": 13,
-  "count": 3016,
+  "generated_at": "2026-11-08T13:25:36.725Z",
+  "new_count": 1,
+  "count": 3017,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -26603,6 +26603,21 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "kaidan-3d--iguro-obanai-demon-slayer-stl-ready-for-3d-printing",
+      "slug": "iguro-obanai-demon-slayer-stl-ready-for-3d-printing",
+      "title": "Iguro Obanai DEMON SLAYER  - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/nwj49j9c6ba6ohzkao5dzsct349t",
+      "source_url": "https://kaidan3d.gumroad.com/l/hzekwf",
+      "description": "",
+      "tags": [
+        "anime",
+        "demon-slayer"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-08T13:25:36.725Z"
     },
     {
       "id": "kaidan-3d--blood-chains-ichigo-bleach-stl-ready-for-3d-printing",
