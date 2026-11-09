@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T13:25:36.725Z",
+  "generated_at": "2026-11-09T16:20:39.157Z",
   "new_count": 1,
-  "count": 3017,
+  "count": 3018,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -20754,6 +20754,21 @@
       ],
       "featured": false,
       "first_seen": "2026-10-11T12:51:23.577Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-titan-joker-sculpture-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-titan-joker-sculpture-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Titan Joker Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/60y7a8j3krb4yf70sg8oh7z8rmuf",
+      "source_url": "https://b3dserk.gumroad.com/l/TitanJokerS",
+      "description": "",
+      "tags": [
+        "dc",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-09T16:20:39.157Z"
     },
     {
       "id": "b3dserk--b3dserk-october-term-2026-black-hand-sculpture-ready-for-printing",
