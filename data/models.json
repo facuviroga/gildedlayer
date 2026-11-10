@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T16:20:39.157Z",
+  "generated_at": "2026-11-10T14:53:48.244Z",
   "new_count": 1,
-  "count": 3018,
+  "count": 3019,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -4356,7 +4356,7 @@
       "slug": "wicked-marvel-iron-man-sculpture-tested-and-ready-for-3d-printing",
       "title": "Wicked Marvel Iron Man Sculpture: Tested and ready for 3d printing",
       "creator": "3D Wicked",
-      "image": "https://public-files.gumroad.com/m6udge9h9qyux1w1xrgk332ej9or",
+      "image": "https://public-files.gumroad.com/s3a36rf0gnpimeh1rsfp779cmplt",
       "source_url": "https://3dwicked.gumroad.com/l/IronManSS",
       "description": "",
       "tags": [
@@ -20783,6 +20783,21 @@
       ],
       "featured": false,
       "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-titan-joker-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-titan-joker-portrait-bust-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Titan Joker Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/lqse0eka4mznpzq253l73fwjwusi",
+      "source_url": "https://b3dserk.gumroad.com/l/TitanJokerPB",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-10T14:53:48.244Z"
     },
     {
       "id": "b3dserk--b3dserk-october-term-2026-hawkgirl-dc-zombie-portrait-bust-ready-for-printing",
