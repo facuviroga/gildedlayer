@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T14:53:48.244Z",
-  "new_count": 1,
-  "count": 3019,
+  "generated_at": "2026-11-11T14:23:47.042Z",
+  "new_count": 2,
+  "count": 3021,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -1243,6 +1243,21 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "zenith-collectibles--scorpion-3d-print",
+      "slug": "scorpion-3d-print",
+      "title": "SCORPION 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/34e5rzsgqpfb6l6fwavc5oy4h2oq",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/wxkji",
+      "description": "",
+      "tags": [
+        "videogames",
+        "mortal-kombat"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-11T14:23:47.042Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -17785,6 +17800,21 @@
       "first_seen": "2026-11-01T13:25:49.836Z"
     },
     {
+      "id": "zez-collectibles--batgirl-stl-bust",
+      "slug": "batgirl-stl-bust",
+      "title": "BATGIRL STL + BUST",
+      "creator": "Zez Collectibles",
+      "image": "https://public-files.gumroad.com/c40xw3qcbe1h8b0o7p41t5npxjrh",
+      "source_url": "https://zezcollectibles.gumroad.com/l/batgirl",
+      "description": "",
+      "tags": [
+        "dc",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-11T14:23:47.042Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -18554,7 +18584,7 @@
       "slug": "dante-october-2026",
       "title": "Dante - October 2026",
       "creator": "Rechtag Studio",
-      "image": "https://public-files.gumroad.com/cj8ugcm22oyxfpg47q0fuvgxoxyt",
+      "image": "https://public-files.gumroad.com/3z39eu3rcz7jhwe9w1a6ei2cr1q2",
       "source_url": "https://rechtagstudio.gumroad.com/l/dante",
       "description": "",
       "tags": [
