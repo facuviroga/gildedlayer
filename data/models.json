@@ -1,10 +1,25 @@
 {
-  "generated_at": "2026-11-11T14:23:47.042Z",
-  "new_count": 2,
+  "generated_at": "2026-11-12T15:16:17.745Z",
+  "new_count": 0,
   "count": 3021,
   "excluded_count": 43,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--scorpion-3d-print",
+      "slug": "scorpion-3d-print",
+      "title": "SCORPION 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/34e5rzsgqpfb6l6fwavc5oy4h2oq",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/wxkji",
+      "description": "",
+      "tags": [
+        "videogames",
+        "mortal-kombat"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-11T14:23:47.042Z"
+    },
     {
       "id": "zenith-collectibles--scrat-3d-print",
       "slug": "scrat-3d-print",
@@ -1243,21 +1258,6 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "zenith-collectibles--scorpion-3d-print",
-      "slug": "scorpion-3d-print",
-      "title": "SCORPION 3D PRINT",
-      "creator": "Zenith Collectibles",
-      "image": "https://public-files.gumroad.com/34e5rzsgqpfb6l6fwavc5oy4h2oq",
-      "source_url": "https://zenithcollectibles.gumroad.com/l/wxkji",
-      "description": "",
-      "tags": [
-        "videogames",
-        "mortal-kombat"
-      ],
-      "featured": false,
-      "first_seen": "2026-11-11T14:23:47.042Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
