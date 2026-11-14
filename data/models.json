@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T14:35:36.074Z",
-  "new_count": 0,
-  "count": 3021,
+  "generated_at": "2026-11-14T13:32:08.694Z",
+  "new_count": 1,
+  "count": 3022,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -2598,7 +2598,7 @@
       "slug": "wicked-marvel-iron-man-and-tony-stark-sculptures-diorama-complete-tested-and-rea",
       "title": "Wicked Marvel Iron Man and Tony Stark Sculptures DIORAMA COMPLETE: Tested and ready for 3d printing",
       "creator": "3D Wicked",
-      "image": "https://public-files.gumroad.com/ulsv1jg1pdqubzagrb1dapmf896x",
+      "image": "https://public-files.gumroad.com/p46wvkl4ufu6pyiu177igh6nu3z3",
       "source_url": "https://3dwicked.gumroad.com/l/IronTonyS",
       "description": "",
       "tags": [
@@ -2629,7 +2629,7 @@
       "slug": "wicked-marvel-iron-man-2023-sculpture-tested-and-ready-for-3d-printing",
       "title": "Wicked Marvel Iron Man 2023 Sculpture: Tested and ready for 3d printing",
       "creator": "3D Wicked",
-      "image": "https://public-files.gumroad.com/9s137qgv2evkjk280xdrdt7adkd3",
+      "image": "https://public-files.gumroad.com/6h9bwu61e6u9sq5rkoz5qn66xkgl",
       "source_url": "https://3dwicked.gumroad.com/l/IronMan2023",
       "description": "",
       "tags": [
@@ -4355,7 +4355,7 @@
       "slug": "wicked-marvel-iron-man-bust-tested-and-ready-for-3d-printing",
       "title": "Wicked Marvel Iron Man Bust: Tested and ready for 3d printing",
       "creator": "3D Wicked",
-      "image": "https://public-files.gumroad.com/gm6fyb62our3i364556sdqesz23z",
+      "image": "https://public-files.gumroad.com/cog8cfmoyvqiwrrw7xmzn5hi7mf1",
       "source_url": "https://3dwicked.gumroad.com/l/IronMB",
       "description": "",
       "tags": [
@@ -20828,6 +20828,20 @@
       ],
       "featured": false,
       "first_seen": "2026-11-10T14:53:48.244Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-black-hand-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-black-hand-portrait-bust-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Black Hand Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/t6j4glkxzgm1l1c2wdx0jlzcpuje",
+      "source_url": "https://b3dserk.gumroad.com/l/BlackHandPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-14T13:32:08.694Z"
     },
     {
       "id": "b3dserk--b3dserk-october-term-2026-hawkgirl-dc-zombie-portrait-bust-ready-for-printing",
