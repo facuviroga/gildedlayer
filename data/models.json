@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-11-14T13:32:08.694Z",
+  "generated_at": "2026-11-15T13:56:34.092Z",
   "new_count": 1,
-  "count": 3022,
+  "count": 3023,
   "excluded_count": 43,
   "errors": [],
   "models": [
+    {
+      "id": "zenith-collectibles--tyson-granger-bayblade-3d-print",
+      "slug": "tyson-granger-bayblade-3d-print",
+      "title": "TYSON GRANGER BAYBLADE 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/35iy4unpz50bzrttg3m9hwe735m9",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/oodcnd",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-15T13:56:34.092Z"
+    },
     {
       "id": "zenith-collectibles--scorpion-3d-print",
       "slug": "scorpion-3d-print",
