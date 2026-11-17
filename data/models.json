@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T15:48:20.364Z",
-  "new_count": 0,
-  "count": 3023,
+  "generated_at": "2026-11-17T16:00:07.471Z",
+  "new_count": 6,
+  "count": 3029,
   "excluded_count": 43,
   "errors": [],
   "models": [
@@ -26721,6 +26721,92 @@
       "first_seen": "2026-10-28T12:56:01.065Z"
     },
     {
+      "id": "kaidan-3d--link-zelda-stl-ready-for-3d-printing",
+      "slug": "link-zelda-stl-ready-for-3d-printing",
+      "title": "Link ZELDA - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/amb9vqk747zlz11nzr01d4x8x9ve",
+      "source_url": "https://kaidan3d.gumroad.com/l/wtwvj",
+      "description": "",
+      "tags": [
+        "videogames",
+        "zelda"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-17T16:00:07.471Z"
+    },
+    {
+      "id": "kaidan-3d--tuxedo-mask-sailor-moon-stl-ready-for-3d-printing",
+      "slug": "tuxedo-mask-sailor-moon-stl-ready-for-3d-printing",
+      "title": "Tuxedo Mask SAILOR MOON - STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/wdo9y76s9eon6u6964jy6abwyed0",
+      "source_url": "https://kaidan3d.gumroad.com/l/iwglb",
+      "description": "",
+      "tags": [
+        "sailor-moon",
+        "anime"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-17T16:00:07.471Z"
+    },
+    {
+      "id": "kaidan-3d--acnologia-fairy-tail-stl-ready-for-3d-printing",
+      "slug": "acnologia-fairy-tail-stl-ready-for-3d-printing",
+      "title": "Acnologia FAIRY TAIL -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/1lufx1mqiw38zbak4sp6p1kxbdim",
+      "source_url": "https://kaidan3d.gumroad.com/l/zzfcck",
+      "description": "",
+      "tags": [
+        "anime",
+        "fairy-tail"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-17T16:00:07.471Z"
+    },
+    {
+      "id": "kaidan-3d--lemillion-my-hero-academia-stl-ready-for-3d-printing",
+      "slug": "lemillion-my-hero-academia-stl-ready-for-3d-printing",
+      "title": "Lemillion MY HERO ACADEMIA -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/jxq1zspw60thuu4rolhxm4dlow5l",
+      "source_url": "https://kaidan3d.gumroad.com/l/csyspy",
+      "description": "",
+      "tags": [
+        "anime",
+        "my-hero-academia"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-17T16:00:07.471Z"
+    },
+    {
+      "id": "kaidan-3d--ghost-trio-pokemon-stl-ready-for-3d-printing",
+      "slug": "ghost-trio-pokemon-stl-ready-for-3d-printing",
+      "title": "Ghost Trio POKEMON -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/pdu4esmk8sux8rlioq9r2x0aw1vt",
+      "source_url": "https://kaidan3d.gumroad.com/l/bkyddq",
+      "description": "",
+      "tags": [
+        "pokemon"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-17T16:00:07.471Z"
+    },
+    {
+      "id": "kaidan-3d--alien-queen-alien-stl-ready-for-3d-printing",
+      "slug": "alien-queen-alien-stl-ready-for-3d-printing",
+      "title": "Alien Queen ALIEN -  STL Ready for 3D Printing",
+      "creator": "Kaidan 3D",
+      "image": "https://public-files.gumroad.com/ld3u5tutow2zuw86p50g7lzza9kp",
+      "source_url": "https://kaidan3d.gumroad.com/l/hnrwdq",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-17T16:00:07.471Z"
+    },
+    {
       "id": "kaidan-3d--slifer-the-sky-dragon-yu-gi-oh-stl-ready-for-3d-printing",
       "slug": "slifer-the-sky-dragon-yu-gi-oh-stl-ready-for-3d-printing",
       "title": "Slifer The Sky Dragon YU-GI-OH! - STL Ready for 3D Printing",
@@ -29076,7 +29162,7 @@
       "slug": "noelle-silva-saint-valkyrie-dress-black-clover-stl-ready-for-3d-printing",
       "title": "Noelle Silva Saint Valkyrie Dress BLACK CLOVER - STL Ready for 3D Printing",
       "creator": "Kaidan 3D",
-      "image": "https://public-files.gumroad.com/7ynir50wk5803dylhynzzkfc8ko6",
+      "image": "https://public-files.gumroad.com/ebtvfyhdt1zn94z0r3e2qrk85f5b",
       "source_url": "https://kaidan3d.gumroad.com/l/hawxn",
       "description": "",
       "tags": [
