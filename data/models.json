@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T15:40:35.570Z",
-  "new_count": 0,
-  "count": 2864,
+  "generated_at": "2026-11-19T15:45:13.725Z",
+  "new_count": 1,
+  "count": 2865,
   "excluded_count": 41,
   "errors": [
     "[Zez Collectibles] missing #app[data-page] (Gumroad page shape changed?)"
@@ -18359,6 +18359,20 @@
       ],
       "featured": false,
       "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-metalo-sculpture-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-metalo-sculpture-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Metalo Sculpture ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/1jyuzmc8b5i97owv3ts8tw4nydwj",
+      "source_url": "https://b3dserk.gumroad.com/l/MetaloS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-19T15:45:13.725Z"
     },
     {
       "id": "b3dserk--b3dserk-october-term-2026-titan-joker-portrait-bust-ready-for-printing",
