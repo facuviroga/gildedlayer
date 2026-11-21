@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-11-20T15:27:58.072Z",
-  "new_count": 0,
-  "count": 2865,
+  "generated_at": "2026-11-21T14:40:01.621Z",
+  "new_count": 4,
+  "count": 2869,
   "excluded_count": 43,
   "errors": [
     "[Zez Collectibles] missing #app[data-page] (Gumroad page shape changed?)"
   ],
   "models": [
+    {
+      "id": "zenith-collectibles--hulk-3d-print",
+      "slug": "hulk-3d-print",
+      "title": "HULK 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/x3660pyc0wn6f05yuhs7suc7kl5h",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/hwvctx",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-21T14:40:01.621Z"
+    },
     {
       "id": "zenith-collectibles--tyson-granger-bayblade-3d-print",
       "slug": "tyson-granger-bayblade-3d-print",
@@ -1272,6 +1287,20 @@
       ],
       "featured": false,
       "first_seen": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "zenith-collectibles--static-shock-3d-print",
+      "slug": "static-shock-3d-print",
+      "title": "STATIC SHOCK 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/tebdkzhnntwiq445ti4lgaam3faq",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/fsrrqr",
+      "description": "",
+      "tags": [
+        "dc"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-21T14:40:01.621Z"
     },
     {
       "id": "3d-wicked--wicked-marvel-avengers-captain-america-3d-sculpture-stl-ready-for-printing",
@@ -18402,6 +18431,20 @@
       ],
       "featured": false,
       "first_seen": "2026-11-14T13:32:08.694Z"
+    },
+    {
+      "id": "b3dserk--b3dserk-october-term-2026-metallo-portrait-bust-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-metallo-portrait-bust-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Metallo Portrait Bust ready for printing",
+      "creator": "B3DSerk",
+      "image": "https://public-files.gumroad.com/tw16yp3900zx12sasedvzy4zz8rs",
+      "source_url": "https://b3dserk.gumroad.com/l/MetaloPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-21T14:40:01.621Z"
     },
     {
       "id": "b3dserk--b3dserk-october-term-2026-hawkgirl-dc-zombie-portrait-bust-ready-for-printing",
@@ -42686,6 +42729,20 @@
       "tags": [],
       "featured": false,
       "first_seen": "2026-11-07T13:01:46.468Z"
+    },
+    {
+      "id": "carlos-edu--odin-s-farewell-to-brunhilde-3d-print",
+      "slug": "odin-s-farewell-to-brunhilde-3d-print",
+      "title": "Odin's farewell to Brunhilde 3D Print",
+      "creator": "Carlos Edu",
+      "image": "https://public-files.gumroad.com/w7edc03flih61l4g2l0x9ldfl6l1",
+      "source_url": "https://carlosedu.gumroad.com/l/nlcoq",
+      "description": "",
+      "tags": [
+        "marvel"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-21T14:40:01.621Z"
     }
   ]
 }
