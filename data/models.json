@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T14:40:01.621Z",
-  "new_count": 4,
-  "count": 2869,
+  "generated_at": "2026-11-22T14:35:27.695Z",
+  "new_count": 5,
+  "count": 2874,
   "excluded_count": 43,
   "errors": [
     "[Zez Collectibles] missing #app[data-page] (Gumroad page shape changed?)"
@@ -15388,6 +15388,84 @@
       ],
       "featured": false,
       "first_seen": "2026-11-01T13:25:49.836Z"
+    },
+    {
+      "id": "3d-wicked--wicked-october-2026-term-hulk-vs-spiderman-diorama-tested-and-ready-for-3d-print",
+      "slug": "wicked-october-2026-term-hulk-vs-spiderman-diorama-tested-and-ready-for-3d-print",
+      "title": "Wicked October 2026 Term Hulk VS Spiderman Diorama: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/t9p3wswmioduf3n0mfvrrrj1eslj",
+      "source_url": "https://3dwicked.gumroad.com/l/HulkVSSpidermanD",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-22T14:35:27.695Z"
+    },
+    {
+      "id": "3d-wicked--wicked-october-2026-term-hulk-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-october-2026-term-hulk-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked October 2026 Term Hulk Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/z5i79tg16fw4t3d6k2wylzlzhne9",
+      "source_url": "https://3dwicked.gumroad.com/l/Hulk20261",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-22T14:35:27.695Z"
+    },
+    {
+      "id": "3d-wicked--wicked-october-2026-term-spiderman-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-october-2026-term-spiderman-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked October 2026 Term Spiderman Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/9w021kjbchuc8ky935z0rvvykdm0",
+      "source_url": "https://3dwicked.gumroad.com/l/Spiderman20261",
+      "description": "",
+      "tags": [
+        "marvel",
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-22T14:35:27.695Z"
+    },
+    {
+      "id": "3d-wicked--wicked-october-2026-term-hulk-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-october-2026-term-hulk-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked October 2026 Term Hulk Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/a9jd55it9xqx3h9jziplaoybqj83",
+      "source_url": "https://3dwicked.gumroad.com/l/HulkB20261",
+      "description": "",
+      "tags": [
+        "marvel",
+        "avengers",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-22T14:35:27.695Z"
+    },
+    {
+      "id": "3d-wicked--wicked-october-2026-term-spiderman-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-october-2026-term-spiderman-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked October 2026 Term Spiderman Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/p8erlotejdjlvktf4gi5ytosgifm",
+      "source_url": "https://3dwicked.gumroad.com/l/SpidermanB",
+      "description": "",
+      "tags": [
+        "marvel",
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-22T14:35:27.695Z"
     },
     {
       "id": "rechtag-studio--batman-who-laughs",
