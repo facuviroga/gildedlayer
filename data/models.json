@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T18:10:07.512Z",
+  "generated_at": "2026-11-24T17:46:08.478Z",
   "new_count": 0,
   "count": 2874,
-  "excluded_count": 43,
+  "excluded_count": 42,
   "errors": [
     "[Zez Collectibles] missing #app[data-page] (Gumroad page shape changed?)"
   ],
