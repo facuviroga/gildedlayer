@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T17:14:43.722Z",
-  "new_count": 1,
-  "count": 2492,
+  "generated_at": "2026-11-26T16:54:53.560Z",
+  "new_count": 2,
+  "count": 2494,
   "excluded_count": 42,
   "errors": [
     "[Zez Collectibles] missing #app[data-page] (Gumroad page shape changed?)",
@@ -15467,6 +15467,34 @@
       ],
       "featured": false,
       "first_seen": "2026-11-22T14:35:27.695Z"
+    },
+    {
+      "id": "3d-wicked--wicked-october-2026-term-frankencastle-sculpture-tested-and-ready-for-3d-printin",
+      "slug": "wicked-october-2026-term-frankencastle-sculpture-tested-and-ready-for-3d-printin",
+      "title": "Wicked October 2026 Term Frankencastle Sculpture: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/bbwddztd0m5ed4pvdfo6qfpdzl7c",
+      "source_url": "https://3dwicked.gumroad.com/l/FrankencastleS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-26T16:54:53.560Z"
+    },
+    {
+      "id": "3d-wicked--wicked-october-2026-term-frankencastle-portrait-bust-tested-and-ready-for-3d-pri",
+      "slug": "wicked-october-2026-term-frankencastle-portrait-bust-tested-and-ready-for-3d-pri",
+      "title": "Wicked October 2026 Term Frankencastle Portrait Bust: Tested and ready for 3D printing",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/041x5ax1xi7rg3k6e1q2k5i6l3zw",
+      "source_url": "https://3dwicked.gumroad.com/l/FrankencastlePortraitBust",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-26T16:54:53.560Z"
     },
     {
       "id": "rechtag-studio--batman-who-laughs",
