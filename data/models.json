@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T16:54:53.560Z",
-  "new_count": 2,
-  "count": 2494,
-  "excluded_count": 42,
+  "generated_at": "2026-11-27T16:40:38.394Z",
+  "new_count": 5,
+  "count": 2498,
+  "excluded_count": 43,
   "errors": [
     "[Zez Collectibles] missing #app[data-page] (Gumroad page shape changed?)",
     "[Tanuki Figures] missing #app[data-page] (Gumroad page shape changed?)"
@@ -15497,6 +15497,62 @@
       "first_seen": "2026-11-26T16:54:53.560Z"
     },
     {
+      "id": "3d-wicked--wicked-movies-macready-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-macready-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies MacReady Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/yap7faftlmvufiuchpne2ghoh3gs",
+      "source_url": "https://3dwicked.gumroad.com/l/MacReadyS",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-27T16:40:38.394Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-blair-the-thing-sculpture-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-blair-the-thing-sculpture-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Blair The Thing Sculpture: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/ta6p2g6jg6caz8whv5wcwos5gkmv",
+      "source_url": "https://3dwicked.gumroad.com/l/BlairTheThing",
+      "description": "",
+      "tags": [
+        "sculptures"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-27T16:40:38.394Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-macready-portrait-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-macready-portrait-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies MacReady Portrait Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/opxaplsokw23mh447z86kly0ucaw",
+      "source_url": "https://3dwicked.gumroad.com/l/MacReadyPB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-27T16:40:38.394Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-head-spider-bust-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-head-spider-bust-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies Head Spider Bust: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/5xh4o6eaz33joqg4snw0kxrsktfj",
+      "source_url": "https://3dwicked.gumroad.com/l/HeadSpiderB",
+      "description": "",
+      "tags": [
+        "busts"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-27T16:40:38.394Z"
+    },
+    {
       "id": "rechtag-studio--batman-who-laughs",
       "slug": "batman-who-laughs",
       "title": "Batman Who Laughs",
@@ -18497,9 +18553,9 @@
       "first_seen": "2026-11-01T13:25:49.836Z"
     },
     {
-      "id": "b3dserk--b3dserk-october-term-2026-metalo-sculpture-ready-for-printing",
-      "slug": "b3dserk-october-term-2026-metalo-sculpture-ready-for-printing",
-      "title": "B3DSERK October Term 2026 Metalo Sculpture ready for printing",
+      "id": "b3dserk--b3dserk-october-term-2026-metallo-sculpture-ready-for-printing",
+      "slug": "b3dserk-october-term-2026-metallo-sculpture-ready-for-printing",
+      "title": "B3DSERK October Term 2026 Metallo Sculpture ready for printing",
       "creator": "B3DSerk",
       "image": "https://public-files.gumroad.com/1jyuzmc8b5i97owv3ts8tw4nydwj",
       "source_url": "https://b3dserk.gumroad.com/l/MetaloS",
@@ -18508,7 +18564,7 @@
         "sculptures"
       ],
       "featured": false,
-      "first_seen": "2026-11-19T15:45:13.725Z"
+      "first_seen": "2026-11-27T16:40:38.394Z"
     },
     {
       "id": "b3dserk--b3dserk-october-term-2026-titan-joker-portrait-bust-ready-for-printing",
