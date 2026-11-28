@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-11-27T16:40:38.394Z",
-  "new_count": 5,
-  "count": 2498,
+  "generated_at": "2026-11-28T15:32:11.559Z",
+  "new_count": 2,
+  "count": 2500,
   "excluded_count": 43,
   "errors": [
     "[Zez Collectibles] missing #app[data-page] (Gumroad page shape changed?)",
     "[Tanuki Figures] missing #app[data-page] (Gumroad page shape changed?)"
   ],
   "models": [
+    {
+      "id": "zenith-collectibles--l-3d-print",
+      "slug": "l-3d-print",
+      "title": "L 3D PRINT",
+      "creator": "Zenith Collectibles",
+      "image": "https://public-files.gumroad.com/8iqijedjt0k0pc3zevxbgj2doo8a",
+      "source_url": "https://zenithcollectibles.gumroad.com/l/nmpcvf",
+      "description": "",
+      "tags": [],
+      "featured": false,
+      "first_seen": "2026-11-28T15:32:11.559Z"
+    },
     {
       "id": "zenith-collectibles--hulk-3d-print",
       "slug": "hulk-3d-print",
@@ -15495,6 +15507,20 @@
       ],
       "featured": false,
       "first_seen": "2026-11-26T16:54:53.560Z"
+    },
+    {
+      "id": "3d-wicked--wicked-movies-the-thing-1982-diorama-tested-and-ready-for-3d-printing",
+      "slug": "wicked-movies-the-thing-1982-diorama-tested-and-ready-for-3d-printing",
+      "title": "Wicked Movies The Thing 1982 Diorama: Tested and ready for 3D printing ",
+      "creator": "3D Wicked",
+      "image": "https://public-files.gumroad.com/pzoyz3ewmyjo6o43wuitddudjq1m",
+      "source_url": "https://3dwicked.gumroad.com/l/TheThing1982Diorama",
+      "description": "",
+      "tags": [
+        "dioramas"
+      ],
+      "featured": false,
+      "first_seen": "2026-11-28T15:32:11.559Z"
     },
     {
       "id": "3d-wicked--wicked-movies-macready-sculpture-tested-and-ready-for-3d-printing",
